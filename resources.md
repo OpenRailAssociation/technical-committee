@@ -4,8 +4,8 @@ This is a collection of useful resources regarding the structure, organization, 
 
 ## General
 
-* [https://github.com/opengovernance/opengovernance.dev](Open Governance) - Information about open governance models for open source projects and organizations
-* [https://github.com/github/MVG](Minimum Vialble Governance) - Framework for minimal governance for open source projects
+* [Open Governance](https://github.com/opengovernance/opengovernance.dev) - Information about open governance models for open source projects and organizations
+* [Minimum Vialble Governance](https://github.com/github/MVG) - Framework for minimal governance for open source projects
 
 ## Examples
 

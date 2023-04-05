@@ -5,7 +5,7 @@ The charter of the Technical Committee (TC) has to cover the fundamental rules o
 This file is meant for tracking the progress of the draft for the charter ("·" means "to do", "✅" means "done").
 
 |Topic|Draft|Comment|Agreed
-|-|-|-
+|-|-|-|-
 |Objective|✅||·
 |Principles|✅||·
 |Composition|✅||·
