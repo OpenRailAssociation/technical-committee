@@ -30,8 +30,8 @@ This file is meant for tracking the progress of the draft for the charter ("·" 
 
 ## Open questions
 
-* Should there be a sunset period after which the TC is only formed by the projects, not by appointees of the Platinum members?
-* What happens when the chair leaves a project and is not eligible anymore?
-* Should the TC suggest projects?
-* Are there specific requirements for the members of the TC, i.e. being software engineers, being actively working on projects
-* Maintainers are busy people. Should they be members of the TC or should projects be able to send another person to the TC instead?
+* Should there be a sunset period after which the TC is only formed by the projects, not by appointees of the Platinum members? (https://github.com/OpenRailFoundation/technical-committee/pull/3)
+* What happens when the chair leaves a project and is not eligible anymore? (https://github.com/OpenRailFoundation/technical-committee/pull/4)
+* Should the TC suggest projects? (https://github.com/OpenRailFoundation/technical-committee/pull/1)
+* Are there specific requirements for the members of the TC, i.e. being software engineers, being actively working on projects (https://github.com/OpenRailFoundation/technical-committee/pull/2)
+* Maintainers are busy people. Should they be members of the TC or should projects be able to send another person to the TC instead? (https://github.com/OpenRailFoundation/technical-committee/pull/5)
