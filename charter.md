@@ -9,14 +9,14 @@ The OpenRail Foundation's Technical Committee (TC) is responsible for selecting 
 ## Principles
 
 * True to open source values - Projects shall be run according to proven open source principles and values.
-* Equal access - Projects shall be run in a way which provides equal access to all contributors. Decisions should be taken based on the merit of a contributon and the alignment with the goals of the project not based on status or affiliation of the contributors.
-* Transparency - Projects shall operate in a tranparent way. This applies to development as well as decisions around the project.
+* Equal access - Projects shall be run in a way which provides equal access to all contributors. Decisions should be taken based on the merit of a contribution and the alignment with the goals of the project not based on status or affiliation of the contributors.
+* Transparency - Projects shall operate in a transparent way. This applies to development as well as decisions around the project.
 
 ## Composition of the TC
 
 The TC is composed of:
 
-* One representative of each Platinum member. The representative of the Platinum member in the OpenRail Foundation designates the representative in the TC. The designation can be changed at any time.
+* One representative of each Platinum member. The representative of the Platinum member to the OpenRail Foundation designates the representative in the TC. The designation can be changed at any time.
 * One representative of each project hosted by the OpenRail Foundation. The representative has to be one of the maintainers of the project. If there are multiple maintainers of a project, the project designates who of the maintainers represents the project in the TC. The designation can be changed at any time.
 
 ## Chair of the TC
@@ -33,7 +33,7 @@ The TC will meet regularly to discuss proposed projects and make decisions. Meet
 
 ## Decisions
 
-The TC should strive to take decisions consensually. The default decision mechanism is the consent mechanism. If that does not result in a decision, the TC falls back to a vote, where each TC member has one vote. In case of a tie the TC Chair decides.
+The TC should strive to take decisions consensually. The default decision mechanism is consent. If that does not result in a decision, the TC falls back to a vote, where each TC member has one vote. In case of a tie the TC Chair decides.
 
 ## Incubation process 
 
@@ -45,13 +45,13 @@ Projects will be submitted to the Foundation for evaluation by the Technical Com
 
 The TC defines criteria and a process to define the maturity of a project and how a project transitions between different maturity stages. This should include:
 
-* General criteria and requirements to be fullfilled by all projects
-* Maturity stages and which specific criteria and requirements have to be fullfilled on which maturity stage
-* A procedure to retire inactive or obsolete projects
+* General criteria and requirements to be fulfilled by all projects
+* Maturity stages and which specific criteria and requirements have to be fulfilled on which maturity stage
+* A procedure to retire inactive, unmaintained, or obsolete projects
 
 ## Project guidance
 
-The committee will provide guidance to help approved projects achieve their objectives. The TC ensures that projects are run according to open governance principles and are that they respect the goals and values of the Foundation. Within these boundaries projects should have the freedom to operate independently and define their own governance. The TC provides templates and best practices to support projects to implement their governance.
+The committee will provide guidance to help approved projects achieve their objectives. The TC ensures that projects are run according to open governance principles and that they respect the goals and values of the Foundation. Within these boundaries projects should have the freedom to operate independently and define their own governance. The TC provides templates and best practices to support projects to implement their governance.
 
 Projects are required to define at least one maintainer and a procedure how this maintainer is chosen and how maintainership is transitioned when a maintainer steps away from the maintainer role.
 
