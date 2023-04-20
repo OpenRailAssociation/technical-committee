@@ -27,6 +27,8 @@ The current TC Chair is responsible for running the election of the next TC Chai
 
 Each member of the TC has one vote for electing the chair. The candidate who gets the most votes is elected as a chair. If there is a tie between multiple candidates having the same number of most votes, another round of voting is done between the candidates which are tied. This is repeated until a single candidate gets the most votes.
 
+If the Chair position is vacant, because the Chair has left the TC or for any other reason, the board of the Foundation assigns a person to run the election of a new Chair. The election should be concluded within one month.
+
 ## Meetings
 
 The TC will meet regularly to discuss proposed projects and make decisions. Meetings can be in person or online. Agendas and protocols of meetings should be made available publicly. The TC can choose to open meetings to people not being members of the TC.
