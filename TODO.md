@@ -27,3 +27,10 @@ This file is meant for tracking the progress of the draft for the charter ("·" 
 |Represent the actively contributing community of the projects hosted by the foundation;| ✅ | See rules about composition |·
 |Guarantee the efficient management of the projects in the OpenRail Foundation portfolio of projects according to the established rules and criteria, monitor them regularly in terms of costs-time-quality indicators, and report consequently to the Bord of Directors (BoD) and General Assembly (GA).|✅|See Principles and Project Life Cycle|·
 |Maintain a framework for project life cycle, providing a way to incubate projects, and to make maturity of a project transparent.|✅|See Project Life Cycle|·
+
+## Open questions
+
+* Should there be a sunset period after which the TC is only formed by the projects, not by appointees of the Platinum members?
+* What happens when the chair leaves a project and is not eligible anymore?
+* Should the TC suggest projects?
+* Are there specific requirements for the members of the TC, i.e. being software engineers, being actively working on projects
