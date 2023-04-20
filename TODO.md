@@ -34,3 +34,4 @@ This file is meant for tracking the progress of the draft for the charter ("·" 
 * What happens when the chair leaves a project and is not eligible anymore?
 * Should the TC suggest projects?
 * Are there specific requirements for the members of the TC, i.e. being software engineers, being actively working on projects
+* Maintainers are busy people. Should they be members of the TC or should projects be able to send another person to the TC instead?
