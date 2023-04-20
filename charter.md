@@ -6,6 +6,8 @@
 
 The OpenRail Foundation's Technical Committee (TC) is responsible for selecting and overseeing the Foundation's projects to ensure that they are aligned with the Foundation's goals and values. The committee works in collaboration with the Board of Directors to make informed decisions on which projects to support and provides the necessary guidance to ensure their success.
 
+Committee members are software engineers, actively designing and writing railway software.
+
 ## Principles
 
 * True to open source values - Projects shall be run according to proven open source principles and values.
