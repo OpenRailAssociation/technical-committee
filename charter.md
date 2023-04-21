@@ -17,7 +17,7 @@ The OpenRail Foundation's Technical Committee (TC) is responsible for selecting 
 The TC is composed of:
 
 * One representative of each Platinum member. The representative of the Platinum member to the OpenRail Foundation designates the representative in the TC. The designation can be changed at any time.
-* One representative of each project hosted by the OpenRail Foundation. The representative has to be one of the maintainers of the project. If there are multiple maintainers of a project, the project designates who of the maintainers represents the project in the TC. The designation can be changed at any time.
+* One representative of each project hosted by the OpenRail Foundation. The representative for each project is designated by the maintainers of the corresponsping project. The representative should be a maintainer or another active member of the project. The designation can be changed at any time.
 
 ## Chair of the TC
 
