@@ -28,13 +28,6 @@ This file is meant for tracking the progress of the draft for the charter ("·" 
 |Guarantee the efficient management of the projects in the OpenRail Foundation portfolio of projects according to the established rules and criteria, monitor them regularly in terms of costs-time-quality indicators, and report consequently to the Bord of Directors (BoD) and General Assembly (GA).|✅|See Principles and Project Life Cycle|·
 |Maintain a framework for project life cycle, providing a way to incubate projects, and to make maturity of a project transparent.|✅|See Project Life Cycle|·
 
-## Open questions
+## Questions
 
-* Should the TC suggest projects? (https://github.com/OpenRailFoundation/technical-committee/pull/1)
-
-## Decided questions
-
-* Should there be a sunset period after which the TC is only formed by the projects, not by appointees of the Platinum members? (https://github.com/OpenRailFoundation/technical-committee/pull/3) (Closed)
-* What happens when the chair leaves a project and is not eligible anymore? (https://github.com/OpenRailFoundation/technical-committee/pull/4) (Applied)
-* Are there specific requirements for the members of the TC, i.e. being software engineers, being actively working on projects (https://github.com/OpenRailFoundation/technical-committee/pull/2) (Closed)
-* Maintainers are busy people. Should they be members of the TC or should projects be able to send another person to the TC instead? (https://github.com/OpenRailFoundation/technical-committee/pull/5) (Applied)
+Open questions and their resolution are tracked as issued and pull request on GitHub as a milestone: https://github.com/OpenRailFoundation/technical-committee/milestone/1
