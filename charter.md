@@ -21,7 +21,7 @@ The TC is composed of:
 
 ## Chair of the TC
 
-The Chair of the TC is elected once a year from among the TC members. The Chair is responsible for ensuring that meetings are conducted according to the rules described below, and for communicating the decisions made at these meetings to the Board and the wider Openrail Foundation community.
+The Chair of the TC is elected once a year from among the TC members. The Chair is responsible for ensuring that meetings are conducted according to the rules described below, and for communicating the decisions made at these meetings to the Board and the wider Openrail Foundation community. The Chair is representing the Technical Committee as a whole, which means all projects in the Foundation, not only a particular project.
 
 The current TC Chair is responsible for running the election of the next TC Chair and remains responsible for the TC Chair duties until the next TC Chair is elected.
 
