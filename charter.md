@@ -4,9 +4,9 @@
 
 ## Objectives
 
-The OpenRail Foundation's Technical Committee (TC) is responsible for suggesting, selecting and overseeing the Foundation's projects to ensure that they are aligned with the Foundation's goals and values. The committee works in collaboration with the Board of Directors to make informed decisions on which projects to support and provides the necessary guidance to ensure their success.
+The OpenRail Foundation's Technical Committee (TC) is responsible for selecting and overseeing the Foundation's projects to ensure that they are aligned with the Foundation's goals and values. The committee works in collaboration with the Board of Directors to make informed decisions on which projects to support and provides the necessary guidance to ensure their success.
 
-The technical committee may suggest new software infrastructure projects for the benefit of the OpenRail community. These projects aim to facilitate interoperability and build common tools.
+The Technical Committee is also responsible for the necessary software and service infrastrucure for code hosting and other common tools to facilitate open source collaboration. It may delegate operation but shall be reponsible for overseeing the overall management of such tools.
 
 ## Principles
 
