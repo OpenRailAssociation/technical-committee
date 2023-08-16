@@ -37,7 +37,7 @@ The TC will meet regularly to discuss proposed projects and make decisions. Meet
 
 ## Decisions
 
-The TC should strive to take decisions consensually. The default decision mechanism is consent. If that does not result in a decision, the TC falls back to a vote, where each TC member has one vote. In case of a tie the TC Chair decides.
+The TC should strive to make decisions consensually. The default decision mechanism is consent. If that does not result in a decision, the TC falls back to a vote, where each TC member has one vote. In case of a tie the TC Chair decides.
 
 ## Incubation process 
 
