@@ -5,7 +5,7 @@
 The project is candidate. The foundation proceeds to compliance, business and technical evaluation.
 
 ### Compliance evaluation: 
--	The project provides all the documents (CoC, governance, License, …)
+-	The project provides all the documents (IP, CoC, License, …)
 -	The TC check that the project is compliant with the ORF rules.
 
 ### Business evaluation
@@ -20,6 +20,7 @@ The project is candidate. The foundation proceeds to compliance, business and te
   - …
 -	The project describes all the stack.
 -	The project describes the architecture of the software.
+-	The project describes its governance
 
 ## TC evaluation and advice to the Board of Directors
 The evaluation has to be done for each version of the project.
