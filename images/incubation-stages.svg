@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="228mm"
+   height="108mm"
+   viewBox="0 0 228 108"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="incubation-stages.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1820"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1818" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1786"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1784" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1419" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1443" />
+    </marker>
+    <rect
+       x="17.322247"
+       y="69.485817"
+       width="31.658297"
+       height="25.866396"
+       id="rect880" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="523.06001"
+     inkscape:cy="389.16316"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     width="296mm"
+     inkscape:window-width="1854"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect833"
+       width="34.269291"
+       height="20.185621"
+       x="34.866684"
+       y="46.168125" />
+    <rect
+       style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect833-6"
+       width="34.269291"
+       height="20.185621"
+       x="179.99965"
+       y="46.168125" />
+    <rect
+       style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect833-7"
+       width="34.269291"
+       height="20.185621"
+       x="131.62209"
+       y="46.168125" />
+    <rect
+       style="opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect833-5"
+       width="34.269291"
+       height="20.185621"
+       x="83.244423"
+       y="46.168125" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.025265"
+       y="58.35004"
+       id="text876"><tspan
+         sodipodi:role="line"
+         id="tspan874"
+         x="41.025265"
+         y="58.35004"
+         style="font-size:5.64444px;stroke-width:0.264583px">Sandbox</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text878"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect880);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.23906"
+       y="58.35004"
+       id="text876-6"><tspan
+         sodipodi:role="line"
+         id="tspan874-2"
+         x="188.23906"
+         y="58.35004"
+         style="font-size:5.64444px;stroke-width:0.264583px">Retired</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.72459"
+       y="58.35004"
+       id="text876-9"><tspan
+         sodipodi:role="line"
+         id="tspan874-1"
+         x="135.72459"
+         y="58.35004"
+         style="font-size:5.64444px;stroke-width:0.264583px">Graduated</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="87.061714"
+       y="58.35004"
+       id="text876-2"><tspan
+         sodipodi:role="line"
+         id="tspan874-7"
+         x="87.061714"
+         y="58.35004"
+         style="font-size:5.64444px;stroke-width:0.264583px">Incubation</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 27.646536,29.695498 c 0.05195,49.111409 0.154259,49.207149 0.154259,49.207149 l 0.0094,0.10726"
+       id="path926" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 76.108621,29.689702 c 0.05195,49.111415 0.154259,49.207155 0.154259,49.207155 l 0.0094,0.10726"
+       id="path926-0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 124.48651,29.689967 c 0.0519,49.11141 0.15426,49.20715 0.15426,49.20715 l 0.009,0.10726"
+       id="path926-9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 172.86412,29.689967 c 0.052,49.11141 0.15426,49.20715 0.15426,49.20715 l 0.009,0.10726"
+       id="path926-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:0;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.346502"
+       y="85.857986"
+       id="text957"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:134.7%;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1293"
+         x="12.346502"
+         y="85.857986">Low Barrier</tspan><tspan
+         style="font-size:3.52778px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1295"
+         x="12.346502"
+         y="90.609909">Project meets</tspan><tspan
+         style="font-size:3.52778px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1297"
+         x="12.346502"
+         y="95.361824">minimum requirements</tspan><tspan
+         sodipodi:role="line"
+         x="12.346502"
+         y="102.03857"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan961" /><tspan
+         sodipodi:role="line"
+         x="12.346502"
+         y="108.14656"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan963" /><tspan
+         sodipodi:role="line"
+         x="12.346502"
+         y="111.20055"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan959" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:0;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.6366"
+       y="85.896751"
+       id="text957-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;line-height:134.7%;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1293-0"
+         x="60.6366"
+         y="85.896751">Significant Barrier</tspan><tspan
+         style="font-size:3.52777px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1297-2"
+         x="60.6366"
+         y="90.648659">Project has adopted</tspan><tspan
+         style="font-size:3.52777px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         x="60.6366"
+         y="95.400566"
+         id="tspan1334">main OpenRail criteria</tspan><tspan
+         sodipodi:role="line"
+         x="60.6366"
+         y="102.07731"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan961-6" /><tspan
+         sodipodi:role="line"
+         x="60.6366"
+         y="108.1853"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan963-1" /><tspan
+         sodipodi:role="line"
+         x="60.6366"
+         y="111.23929"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan959-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:0;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.64483"
+       y="85.86058"
+       id="text957-6-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;line-height:134.7%;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1293-0-9"
+         x="108.64483"
+         y="85.86058">Evolutionary Step</tspan><tspan
+         style="font-size:3.52777px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         x="108.64483"
+         y="90.612488"
+         id="tspan1334-0">Project is recognized</tspan><tspan
+         style="font-size:3.52777px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         x="108.64483"
+         y="95.364395"
+         id="tspan1373">as mature project</tspan><tspan
+         sodipodi:role="line"
+         x="108.64483"
+         y="102.04114"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan961-6-2" /><tspan
+         sodipodi:role="line"
+         x="108.64483"
+         y="108.14912"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan963-1-3" /><tspan
+         sodipodi:role="line"
+         x="108.64483"
+         y="111.20312"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan959-8-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:0;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.39662"
+       y="85.86058"
+       id="text957-6-7-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;line-height:134.7%;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.264583px"
+         sodipodi:role="line"
+         id="tspan1293-0-9-9"
+         x="159.39662"
+         y="85.86058">Evolutionary Step</tspan><tspan
+         style="font-size:3.52777px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         x="159.39662"
+         y="90.612488"
+         id="tspan1334-0-2">Project is not longer</tspan><tspan
+         style="font-size:3.52777px;line-height:134.7%;stroke-width:0.264583px"
+         sodipodi:role="line"
+         x="159.39662"
+         y="95.364395"
+         id="tspan1373-2">actively developed</tspan><tspan
+         sodipodi:role="line"
+         x="159.39662"
+         y="102.04114"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan961-6-2-8" /><tspan
+         sodipodi:role="line"
+         x="159.39662"
+         y="108.14912"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan963-1-3-9" /><tspan
+         sodipodi:role="line"
+         x="159.39662"
+         y="111.20312"
+         style="line-height:78.7%;stroke-width:0.264583px"
+         id="tspan959-8-7-7" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1820)"
+       d="M 69.135975,56.260935 H 83.244423"
+       id="path1756"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect833"
+       inkscape:connection-end="#rect833-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1786)"
+       d="m 117.51371,56.260935 h 14.10838"
+       id="path1760"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect833-5"
+       inkscape:connection-end="#rect833-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 165.89138,56.260935 h 14.10827"
+       id="path1762"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect833-7"
+       inkscape:connection-end="#rect833-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="9.5727482"
+       y="16.133774"
+       id="text1860"><tspan
+         sodipodi:role="line"
+         id="tspan1858"
+         x="9.5727482"
+         y="16.133774"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0.264583px">Stages of incubation process</tspan></text>
+  </g>
+</svg>
