@@ -1,6 +1,6 @@
 # Charter of the Technical Committee of the OpenRail Association
 
-*This is a draft*
+*Version 0.9 - Final draft to be validated by the board of directors*
 
 ## Objectives
 
