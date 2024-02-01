@@ -49,7 +49,6 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 
 *Examples from CNCF incubation process, to be adopted*
 
-* Document that it is being used successfully in production by at least three independent adopters which, in the TOC’s judgement, are of adequate quality and scope.
 * Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
 * Since these metrics can vary significantly depending on the type, scope and size of a project, the TOC has final judgement over the level of activity that is adequate to meet these criteria
@@ -72,7 +71,7 @@ The Graduated stage is for projects which have reached a level of hight maturity
 
 *Examples from CNCF incubation process, to be adopted*
 
-* Apply to move to Graduated using the questionnaire (to be done).
+* Document that it is being used successfully in production by at least three independent adopters which, in the TC’s judgement, are of adequate quality and scope.
 * Have committers from at least two organizations.
 * Have achieved and maintained a OpenSSF Best Practices Badge.
 * Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
