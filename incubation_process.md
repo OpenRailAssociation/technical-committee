@@ -49,7 +49,6 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 
 *Examples from CNCF incubation process, to be adopted*
 
-* Apply to move to Incubation using the questionnaire (to be done).
 * Document that it is being used successfully in production by at least three independent adopters which, in the TOC’s judgement, are of adequate quality and scope.
 * Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
@@ -57,6 +56,13 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 * A clear versioning scheme.
 * Specifications must have at least one public reference implementation.
 * Project explains the business roadmap.
+
+### Process
+
+1. Apply to move to Incubation using the questionnaire (to be done).
+2. The Technical Committee evaluates the application and works with the project to address any open issues.
+3. On a positive evaluation the Technical Committee decides to accept the project as an Incubation project.
+4. Sandbox projects can use the badge "OpenRail project (Incubation)" (to be created).
 
 ## Stage 3: Graduated
 
@@ -75,6 +81,13 @@ The Graduated stage is for projects which have reached a level of hight maturity
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
 * Please include a short one-page narrative based off the Graduation template, no more than 500 words.
 
+### Process
+
+1. Apply to move to Graduation using the questionnaire (to be done).
+2. The Technical Committee evaluates the application and works with the project to address any open issues.
+3. On a positive evaluation the Technical Committee decides to accept the project as a Graduation project.
+4. Graduation projects can use the badge "OpenRail project (Graduation)" (to be created).
+
 ## Stage 4: Retired
 
 Project that aren't developed anymore or that have been replaced by another project are moved to the Retired stage.
@@ -83,6 +96,14 @@ Project that aren't developed anymore or that have been replaced by another proj
 
 * Project has no active maintainers
 * Development activity has slowed significantly
+
+### Process
+
+1. A project requests the project to be moved to the Retired stage or the Technical Committee finds that an existing project is not active anymore.
+2. The project is noticed that it is about to be moved to the Retired stage.
+3. The project can object and provide evidence that it still is active.
+4. If there is no evidence that the project is still active the Technical Committee decides to move the project to the Retired stage.
+5. The project is clearly marked as Retired in its GitHub repository and any other relevant locations.
 
 ## References
 
