@@ -24,7 +24,7 @@ The project is candidate. The Association proceeds to compliance, business and t
 
 ## Stages
 
-Projects can be in four stages which are reflecting the maturity of the project and the rate of adoption in the OpenRail community (Sandbox, Incubation, Graduated, Retired). For each stage the project has to fullfil a set of criteria. Projects can propose to be moved from one stage to another. The TC will evaluate the proposal and decide if the project can move to the next stage.
+Projects can be in four stages which are reflecting the maturity of the project and the rate of adoption in the OpenRail community (Sandbox, Incubation, Graduated, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to another. The TC will evaluate the proposal and decide if the project can move to the next stage.
 
 ![Project lifecycle](images/incubation-stages.svg)
 
