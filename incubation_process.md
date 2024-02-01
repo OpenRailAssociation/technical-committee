@@ -1,18 +1,23 @@
 # Incubation process
+
 *This is a draft*
 
-## Funnel:
+## Funnel
+
 The project is candidate. The Association proceeds to compliance, business and technical evaluation.
 
 ### Compliance evaluation:
+
 -	The project provides all the documents (IP, CoC, License, …)
 -	The TC check that the project is compliant with the ORF rules.
 
 ### Business evaluation
+
 -	The project describes the need it fulfills, and which strategic themes are concerned by the project.
 -	The project explains the business roadmap.
 
 ### Technical evaluation
+
 -	The project describes the release plan.
 -	The project describes the version(s):
   - Is there a community version working on open data?
@@ -87,6 +92,7 @@ A community version could be accepted and not the enterprise version.
 
 ## The Board of Director validates the candidate as a project hosted by the OpenRail Association
 
+According to the statutes of the OpenRail Association Article 22 the OpenRail board finally decides about the acceptance of the project based on the decision prepared by the Technical Committee.
 
 ## Appendix
 
