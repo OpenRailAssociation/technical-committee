@@ -36,7 +36,7 @@ The Sandbox stage is the initial stage for projects being hosted by the OpenRail
 
 ### Criteria
 
-* Apply to join the Sandbox using the form
+* Apply to join the Sandbox using the [New Project Questionnaire](new_project_questionnaire.md)
 * Adopt the OpenRail Association Code of Conduct
 * Adhere to OpenRail Association IP Policy
 
@@ -92,10 +92,7 @@ A community version could be accepted and not the enterprise version.
 
 ### Template for project proposal for Sandbox stage
 
-* Project description
-* List of criteria and how the project fulfill them
-
-See https://github.com/cncf/sandbox/blob/main/.github/ISSUE_TEMPLATE/application.yml for a template as inspiration.
+See [New Project Questionnaire](new_project_questionnaire.md)
 
 ### Template for project proposal for Incubation stage
 
