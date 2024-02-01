@@ -32,17 +32,17 @@ Projects can be in four stages which are reflecting the maturity of the project 
 
 ## Sandbox
 
-The Sandbox stage is the initial stage for projects being hosted by the OpenRail Foundation. Sandbox projects meet the minimal requirements necessary for being considered to be part of the OpenRail Foundation. The Sandbox stage is meant for projects that are in an early phase and are being prepared for meeting the full criteria of the Incubation stage.
+The Sandbox stage is the initial stage for projects being hosted by the OpenRail Association. Sandbox projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association. The Sandbox stage is meant for projects that are in an early phase and are being prepared for meeting the full criteria of the Incubation stage.
 
 ### Criteria
 
 * Apply to join the Sandbox using the form
-* Adopt the OpenRail Foundation Code of Conduct
-* Adhere to OpenRail Foundation IP Policy
+* Adopt the OpenRail Association Code of Conduct
+* Adhere to OpenRail Association IP Policy
 
 ## Incubation
 
-The Incubation stage is for projects that have reached a level of maturity that indicates they are ready to be used by end users. Incubation projects meet the main criteria of the OpenRail Foundation which make sure that the project is governed openly.
+The Incubation stage is for projects that have reached a level of maturity that indicates they are ready to be used by end users. Incubation projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly.
 
 ### Criteria
 
@@ -57,7 +57,7 @@ The Incubation stage is for projects that have reached a level of maturity that 
 
 ## Graduated
 
-The Graduated stage is for projects which have reached a level of hight maturity and adoption. They are the flagship projects of the OpenRail Foundation.
+The Graduated stage is for projects which have reached a level of hight maturity and adoption. They are the flagship projects of the OpenRail Association.
 
 ### Criteria
 
@@ -85,7 +85,7 @@ Project that aren't developed anymore or that have been replaced by another proj
 The evaluation has to be done for each version of the project.
 A community version could be accepted and not the enterprise version.
 
-## The Board of Director validates the candidate as a project hosted by the OpenRail Foundation
+## The Board of Director validates the candidate as a project hosted by the OpenRail Association
 
 
 ## Appendix
