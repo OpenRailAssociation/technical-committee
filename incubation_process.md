@@ -2,14 +2,14 @@
 *This is a draft*
 
 ## Funnel:
-The project is candidate. The foundation proceeds to compliance, business and technical evaluation.
+The project is candidate. The Association proceeds to compliance, business and technical evaluation.
 
 ### Compliance evaluation:
 -	The project provides all the documents (IP, CoC, License, …)
 -	The TC check that the project is compliant with the ORF rules.
 
 ### Business evaluation
--	The project describes the need it fulfils, and which strategic themes are concerned by the project.
+-	The project describes the need it fulfills, and which strategic themes are concerned by the project.
 -	The project explains the business roadmap.
 
 ### Technical evaluation
@@ -81,8 +81,9 @@ Project that aren't developed anymore or that have been replaced by another proj
 * Development activity has slowed significantly
 
 ## TC evaluation and advice to the Board of Directors
+
 The evaluation has to be done for each version of the project.
-A comuunity version could be accepted and not the enterprise version.
+A community version could be accepted and not the enterprise version.
 
 ## The Board of Director validates the candidate as a project hosted by the OpenRail Foundation
 
@@ -92,7 +93,7 @@ A comuunity version could be accepted and not the enterprise version.
 ### Template for project proposal for Sandbox stage
 
 * Project description
-* List of criteria and how the project fullfil them
+* List of criteria and how the project fulfill them
 
 See https://github.com/cncf/sandbox/blob/main/.github/ISSUE_TEMPLATE/application.yml for a template as inspiration.
 
@@ -102,4 +103,4 @@ See https://github.com/cncf/sandbox/blob/main/.github/ISSUE_TEMPLATE/application
   * Compliance
   * Technical
   * Business
-* List of criteria and how the project fullfil them
+* List of criteria and how the project fulfill them

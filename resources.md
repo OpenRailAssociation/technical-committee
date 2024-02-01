@@ -5,7 +5,7 @@ This is a collection of useful resources regarding the structure, organization, 
 ## General
 
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - Information about open governance models for open source projects and organizations
-* [Minimum Vialble Governance](https://github.com/github/MVG) - Framework for minimal governance for open source projects
+* [Minimum Viable Governance](https://github.com/github/MVG) - Framework for minimal governance for open source projects
 
 ## Examples
 
@@ -16,7 +16,7 @@ This is a collection of useful resources regarding the structure, organization, 
 * [CNCF Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/) ([Principles](https://github.com/cncf/toc/blob/main/PRINCIPLES.md), [Graduation Process](https://github.com/cncf/toc/blob/main/process/graduation_criteria.md))
 * [CNCF Lifecycle Process](https://github.com/cncf/toc/blob/main/process/README.md) - Process how the CNCF manages the lifecycle of its projects, from acceptance over gradutation to retirement
 * Cloud Foundry has a [Technical Oversight Committee](https://github.com/cloudfoundry/community/blob/main/toc/TOC.md) for cross-cutting product and design decisions
-* [LF Energy](https://www.lfenergy.org/governance/) has a three-tier governance with a governing board for business decisions, a technical advisory council for overall project coordination and technical steering committees for each project.
+* [LF Energy](https://www.lfenergy.org/governance/) has a three-tier governance with a governing board for business decisions, a [Technical Advisory Council](https://wiki.lfenergy.org/display/HOME/Technical+Advisory+Council) for overall project coordination and technical steering committees for each project. They also define a [Technical Project Lifecycle](https://wiki.lfenergy.org/display/HOME/Technical+Project+Lifecycle)
 
 ### Project governance
 
