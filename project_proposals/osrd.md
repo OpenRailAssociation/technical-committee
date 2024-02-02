@@ -40,7 +40,7 @@ https://osrd.fr/en/
   * PO giuliana.barbarino@sncf.fr
   * PO youssef.eleuch@sncf.fr
   * PO maelys.lerat@sncf.fr
-* System Architect brieuc.loussouarn@sncf.fr
+  * System Architect brieuc.loussouarn@sncf.fr
   * Lead Back ext.florian.amsallem@sncf.fr
   * Lead Front nicolas.wurtz@sncf.fr
 ## How is development of the project planned and organized? Is this transparent to the public?
