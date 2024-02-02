@@ -35,7 +35,7 @@ https://osrd.fr/en/
 ## What is the project's leadership team and decision-making process?
 * Leadership : Product management team :
   * PM loic.hamelin@sncf.fr
-  * RTE ext.constance.vercher@sncf.fr
+  * RTE ext.constance.verchere@sncf.fr
   * PO alex.rolland@sncf.fr
   * PO giuliana.barbarino@sncf.fr
   * PO youssef.eleuch@sncf.fr
