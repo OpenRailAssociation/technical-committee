@@ -7,4 +7,4 @@ This Project welcomes contributions, suggestions, and feedback. All contribution
 *Should be further filled in by the project - including defining the requirements to reach maintainer status*
 
 ---
-Based on [GitHub's Minimum Viable Governance (MVG)](https://github.com/github/MVG). Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+Based on [GitHub's Minimum Viable Governance (MVG)](https://github.com/github/MVG). Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
