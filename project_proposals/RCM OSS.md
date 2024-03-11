@@ -33,9 +33,9 @@ Swiss Federal Railways SBB
 Eclipse Public License 2.0
 
 ## What other licenses does the project use, e.g., for included 3rd-party code?
+The code (text) of the RCM DX Format specification is open-source and uses no other licenses. The viewer software to analyse data writen in the RCM DX Format is closed-source and available as freeware (binary) on the same GitHub repository. The readme file contains links to SBB example data (published as open-data). 
 
-Code is not Open Source:
-
+The viewer uses the following licences and will not be published as open-source software:
 * BSD 3
 * BSD
 * GPL v3
@@ -49,15 +49,15 @@ Code is not Open Source:
 * The BSD 2 -  Clause License
 * New BSD License (BSD)
 * LGPL
-* http:// x264licensing.co m/ Professional License
+* http://x264licensing.com/ Professional License
 * GNU LESSER GENERAL  PUBLIC  LICENSE
 * BSD 2
 * The BSD 2 - Clause License
 * Extended WPF Toolkit - Microsoft Public License
 * HDF 5 BSD-style open  source license
-* Reactive  Extensions - Microsoft  Software License Term
+* Reactive  Extensions - Microsoft Software License Term
 * HDF5DotNet - HDF5  (Hierarchical  Data Format 5)  Software Library  and Utilities
-* Microsoft .Net Library License
+* Microsoft.Net Library License
 * ReactiveUI - Microsoft Public  License
 * [CefSharp](https://raw.githubusercontent.com/cefsharp/CefSharp/master/LICENSE)
 * Oracle  Technology Network License  Agreement
@@ -74,12 +74,12 @@ Code is not Open Source:
 * New BSD License
 * Eclipse Public License 1.0
 * Proj4 - «MIT style» license
-* Domain  Time II SDK - Commercial
-* Domain Time II  Client - Commercial
-* Telerik UI for WPF - Commercial, royality-free
-* Domain  Time II SDK - Commercial
-* Domain Time II  Client - Commercial
-* SciChart - Commercial (Professional  License)
+* Domain  Time II SDK - commercial
+* Domain Time II  Client - commercial
+* Telerik UI for WPF - commercial, royality-free
+* Domain  Time II SDK - commercial
+* Domain Time II  Client - commercial
+* SciChart - commercial (Professional  License)
 
 ## Are any trademarks associated with the project?
 
@@ -132,7 +132,8 @@ Being hosted by OpenRail would makes RCM OSS a neutral project for the railway s
 
 ## Which exact repositories you would transfer to the GitHub organization of the OpenRail Association?
 
-All the public repositories
+The public repository [RCM DX Format Specification](https://github.com/SchweizerischeBundesbahnen/rcm-dx). 
+Later on, the new open-scource developed code of the RCM-DX R/W library will be added into the same repository. The closed-source code of the viewer stays in a privat SBB repository.
 
 ## How is it decided if and when a pull request is merged?
 
