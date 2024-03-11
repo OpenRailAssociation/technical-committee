@@ -6,7 +6,7 @@ RCM OSS - Rail Condition Monitoring Open Source Software
 
 ## Describe the project. What does the project do, why is it valuable, where does it come from?
 
-RCM by SBB comprises a suite of products for rail condition monitoring. Based on the open source data format RCM-DX (RCM Data eXchange), RCM enables easy accessibility and visualisation of railway diagnostic data.
+RCM by SBB comprises a suite of products for rail condition monitoring. Based on the open-source data format RCM-DX (RCM Data eXchange), RCM enables easy accessibility and visualization of railway diagnostic data.
 
 The aim of RCM OSS is to make rail condition data easy to access, store and visualize. Therefore, RCM OSS is beneficial to railway companies as well as measurement system suppliers.
 
@@ -32,7 +32,7 @@ Swiss Federal Railways SBB
 
 Eclipse Public License 2.0
 
-## What other licenses does the project use, e.g. for included 3rd party code?
+## What other licenses does the project use, e.g., for included 3rd-party code?
 
 Code is not Open Source:
 
@@ -40,7 +40,7 @@ Code is not Open Source:
 * BSD
 * GPL v3
 * Apache License 1.1 and 2.0
-* LGPLv3 with  static linking  exception
+* LGPLv3 with static linking exception
 * MPL v2
 * ISC
 * MIT
@@ -57,7 +57,7 @@ Code is not Open Source:
 * HDF 5 BSD-style open  source license
 * Reactive  Extensions - Microsoft  Software License Term
 * HDF5DotNet - HDF5  (Hierarchical  Data Format 5)  Software Library  and Utilities
-* Micorsoft .Net  Library License
+* Microsoft .Net Library License
 * ReactiveUI - Microsoft Public  License
 * [CefSharp](https://raw.githubusercontent.com/cefsharp/CefSharp/master/LICENSE)
 * Oracle  Technology Network License  Agreement
@@ -74,11 +74,11 @@ Code is not Open Source:
 * New BSD License
 * Eclipse Public License 1.0
 * Proj4 - «MIT style» license
-* Domain  Time II SDK - Commerical
-* Domain Time II  Client - Commerical
+* Domain  Time II SDK - Commercial
+* Domain Time II  Client - Commercial
 * Telerik UI for WPF - Commercial, royality-free
-* Domain  Time II SDK - Commerical
-* Domain Time II  Client - Commerical
+* Domain  Time II SDK - Commercial
+* Domain Time II  Client - Commercial
 * SciChart - Commercial (Professional  License)
 
 ## Are any trademarks associated with the project?
@@ -100,7 +100,7 @@ Leadership: Product management Team
 * Jean-Frédéric Bonjour: jean-frederic.bonjour@sbb.ch
 
 ## How is development of the project planned and organized? Is this transparent to the public?
-Github - procedure needs to be implemented - dependencies outside Github (SCS) SCS: Software Development Company on beahlf of SBB
+Github - procedure needs to be implemented - dependencies outside GitHub (SCS) SCS: Software Development Company on behalf of SBB
 
 ## What is the project's roadmap?
 
@@ -112,11 +112,11 @@ up to 2024:
 * Specification of RCM-DX format in tender in CH/EU for sourcing new diagnostic vehicles  <br>
 
 2024:
-* Publication of design for open source RCM-DX R/W library
+* Publication of design for open-source RCM-DX R/W library
 * Publication of RCM Viewer manual<br>
 
 2025:
-* RCM-DX open source RW library
+* RCM-DX open-source RW library
 
 ## What other organizations in the world should be interested in this project?
 
