@@ -12,14 +12,14 @@ SNCF Réseau, French Transportation Ministry (DGITM), European Union
 https://github.com/osrd-project
 ## What is the project's main license?
 LGPL V3 https://github.com/osrd-project/osrd?tab=LGPL-3.0-1-ov-file#readme
-## What other licenses does the project use, e.g. for included 3rd party code?
+## What other licenses does the project use, e.g., for included 3rd-party code?
 * Core :
   * MIT
   * Apache 2
   * LGPLv2
   * EPL 2.0
   * BSD 3 clause
-  * GPLv2 with classpath exemption
+  * GPLv2 with classpath exception
   * LGPL 2.1
 * Front:
   * MIT
@@ -49,7 +49,7 @@ Backlog is public in github
 ## What is the project's roadmap?
 Roadmap is not public yet
 ## What other organizations in the world should be interested in this project?
-Several Railway Companies have expresses an interest but nothing concrete for now except an experiment with another SBB tool
+Several Railway Companies have expressed an interest but nothing concrete for now except an experiment with another SBB tool
 ## Why would this project be a good candidate for inclusion in the OpenRail Association?
 OSRD deals with the core business of railway meaning design and organize the operation of railway in a detailed and realistic environment. An extension to real time is planned
 ## What is the project's plan for growing in maturity if accepted within the OpenRail Association?
@@ -57,11 +57,12 @@ Being hosted by OpenRail would makes OSRD a neutral project for the railway sect
 ## Which of the repositories in the OSRD GitHub Org would you transfer to OpenRail? All of them or only a subset?
 All the public repositories
 ## How is it decided if and when a pull request is merged?
-Actually we have an internal process which is the same for internal and external contribution :
+Actually we have an internal process which is the same for internal and external contribution:
 * Developer test on its side on local set up
-* Request for a revue of other developer
+* Request for a review of other developer(s)
+
 * Check and comment if necessary until the reviewer thinks that the PR is fine
-* Reviewer ask for a revue by a maintainer before merging
+* Reviewer ask for a review by a maintainer before merging
 ## How can someone become s committer to the project?
 For now, only the maintainers can make the final approval and merge the PR.
 ## How can someone become a maintainer of the project?
