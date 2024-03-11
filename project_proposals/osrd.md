@@ -59,7 +59,8 @@ All the public repositories
 ## How is it decided if and when a pull request is merged?
 Actually we have an internal process which is the same for internal and external contribution:
 * Developer test on its side on local set up
-* Request for a revue of other developer
+* Request for a review of other developer(s)
+
 * Check and comment if necessary until the reviewer thinks that the PR is fine
 * Reviewer ask for a review by a maintainer before merging
 ## How can someone become s committer to the project?
