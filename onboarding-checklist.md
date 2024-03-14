@@ -6,5 +6,6 @@ This checklist serves as a guide for the steps being taken when onboarding new p
 * Plan meeting with maintainers to discuss onboarding and clear expectations, and plan next steps
 * Add project representative to Technical Committee
 * Move repositories to OpenRail Association organization on GitHub
+* Move web site to GitHub Pages within the OpenRail Association organization (if separate web page exists)
 * Review repos and make sure that they have necessary files (CONTRIBUTING.md, CODE_OF_CONDUCT.md, MAINTAINERS.md, etc.) (TODO: document what the necessary files are and what should be in them)
 * Add project to web site
