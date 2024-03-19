@@ -1,25 +1,82 @@
 # Questionnaire for projects intending to join the OpenRail Association
 
-As a project intending to join the OpenRail Association, please fill out this questionnaire and send it to the Technical Committee. See the [incubation process](incubation_process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.
+*As a project intending to join the OpenRail Association, please fill out this questionnaire and send it to the Technical Committee. See the [incubation process](incubation_process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.*
 
-## Questions
+*Copy this template and fill in your answers to the questions in the sections below.*
 
-* What is the project's name?
-* Describe the project. What does the project do, why is it valuable, where does it come from?
-* Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
-* Which organizations are sponsoring/contributing to the project?
-* Where is the code hosted?
-* What is the project's main license?
-* What other licenses does the project use, e.g. for included 3rd party code?
-* Are any trademarks associated with the project?
-* Does the project have a web site? Where is it?
-* What are the communication channels the project uses (such as mailing lists, Slack, IRC, etc.)?
-* What is the project's leadership team and decision-making process?
-* How is development of the project planned and organized? Is this transparent to the public?
-* What is the project's roadmap?
-* What other organizations in the world should be interested in this project?
-* Why would this project be a good candidate for inclusion in the OpenRail Association?
-* What is the project's plan for growing in maturity if accepted within the OpenRail Association?
+##  What is the project's name?
+
+
+
+## Describe the project. What does the project do, why is it valuable, where does it come from?
+
+
+
+## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
+
+
+
+## Which organizations are sponsoring/contributing to the project?
+
+
+
+## Where is the code hosted?
+
+
+
+## Which exact repositories do you intend to  transfer to the GitHub organization of the OpenRail Association?
+
+
+
+## What is the project's main license?
+
+
+
+## What other licenses does the project use, e.g. for included 3rd party code?
+
+
+
+## Are any trademarks associated with the project?
+
+
+## Does the project have a web site? Where is it? Are you ok with moving it to be hosted by the OpenRail Association?
+
+
+
+## What are the communication channels the project uses (such as mailing lists, Slack, IRC, etc.)?
+
+
+
+## What is the project's leadership team and decision-making process?
+
+
+
+## How is it decided if and when a pull request is merged?
+
+
+## How can someone become a committer or a maintainer to/of the project?
+
+
+
+## How is development of the project planned and organized? Is this transparent to the public?
+
+
+
+## What is the project's roadmap?
+
+
+
+## What other organizations in the world should be interested in this project?
+
+
+
+## Why would this project be a good candidate for inclusion in the OpenRail Association?
+
+
+
+## What is the project's plan for growing in maturity if accepted within the OpenRail Association?
+
+
 
 ## Concluding statements
 
