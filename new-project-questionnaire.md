@@ -39,6 +39,7 @@
 ## Are any trademarks associated with the project?
 
 
+
 ## Does the project have a web site? Where is it? Are you ok with moving it to be hosted by the OpenRail Association?
 
 
@@ -52,6 +53,7 @@
 
 
 ## How is it decided if and when a pull request is merged?
+
 
 
 ## How can someone become a committer or a maintainer to/of the project?
@@ -71,6 +73,18 @@
 
 
 ## Why would this project be a good candidate for inclusion in the OpenRail Association?
+
+
+
+## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
+
+
+
+## What standards does the project implement or rely on? How are they related to other existing standards?
+
+
+
+## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
 
 
 
