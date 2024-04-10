@@ -55,14 +55,6 @@ Due to the yet compact size, there is no formal decision-making process. Everybo
 
 
 
-## How is it decided if and when a pull request is merged?
-
-
-
-## How can someone become a committer or a maintainer to/of the project?
-
-
-
 ## How is development of the project planned and organized? Is this transparent to the public?
 Agile project management is applied. Basically, the project is planned along the roadmap below which will be updated according to development of the overall DAC project and other adjacent projects. Though everybody can report issues and make pull request we encourage people who are willing to contribute to contact the maintainers in advance. This way it can be made sure that the project can proceed efficiently, and contributors’ time spent is generating as much value for the community as possible. 
 
