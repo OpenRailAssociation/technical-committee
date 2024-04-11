@@ -13,7 +13,7 @@ Within the next years around 500 K freight wagons all over Europe owned and oper
 
 
 ## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
-Initially DB Cargo (Frederik Schäfer) / DB AG  (Hanno Schülldorf, hanno.schuelldorf@deutschebahn.com), during the work process it is likely that others will join. 
+Initially DB Cargo (Frederik Schäfer) / DB AG  (Hanno Schülldorf, hanno.schuelldorf@deutschebahn.com), during the work process it is likely that others will join.
 
 
 ## Which organizations are sponsoring/contributing to the project?
@@ -45,26 +45,26 @@ Currently no website
 
 
 ## What are the communication channels the project uses (such as mailing lists, Slack, IRC, etc.)?
-Mailing Lists, GitHub functionality 
+Mailing Lists, GitHub functionality
 
 
 ## What is the project's leadership team and decision-making process?
-Currently: Maintainers, Andreas Lipka, Helge Stuhr, Christian Friedrich. 
-Applications to join the team are welcome. Currently we are eager to strengthen the computer science competence of our leadership team. Nevertheless, candidates with all professional backgrounds are appreciated. 
-Due to the yet compact size, there is no formal decision-making process. Everybody is invited to contact the maintainers and make suggestions which will be discussed individually by the leadership team. 
+Currently: Maintainers, Andreas Lipka, Helge Stuhr, Christian Friedrich.
+Applications to join the team are welcome. Currently we are eager to strengthen the computer science competence of our leadership team. Nevertheless, candidates with all professional backgrounds are appreciated.
+Due to the yet compact size, there is no formal decision-making process. Everybody is invited to contact the maintainers and make suggestions which will be discussed individually by the leadership team.
 
 
 
 ## How is development of the project planned and organized? Is this transparent to the public?
-Agile project management is applied. Basically, the project is planned along the roadmap below which will be updated according to development of the overall DAC project and other adjacent projects. Though everybody can report issues and make pull request we encourage people who are willing to contribute to contact the maintainers in advance. This way it can be made sure that the project can proceed efficiently, and contributors’ time spent is generating as much value for the community as possible. 
+Agile project management is applied. Basically, the project is planned along the roadmap below which will be updated according to development of the overall DAC project and other adjacent projects. Though everybody can report issues and make pull request we encourage people who are willing to contribute to contact the maintainers in advance. This way it can be made sure that the project can proceed efficiently, and contributors’ time spent is generating as much value for the community as possible.
 
 
 ## What is the project's roadmap?
 
-
+![roadmap](dac-migration-dss-roadmap.png)
 
 ## What other organizations in the world should be interested in this project?
-The European Union, especially Europe’s Rails and EDDP organisation, other organisations like UIC, all FOC companies within Europe (very high), wagon keepers across Europe (very high), infrastructure managers (some), coupler producers (some), operators of industrial railways (high), 
+The European Union, especially Europe’s Rails and EDDP organisation, other organisations like UIC, all FOC companies within Europe (very high), wagon keepers across Europe (very high), infrastructure managers (some), coupler producers (some), operators of industrial railways (high),
 EDDP (European DAC Delivery Programme) Management Board has shown some primary interest to use open source software for migration planning.
 
 
@@ -74,7 +74,7 @@ For several reasons: Firstly, because just like the OpenRail Association, the DA
 
 
 ## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
-No, as far as we know not.  However, there are several complementary projects which deal with handling data of wagons and locomotives. 
+No, as far as we know not.  However, there are several complementary projects which deal with handling data of wagons and locomotives.
 
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
