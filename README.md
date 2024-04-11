@@ -18,6 +18,10 @@ The current members of the Technical Committee are:
 * Loic Hamelin (SNCF Réseau)
 * Peter Keller (SBB)
 
+## Meetings
+
+The Technical Committee meets once per week. The agenda for each meeting is prepared in an GitHub issue and the protocols of the meetings are collected in the [meetings folder](meetings/).
+
 ## Projects
 
 Projects can join the OpenRail Association by using the [incubation process](incubation_process.md). Projects are supposed to adhere to certain standards to foster high quality projects which are useful to the sector. The barrier of entry is meant to be low, though. We want to provide an environment where projects can grow within the OpenRail Association.
