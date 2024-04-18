@@ -8,6 +8,8 @@ See the [Charter of the Technical Committee](charter.md) for the details of its 
 | --- | --- |
 | Cornelius Schumacher | DB Systel GmbH |
 | Max Mehl | DB Systel GmbH |
+| Loic Hamelin | SNCF Reseau |
+| Peter Keller | SBB |
 
 ---
 Based on [GitHub's Minimum Viable Governance (MVG)](https://github.com/github/MVG). Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
