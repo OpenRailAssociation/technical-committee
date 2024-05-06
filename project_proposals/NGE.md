@@ -1,16 +1,24 @@
-# Questionnaire for projects intending to join the OpenRail Association
-
-*As a project intending to join the OpenRail Association, please fill out this questionnaire and send it to the Technical Committee. See the [incubation process](incubation_process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.*
-
-*Copy this template and fill in your answers to the questions in the sections below.*
+# Questionnaire for NGE-Netzgrafikeditor
 
 ##  What is the project's name?
-
-
+NGE - Netzgrafik-Editor
 
 ## Describe the project. What does the project do, why is it valuable, where does it come from?
+The Netzgrafik-Editor, initially developed as an internal innovation project at the Swiss Federal Railways (SBB CFF FFS). The project started with a clickable prototype. The entire project has now reached a mature stage and evolved into a powerful tool with applications beyond railways. It can now be utilized in any domain that requires regular-interval timetables as a planning basis.
 
+The versatility of the editor makes it suitable for various logistics planning scenarios, enabling efficient timetable creation and analysis. The software's key features can be leveraged in a broader context, such as:
 
+Public Transportation Systems: Other public transport networks can utilize the editor's flexibility and features to effectively visualize and plan their transportation systems, leading to improved efficiency and better services.
+
+Educations: The editor's capabilities can be utilized in educational institutions to demonstrate how to create integrated timetables and what properties need to be considered during the planning process in order to enable efficient scheduling
+
+The Netzgrafik-Editor offers various functions to enhance the efficiency and optimization of the logistics network. Some of the key features include:
+- Interactive drawing tool to edit the Netzgrafik
+- Graphic timetable (Streckengrafik)
+- "Perlenkette" trainrun editing
+- Logistical Information Extraction
+- Logistics Network Analysis
+- Infrastructure Requirement Estimation
 
 ## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
 
