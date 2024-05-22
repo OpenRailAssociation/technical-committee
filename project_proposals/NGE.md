@@ -21,7 +21,7 @@ The Netzgrafik-Editor offers various functions to enhance the efficiency and opt
 - Infrastructure Requirement Estimation
 
 ## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
-
+- SBB ([Adrian Egli](mailto:adrain.egli@sbb.ch?subject=[github-openrailassociation-nge]) and Martin Sojka)
 
 
 ## Which organizations are sponsoring/contributing to the project?
