@@ -119,7 +119,17 @@ tbd
 
 
 ## What other organizations in the world should be interested in this project?
-
+The versatility of the editor makes it suitable for various logistics planning scenarios, enabling
+efficient timetable creation and analysis. The software's key features can be leveraged in a broader
+context, such as:
+ 
+- **Public Transportation Systems:** Other public transport networks can utilize the editor's
+  flexibility and features to effectively visualize and plan their transportation systems,
+  leading to improved efficiency and better services.
+ 
+- **Educations:** The editor's capabilities can be utilized in educational institutions to demonstrate
+  how to create integrated timetables and what properties need to be considered during the planning
+  process in order to enable efficient scheduling
 
 
 ## Why would this project be a good candidate for inclusion in the OpenRail Association?
@@ -127,19 +137,19 @@ tbd
 
 
 ## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
-
+- With this scope not known
 
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
-
+None
 
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
-
+[angular.sbb.ch](https://angular.app.sbb.ch/)
 
 
 ## What is the project's plan for growing in maturity if accepted within the OpenRail Association?
-
+Not defined yet
 
 
 ## Concluding statements
