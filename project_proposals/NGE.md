@@ -29,11 +29,11 @@ The Netzgrafik-Editor offers various functions to enhance the efficiency and opt
 - SNCF
 
 ## Where is the code hosted?
-[GITHUB: Netzgrafik Editor](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend)
-
+- [GITHUB: Netzgrafik Editor frontend](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend)
+- [GITHUB: Netzgrafik Editor backend](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-backend)
 
 ## Which exact repositories do you intend to  transfer to the GitHub organization of the OpenRail Association?
-To be discussed. Currently not forseen. 
+See above. 
 
 
 ## What is the project's main license?
