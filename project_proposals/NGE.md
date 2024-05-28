@@ -1,4 +1,4 @@
-# Questionnaire for NGE-Netzgrafikeditor
+# Questionnaire for NGE-Netzgrafik-Editor
 
 ##  What is the project's name?
 NGE - Netzgrafik-Editor
@@ -163,8 +163,8 @@ context, such as:
 
 
 ## Why would this project be a good candidate for inclusion in the OpenRail Association?
-- With its clear focus on the rapid recording of timetable variants on a macroscopic level, Netzgrafikeditor is suitable as a tool that can be combined with other OSS tools in the area of timetable planning and simulation (e.g. OSRD; MATsim).
-- The Open Rail Association can provide support in building up members who are actively involved in the procect community and in defining community governance.
+- With its clear focus on the rapid recording of timetable variants on a macroscopic level, Netzgrafik-Editor is suitable as a tool that can be combined with other OSS tools in the area of timetable planning and simulation (e.g. OSRD; MATsim).
+- The Open Rail Association can provide support in building up members who are actively involved in the project community and in defining community governance.
 
 
 ## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
