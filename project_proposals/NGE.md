@@ -138,7 +138,7 @@ tbd
 Pull requests are reviewed and merged by the maintainers.
 
 ## How can someone become a committer or a maintainer to/of the project?
-Contributer: via Issues; pull requests - Maintainer tbd
+Contributor: via Issues; pull requests - Maintainer tbd
 
 ## How is development of the project planned and organized? Is this transparent to the public?
 tbd
@@ -163,7 +163,7 @@ context, such as:
 
 
 ## Why would this project be a good candidate for inclusion in the OpenRail Association?
-- With its clear focus on the rapid recording of timetable variants on a macroscopic level, Netzgrafik-Editor is suitable as a tool that can be combined with other OSS tools in the area of timetable planning and simulation (e.g. OSRD; MATsim).
+- With its clear focus on the rapid recording of timetable variants on a macroscopic level, Netzgrafik-Editor is suitable as a tool that can be combined with other OSS tools in the area of timetable planning and simulation (e.g., OSRD; MATsim).
 - The Open Rail Association can provide support in building up members who are actively involved in the project community and in defining community governance.
 
 
