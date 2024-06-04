@@ -14,9 +14,12 @@ The members of the Technical Committee are representatives of the projects plus 
 
 The current members of the Technical Committee are:
 
-* Cornelius Schumacher (DB Systel), Chair of the Technical Committee
-* Loic Hamelin (SNCF Réseau)
-* Peter Keller (SBB)
+* Cornelius Schumacher (DB Systel, appointed), Chair of the Technical Committee
+* Loic Hamelin (SNCF Réseau, appointed)
+* Peter Keller (SBB, appointed)
+* Florian Amsallem (OSRD)
+* Stephanie Schalbetter (RCM OSS)
+* Frederik Schäfer (DAC Migration DSS)
 
 ## Meetings
 
