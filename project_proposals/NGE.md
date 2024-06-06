@@ -4,21 +4,7 @@
 NGE - Netzgrafik-Editor
 
 ## Describe the project. What does the project do, why is it valuable, where does it come from?
-The Netzgrafik-Editor, initially developed as an internal innovation project at the Swiss Federal Railways (SBB CFF FFS). The project started with a clickable prototype. The entire project has now reached a mature stage and evolved into a powerful tool with applications beyond railways. It can now be utilized in any domain that requires regular-interval timetables as a planning basis.
-
-The versatility of the editor makes it suitable for various logistics planning scenarios, enabling efficient timetable creation and analysis. The software's key features can be leveraged in a broader context, such as:
-
-Public Transportation Systems: Other public transport networks can utilize the editor's flexibility and features to effectively visualize and plan their transportation systems, leading to improved efficiency and better services.
-
-Educations: The editor's capabilities can be utilized in educational institutions to demonstrate how to create integrated timetables and what properties need to be considered during the planning process in order to enable efficient scheduling
-
-The Netzgrafik-Editor offers various functions to enhance the efficiency and optimization of the logistics network. Some of the key features include:
-- Interactive drawing tool to edit the Netzgrafik
-- Graphic timetable (Streckengrafik)
-- "Perlenkette" trainrun editing
-- Logistical Information Extraction
-- Logistics Network Analysis
-- Infrastructure Requirement Estimation
+Netzgrafik-Editor, is now a mature tool for creating and analyzing regular-interval timetables. It's versatile for logistics planning in various domains. Features include interactive editing, graphic timetables, trainrun editing, and logistics analysis.
 
 ## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
 - SBB ([Adrian Egli](mailto:adrain.egli@sbb.ch?subject=[github-openrailassociation-nge]) and Martin Sojka)
@@ -27,7 +13,7 @@ The Netzgrafik-Editor offers various functions to enhance the efficiency and opt
 ## Which organizations are sponsoring/contributing to the project?
 - SBB AG
 - SNCF
-
+- Flatland Association
 ## Where is the code hosted?
 - [GITHUB: Netzgrafik Editor frontend](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend)
 - [GITHUB: Netzgrafik Editor backend](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-backend)
@@ -143,7 +129,6 @@ Contributor: via Issues; pull requests - Maintainer tbd
 ## How is development of the project planned and organized? Is this transparent to the public?
 tbd
 
-
 ## What is the project's roadmap?
 [Roadmap](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend/blob/main/ROADMAP.md)
 
@@ -168,20 +153,18 @@ context, such as:
 
 
 ## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
-- With this scope on the macroscopic not known.
+- With this scope on the macroscopic not known. Known products need more detailed data to start with the planning process.
 
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
-None
-
+A Jason file specified by the project [Netzgrafik-Editor data export/import (JSON)](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend/blob/main/documentation/DATA_MODEL_JSON.md) is used for data import and export. This functionality can be used as a basis for the extension to open standards for data exchange.
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
 [angular.sbb.ch](https://angular.app.sbb.ch/)
 
 
 ## What is the project's plan for growing in maturity if accepted within the OpenRail Association?
-Not defined yet
-
+In addition to developing additional functionality, the project aims to establish a minimal governance structure. This allows the cooperation to be extended to additional contributing partners. The project also aims to broaden the user base in the area of public transport (companies, educational institutions and public administration).
 
 ## Concluding statements
 
