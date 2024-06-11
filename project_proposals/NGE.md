@@ -156,8 +156,25 @@ context, such as:
 A Jason file specified by the project [Netzgrafik-Editor data export/import (JSON)](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend/blob/main/documentation/DATA_MODEL_JSON.md) is used for data import and export. This functionality can be used as a basis for the extension to open standards for data exchange.
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
-[angular.sbb.ch](https://angular.app.sbb.ch/)
+Frontend:
+- Programming language: Typescript
+- Web Framework: Angular using [angular.sbb.ch](https://angular.app.sbb.ch/)
 
+Communication frontend-backend:
+- The backend API is specified using [OpenAPI](https://swagger.io/specification/) (
+see `api-docs.json`). Angular Services for the communication with the backend API are generated based on this specification using [openapi-generator](https://github.com/openapitools/openapi-generator) 
+
+Backend:
+- Programming language: Java enhanced with [Project Lombok](https://projectlombok.org/) additional language features.
+- REST API implementation: [Spring Framework](https://spring.io/projects/spring-framework) with [Spring Boot](https://spring.io/projects/spring-boot).
+- Database: Data is stored in the [PostgreSQL](https://www.postgresql.org) relational database.
+- [jOOQ](https://www.jooq.org/) is used to access the database through a database-independent
+  SQL-Like Domain-Specific-Language. For that the jOOQ framework generates classes for every table,
+  row, index and sequence in the database. This allows for type-save declarations of SQL queries.
+- [Flyway](https://flywaydb.org/) migrations are used to manage the database schema (see
+  src/main/resources/db.migration).
+- [H2](https://www.h2database.com/html/main.html) is used as an in-memory database for end-to-end
+  integration tests.
 
 ## What is the project's plan for growing in maturity if accepted within the OpenRail Association?
 In addition to developing additional functionality, the project aims to establish a transparent governance structure. This allows the cooperation to be extended to additional contributing partners. The project also aims to broaden the user base in the area of public transport (companies, educational institutions and public administration).
