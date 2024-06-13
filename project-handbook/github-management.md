@@ -10,9 +10,9 @@ Naming is hard. Within OpenRail, all elements such as repositories must be prepe
 
 Only owners of the OpenRail organisation can create new repositories. This is to prevent clutter and unclear permissions.
 
-Please contact the Technical Committee by its email address if you need an additional repository, with information about its name and potentially unusual settings.
+Please contact the Technical Committee (technical-committee@openrailassociation.org) if you need an additional repository, with information about its name and potentially unusual settings.
 
-Note that all repositories in OpenRail must be public and only contain Open Source. If you need a space for private/sensible information, e.g. for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
+Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g. for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
 
 ## Members, teams, and permissions
 
