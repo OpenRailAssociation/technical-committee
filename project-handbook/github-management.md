@@ -10,13 +10,15 @@ Naming is hard. Within OpenRail, all elements such as repositories must be prepe
 
 Only owners of the OpenRail organisation can create new repositories. This is to prevent clutter and unclear permissions.
 
-Please contact the Chair of the Technical Committee if you need an additional repository, with information about its name and potentially unusual settings.
+Please contact the Technical Committee (technical-committee@openrailassociation.org) if you need an additional repository, with information about its name and potentially unusual settings.
 
-Note that all repositories in OpenRail must be public. If you need a space for private/sensible information, e.g. for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
+Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g. for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
 
 ## Members, teams, and permissions
 
-For the OpenRail organisation, all members, teams, and repository permissions are managed in the [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config) repository. The settings managed there will be synchronised using [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager). That means, if you want to yourself or another maintainer to become a member of the OpenRail organisation on GitHub and configure permissions, you must do that via [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config).
+For the OpenRail organisation, all members, teams, and repository permissions are managed in the [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config) repository. The settings managed there will be synchronised using [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager). That means, if you want to yourself or another maintainer to become a member of the OpenRail organisation on GitHub and configure permissions, you must do that via a pull request to [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config).
+
+OpenRail projects can manage their teams on their own. This is handled via the respective [CODEOWNERS](https://github.com/OpenRailAssociation/openrail-org-config/blob/main/.github/CODEOWNERS) file which allows teams to approve and merge pull requests concerning their team settings. Obviously, this file must only contain the project's teams, and these teams' permissions must not involve repositories from other projects.
 
 All organisation members must be part of a team so that it's clear for every person which project(s) they belong to.
 
