@@ -153,7 +153,7 @@ context, such as:
 
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
-A Jason file specified by the project [Netzgrafik-Editor data export/import (JSON)](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend/blob/main/documentation/DATA_MODEL_JSON.md) is used for data import and export. This functionality can be used as a basis for the extension to open standards for data exchange.
+A JSON file specified by the project [Netzgrafik-Editor data export/import (JSON)](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend/blob/main/documentation/DATA_MODEL_JSON.md) is used for data import and export. This functionality can be used as a basis for the extension to open standards for data exchange.
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
 Frontend:
