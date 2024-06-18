@@ -18,7 +18,9 @@ Projects which intend to join the OpenRail Association are considered candidates
 
 ## Stage 1: Sandbox
 
-The Sandbox stage is the initial stage for projects being hosted by the OpenRail Association. Sandbox projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association. The Sandbox stage is meant for projects that are in an early phase and are being prepared for meeting the full criteria of the Incubation stage.
+The Sandbox stage is the initial stage for projects being hosted by the OpenRail Association. Sandbox projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
+
+The Sandbox stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Sandbox stage.
 
 The barrier for entering the Sandbox stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association.
 
@@ -41,7 +43,9 @@ The barrier for entering the Sandbox stage is intended to be low, so that it's e
 
 ## Stage 2: Incubation
 
-The Incubation stage is for projects that have reached a level of maturity that indicates they are ready to be used by end users. Incubation projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
+The Incubation stage is for projects that have reached a high level of quality and maturity that indicates they are ready to be used by end users. Incubation projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
+
+The Incubation stage focuses on quality criteria the project can reach on its own and doesn't require a high degree of external adoption or contributions yet.
 
 The barrier for entering the Incubation stage is intended to be high, so there is a high level of quality for projects which have reached this stage.
 
@@ -65,7 +69,11 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 
 ## Stage 3: Graduated
 
-The Graduated stage is for projects which have reached a level of hight maturity and adoption. They are the flagship projects of the OpenRail Association.
+The Graduated stage is for projects which have reached a level of high maturity and adoption. They are the flagship projects of the OpenRail Association.
+
+The Graduated stage is for projects which have not only reached a high level of quality, but also demonstrate that they are widely used and have a diverse set of contributors. This indicates that they can be relied on and they don't depend on a single organization.
+
+Projects at the Graduated stage fit into the overall architecture of the OpenRail Association. There are no competing projects on this stage which implement the same capabilities.
 
 ### Criteria
 
