@@ -51,14 +51,16 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 
 ### Criteria
 
-*Examples from CNCF incubation process, to be adopted*
-
-* Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
+* Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project. Committers can come from the same organization.
 * Demonstrate a substantial ongoing flow of commits and merged contributions.
-* Since these metrics can vary significantly depending on the type, scope and size of a project, the TOC has final judgement over the level of activity that is adequate to meet these criteria
-* A clear versioning scheme.
+* Since these metrics can vary significantly depending on the type, scope and size of a project, the TC has final judgement over the level of activity that is adequate to meet these criteria.
+* Have a clear release process which communicates to users what to expect from releases. This includes a clear versioning scheme and cryptographically signing release artifacts.
 * Specifications must have at least one public reference implementation.
+* Project has implemented an open governance process. It's documented how decisions are taken in the project and how people can become committers and maintainers.
 * Project explains the business roadmap.
+* Project is used in production. It's sufficient if this is only the organization developing the project.
+* Create clarity about licensing by being [REUSE](https://reuse.software) compliant.
+* Require the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) for all commits.
 
 ### Process
 
