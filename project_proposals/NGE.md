@@ -37,8 +37,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License. 
 
-## What other licenses does the project use, e.g. for included 3rd party code?
-To the best of our knowledge, we only includ 3rd party code with open source licences. A complete analysis of the dependencies has yet to be carried out.
+## What other licenses does the project use, e.g., for included 3rd-party code?
+To the best of our knowledge, we only include 3rd-party code with open-source licenses. A complete analysis of the dependencies has yet to be carried out.
 
 ## Are any trademarks associated with the project?
 None
