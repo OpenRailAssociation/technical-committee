@@ -31,7 +31,7 @@ The barrier for entering the Sandbox stage is intended to be low, so that it's e
 
 ### Process
 
-1. The project applies to join the Sandbox using the [New Project Questionnaire](new_project_questionnaire.md).
+1. The project applies to join the Sandbox using the [New Project Questionnaire](new-project-questionnaire.md).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
 3. On a positive evaluation the Technical Committee prepares the decision to accept the project as an OpenRail Association project.
 4. According to the statutes of the OpenRail Association Article 22 the OpenRail board finally decides about the acceptance of the project based on the decision prepared by the Technical Committee.
