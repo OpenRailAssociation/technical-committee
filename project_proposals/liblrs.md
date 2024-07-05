@@ -127,7 +127,7 @@ Bindings are generated for python and javascript. Bindings for other languages w
 ## What is the project's plan for growing in maturity if accepted within the OpenRail Association?
 
 * Validation of the proposed data model by other infrastructure managers
-* Code reviews from other users : optimization and reliability of the code
+* Code reviews from other users: optimization and reliability of the code
 * New features proposals and/or implementation
 * Proof of usefulness in other railway-related projects that could make the project known in other, non railway-related organizations
 
