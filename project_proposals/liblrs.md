@@ -116,7 +116,7 @@ GIS software (like ARCGis and QGIS) have plugins to manipulate those data. Howev
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
 
-
+The data representation and the vocabulary is based on the article _A generic Data Model for Linear Referencing Systems_ published in the National Cooperative Highway Research Program, Research Result Digest (number 218, September 1997) and the [ISO 19148](https://www.iso.org/standard/75150.html) norm.
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
 
