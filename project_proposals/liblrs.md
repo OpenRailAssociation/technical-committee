@@ -8,12 +8,12 @@ It stands for _library for linear referencing systems_.
 
 ## Describe the project. What does the project do, why is it valuable, where does it come from?
 
-In the railway industry, most of the objects are located by a linear referencing system, a position along a track (i.e. : track 1, kilometer 3+532 meters).
+In the railway industry, most of the objects are located by a linear referencing system, a position along a track (i.e.: track 1, kilometer 3+532 meters).
 
 As railways networks may be more than a century old, there are many exceptions, local specific rules…
 
-The goal of the libray is to have a flexible, high performance and easy to integrate linear referencing systems library that can be used in any system to manipulate LRSs:
-* projecting from one linear referencing system to an other
+The goal of the library is to have a flexible, high performance and easy to integrate linear referencing systems library that can be used in any system to manipulate LRSs:
+* projecting from one linear referencing system to another
 * converting from/to geographical coordinates
 * work with spherical, projected and schematic coordinates
 * integrate in existing workflows
@@ -40,7 +40,7 @@ https://github.com/osrd-project/liblrs/
 
 MIT https://github.com/osrd-project/liblrs/blob/main/LICENSE.md
 
-## What other licenses does the project use, e.g. for included 3rd party code?
+## What other licenses does the project use, e.g., for included 3rd-party code?
 
 Rust library:
 * MIT
@@ -83,9 +83,9 @@ The review of a maintainer is required.
 
 ## How can someone become a committer or a maintainer to/of the project?
 
-Anybody can suggest a pull request. If it is accepted after the review, one becomes a commiter.
+Anybody can suggest a pull request. If it is accepted after the review, one becomes a committer.
 
-Maintainers are coopted by the other maintainers. Candidates must be an active commiter.
+Maintainers are co-opted by the other maintainers. Each candidate must be an active committer.
 
 ## How is development of the project planned and organized? Is this transparent to the public?
 
@@ -120,7 +120,7 @@ The data representation and the vocabulary is based on the article _A generic Da
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
 
-The core is developped in rust.
+The core is developed in rust.
 
 Bindings are generated for python and javascript. Bindings for other languages will be added if asked.
 
