@@ -20,6 +20,7 @@ The current members of the Technical Committee are:
 * Florian Amsallem (OSRD)
 * Stephanie Schalbetter (RCM OSS)
 * Frederik Schäfer (DAC Migration DSS)
+* Adrian Egli (Netzgrafik-Editor)
 
 ## Meetings
 
