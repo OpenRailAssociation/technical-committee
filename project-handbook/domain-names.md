@@ -19,7 +19,7 @@ In order to initiate this process, please contact the Technical Committee (techn
 
 ## Changing DNS records
 
-Many projects will be fine with setting some records once and only changing it very rarely. Some others may need to make adaptions more often, e.g. because they run additional infrastructure and services.
+Many projects will be fine with setting some records once and only changing it very rarely. Some others may need to make adaptations more often, e.g., because they run additional infrastructure and services.
 
 If your project belongs to the first group, it's fine if you just send an email to the Technical Committee requesting a certain change.
 
