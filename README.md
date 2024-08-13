@@ -22,7 +22,10 @@ The current members of the Technical Committee are:
 * [Frederik Schäfer](https://github.com/frederik-db) (DAC Migration DSS)
 * [Adrian Egli](https://github.com/aiAdrian) (Netzgrafik-Editor)
 * [Tristram Gräbener](https://github.com/Tristramg) (liblrs)
-* [Max Mehl](https://github.com/mxmehl) (Permanent guest, OpenRail Team's Technical Administration Manager)
+
+Permanent guests:
+
+* [Max Mehl](https://github.com/mxmehl) (OpenRail Team's Technical Administration Manager)
 
 ## Meetings
 
