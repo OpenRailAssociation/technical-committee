@@ -14,8 +14,8 @@ The members of the Technical Committee are representatives of the projects plus 
 
 The current members of the Technical Committee are:
 
-* [Cornelius Schumacher](https://github.com/cornelius) (DB Systel, appointed), Chair of the Technical Committee
-* [Loic Hamelin](https://github.com/loic-hamelin) (SNCF Réseau, appointed)
+* [Loic Hamelin](https://github.com/loic-hamelin) (SNCF Réseau, appointed), Chair of the Technical Committee
+* [Cornelius Schumacher](https://github.com/cornelius) (DB Systel, appointed)
 * [Peter Keller](https://github.com/Keller-Peter) (SBB, appointed)
 * [Florian Amsallem](https://github.com/flomonster) (OSRD)
 * [Stephanie Schalbetter](https://github.com/schalbts) (RCM OSS)
