@@ -10,7 +10,7 @@ Goals, principles and how it works are described in the [Charter](charter.md) of
 
 ## Members
 
-The members of the Technical Committee are representatives of the projects plus up to three people  appointed by the board of the OpenRail Association.
+The members of the Technical Committee are representatives of the projects plus up to three people appointed by the board of the OpenRail Association.
 
 The current members of the Technical Committee are:
 
@@ -25,7 +25,7 @@ The current members of the Technical Committee are:
 
 ## Meetings
 
-The Technical Committee meets once per week. The agenda for each meeting is prepared in an GitHub issue and the protocols of the meetings are collected in the [meetings folder](meetings/).
+The Technical Committee meets once per week. The agenda for each meeting is prepared in a GitHub issue and the protocols of the meetings are collected in the [meetings folder](meetings/).
 
 ## Projects
 
