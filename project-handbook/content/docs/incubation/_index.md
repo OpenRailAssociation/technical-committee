@@ -8,9 +8,9 @@ The lifecycle of projects in the OpenRail Association is managed with the [incub
 
 * [Applying to become an OpenRail project]({{< ref "application" >}})
 
-Once you are an OpenRail project you can progress within the incubation process while the project matures. The advanced stages signify a high project quality. On the highest stage projects become official recommandations of the OpenRail Association for production use cases in specific domains of the railway business.
+Once you are an OpenRail project you can progress within the incubation process while the project matures. The advanced stages signify a high project quality. On the highest stage projects become official recommendations of the OpenRail Association for production use cases in specific domains of the railway business.
 
-The following guides describe activites on the various stages and how to advance to the next stage.
+The following guides describe activities on the various stages and how to advance to the next stage.
 
 * [Activities at the Sandbox Stage]({{< ref "sandbox" >}})
 * [Advancing to the Incubated Stage]({{< ref "incubated" >}})
