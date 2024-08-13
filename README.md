@@ -14,14 +14,14 @@ The members of the Technical Committee are representatives of the projects plus 
 
 The current members of the Technical Committee are:
 
-* Cornelius Schumacher (DB Systel, appointed), Chair of the Technical Committee
-* Loic Hamelin (SNCF Réseau, appointed)
-* Peter Keller (SBB, appointed)
-* Florian Amsallem (OSRD)
-* Stephanie Schalbetter (RCM OSS)
-* Frederik Schäfer (DAC Migration DSS)
-* Adrian Egli (Netzgrafik-Editor)
-* Tristram Gräbener (liblrs)
+* [Cornelius Schumacher](https://github.com/cornelius) (DB Systel, appointed), Chair of the Technical Committee
+* [Loic Hamelin](https://github.com/loic-hamelin) (SNCF Réseau, appointed)
+* [Peter Keller](https://github.com/Keller-Peter) (SBB, appointed)
+* [Florian Amsallem](https://github.com/flomonster) (OSRD)
+* [Stephanie Schalbetter](https://github.com/schalbts) (RCM OSS)
+* [Frederik Schäfer](https://github.com/frederik-db) (DAC Migration DSS)
+* [Adrian Egli](https://github.com/aiAdrian) (Netzgrafik-Editor)
+* [Tristram Gräbener](https://github.com/Tristramg) (liblrs)
 
 ## Meetings
 
