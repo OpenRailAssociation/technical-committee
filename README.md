@@ -21,6 +21,7 @@ The current members of the Technical Committee are:
 * Stephanie Schalbetter (RCM OSS)
 * Frederik Schäfer (DAC Migration DSS)
 * Adrian Egli (Netzgrafik-Editor)
+* Tristram Gräbener (liblrs)
 
 ## Meetings
 
