@@ -10,3 +10,6 @@ theme = "book"
   [[module.mounts]]
     source = '../docs'
     target = 'content/docs'
+  [[module.mounts]]
+    source = '../charter.md'
+    target = 'content/docs/charter.md'
