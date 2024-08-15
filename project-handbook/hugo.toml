@@ -1,4 +1,0 @@
-baseURL = 'https://cornelius.github.io/technical-committee/'
-languageCode = 'en-us'
-title = 'OpenRail Project Handbook'
-theme = "book"
