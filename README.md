@@ -25,7 +25,7 @@ The current members of the Technical Committee are:
 
 Permanent guests:
 
-* [Max Mehl](https://github.com/mxmehl) (OpenRail Team's Technical Administration Manager)
+* [Max Mehl](https://github.com/mxmehl) (OpenRail Team's Technical Infrastructure Manager)
 
 ## Meetings
 
