@@ -8,6 +8,10 @@ This means that with each commit the author of the commit includes a statement w
 
 For projects on stage 2 and 3 of the [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation_process.md), the DCO is required. Projects on stage 1 can choose to require it as well. Projects which require the DCO have the [DCO App](https://github.com/apps/dco) enabled, which checks pull requests for the DCO statements and throws an error if they are missing.
 
+> [!NOTE]
+> If you are using [merge queue](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-a-merge-queue#about-merge-queues), you should not use [DCO App](https://github.com/apps/dco). Because of [a bug](https://github.com/dcoapp/app/issues/199) the bot doesn't run in a merge queue.
+> You can use instead [dco-check](https://github.com/christophebedard/dco-check) github action.
+
 ## Signing off on the command line
 
 When using git on the command line you can sign off a commit by adding the option `-s` or `--signoff` to the commit command:
