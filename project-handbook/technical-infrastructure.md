@@ -4,11 +4,13 @@ The technical infrastructure of the OpenRail Association is comprised of various
 
 For the composition, we follow these principles:
 
-* We prefer Open Source
-* We chose software and services based on whether they are feasible and pragmatic
-* We prefer using hosted services instead of self-hosting
+* We prefer using Open Source software and services
+* We choose software and services based on whether they are feasible and pragmatic
 * We strive for ease of access and use for the respective users and teams
+* We prefer using hosted services instead of self-hosting
 * We appreciate modularity, and accept incremental improvements when perfection is not possible
+
+In combination, we sometimes cannot find a technical solution to a problem that matches all these principles at the same time. Therefore, we need to weigh all aspects individually. Projects are welcome to articulate their suggestions within the Technical Committee.
 
 ## Governance
 
@@ -42,13 +44,15 @@ In these cases, we address these people using mailing lists. This allows for mor
 
 There are a number of mailing lists we've set up on our mailing lists instance [lists.openrailassociation.org](https://lists.openrailassociation.org). As some of them shall be reachable by outside people, we've set up some forwards from the openrailassociation.org domain to certain lists.openrailassociation.org lists. One example is `technical-committee@openrailassociation.org` which forwards to `technical-committee@lists.openrailassociation.org`.
 
-When setting up new lists, make sure to have a look at the list configuration of lists which have the same or a similar use-case. The default settings are often not sufficient to make all email reach all people, especially regarding the top-level domain aliases and anti-spam measurements.
+When setting up new lists, make sure to have a look at the list configuration of lists which have the same or a similar use-case. The default settings are often not sufficient to make all emails reach all people, especially regarding the top-level domain aliases and anti-spam measures.
+
+The configuration of lists and owners is done manually inside the web interface.
 
 ## Passwords
 
 For the several services we are using, some require dedicated accounts and passwords, while others are ties to existing user accounts, e.g. GitHub.
 
-If we have to share passwords, we are using an hosted password vault. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a services. However, we generally prefer using pre-existing, personalised accounts.
+If we have to share passwords, we are using an hosted password vault, currently based on Vaultwarden/Bitwarden. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a service. However, we generally prefer using pre-existing, personalised accounts.
 
 ## Website
 
