@@ -5,7 +5,7 @@ The technical infrastructure of the OpenRail Association is comprised of various
 For the composition, we follow these principles:
 
 * We prefer using Open Source software and services
-* We choose software and services based on whether they are feasible and pragmatic
+* We pragmatically choose software and services based on their ability to address our specific needs.
 * We strive for ease of access and use for the respective users and teams
 * We prefer using hosted services instead of self-hosting
 * We appreciate modularity, and accept incremental improvements when perfection is not possible
@@ -32,7 +32,7 @@ OpenRail Association prefers using GitHub.com for hosting of code, projects and 
 
 For this GitHub organisation, we distribute permissions using Teams and a repository that follows a four-eyes and version-controlled paradigm. Please see [this document](./github-management.md) for guidance and details.
 
-In addition to the official GitHub organisation, there is a playground organisation with lower governance standards: [OpenRail-Playground](https://github.com/OpenRail-Playground). Only non-official projects must be hosted there. Permissions are controlled individually using the GitHub web interface.
+In addition to the official GitHub organisation, there is an organisation for experimental and other projects which need a space for initial or temporary collaboration without being ready for an application as official project. It is the organisation [OpenRail-Playground](https://github.com/OpenRail-Playground). Permissions are controlled individually using the GitHub web interface.
 
 ## Mails and Mailing Lists
 
