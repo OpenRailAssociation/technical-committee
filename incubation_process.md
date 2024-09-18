@@ -49,16 +49,14 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 
 ### Criteria
 
-* Have a healthy number of committers. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project. Committers can come from the same organization.
-* Demonstrate a substantial ongoing flow of commits and merged contributions.
-* Since these metrics can vary significantly depending on the type, scope and size of a project, the TC has final judgement over the level of activity that is adequate to meet these criteria.
-* Have a clear release process which communicates to users what to expect from releases. This includes a clear versioning scheme and cryptographically signing release artifacts.
-* Specifications must have at least one public reference implementation.
-* Project has implemented an open governance process. It's documented how decisions are taken in the project and how people can become committers and maintainers.
-* Project explains the business roadmap.
-* Project is used in production. It's sufficient if this is only the organization developing the project.
-* Create clarity about licensing by being [REUSE](https://reuse.software) compliant.
-* Require the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) for all commits.
+* **The project has a healthy base of contributors so that it is developed in a sustainable way.** It has a healthy number of committers, i.e., people who can accept contributions to some or all of the project. Committers can come from the same organization. It demonstrates a substantial ongoing flow of commits and merged contributions. Since these metrics can vary significantly depending on the type, scope and size of a project, the TC has final judgement over the level of activity that is adequate to meet these criteria.
+* **There is a clear release process so that users know what to expect from releases.** This includes transparency about the release cycle, communicating changes via changelogs, and a clear versioning scheme. It also includes cryptographically signing release artifacts so that users can make sure they receive the software from trustable sources.
+* **Specifications must have at least one public reference implementation so that the practicality of the specification is demonstrated and adopters have a base to start from.**
+* **The project has implemented an open governance process so that participation in the project becomes possible.** It is documented how decisions are taken in the project and how people can become committers and maintainers.
+* **There is a public business roadmap so that there is transparency about what drives the project.**
+* **The project's software is used in production so that it is demonstrated that the software is ready for serious use.** It is sufficient if this is only the organization developing the project.
+* **There is clarity about the licensing of the project so that it can be safely used in a compliant way.** To achieve that the project is [REUSE](https://reuse.software) compliant and there is an automatic check which runs the REUSE linter. Indicating copyright and license information in headers in each file is the preferred solution but to declare this information with the REUSE toml file can be a valid solution as well.
+* **The project requires the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) so that there is clarity about the provenance of contributed code.** The presence of the DCO information is automatically checked so that it is made sure that it is present in all commits.
 
 ### Process
 
