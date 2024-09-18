@@ -24,10 +24,11 @@ The barrier for entering the Sandbox stage is intended to be low, so that it's e
 
 ### Criteria
 
-* Describe project
-* Name maintainers of the project
-* Adopt the OpenRail Association Code of Conduct
-* Adhere to OpenRail Association IP Policy
+* **The project contributes to solving challenges of the railway sector in an open collaborative way so that it is in the scope of the purpose of the OpenRail Association.**
+* **The project is clearly described so that the OpenRail Association and potential users and contributors have a clear idea what it does.** The description and additional information is documented as part of the new project questionnaire.
+* **The project has named its maintainers so that it is clear who is taking decisions in the project and can add additional contributors.** The maintainers are documented in the project repository.
+* **The project adopts the OpenRail Association Code of Conduct so that social norms are well defined and enforced.** The code of conduct is documented in the project repository.
+* **The project adheres to the OpenRail Association IP Policy so that there is a safe and equal base to use and contribute to the project.** This means in particular that the repo only contains code licensed under an OSI approved license and that the project intends to transfer any trademarks related to the project to the OpenRail Association.
 
 ### Process
 
