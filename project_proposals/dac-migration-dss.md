@@ -32,8 +32,8 @@ see above
 not decided - GNU (some variant) or Apache 2.0
 
 
-## What other licenses does the project use, e.g. for included 3rd party code?
-None up to now. However, public APIs of proprietary software (e.g. commercial solvers such as gurobi) will probably be used.
+## What other licenses does the project use, e.g., for included 3rd party code?
+None up to now. However, public APIs of proprietary software (e.g., commercial solvers such as gurobi) will probably be used.
 
 
 ## Are any trademarks associated with the project?
@@ -73,12 +73,12 @@ EDDP (European DAC Delivery Programme) Management Board has shown some primary i
 For several reasons: Firstly, because just like the OpenRail Association, the DAC Migration DSS has a pan-European focus, and secondly, because members of the association are likely to be benefiting from the work. Furthermore, we believe that the high standards of the OpenRail Association will promote the visibility of the project and encourage potential contributors to participate.
 
 
-## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
+## Are there competing products or projects? If there are, please explain how the proposed projects differentiates.
 No, as far as we know not.  However, there are several complementary projects which deal with handling data of wagons and locomotives.
 
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
-Agile Management will be applied for project organisation. Coding standards have not been fixed yet, however this will be discussed soon. E.g. tools like Sonar Cube might be applied. As a general goal we want to stick to well accepted standards as much as possible to keep barriers to contribute low while ensuring a high quality.
+Agile Management will be applied for project organisation. Coding standards have not been fixed yet, however this will be discussed soon. E.g., tools like SonarQube might be applied. As a general goal we want to stick to well accepted standards as much as possible to keep barriers to contribute low while ensuring a high quality.
 
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
