@@ -12,6 +12,8 @@ Only owners of the OpenRail organisation can create new repositories. This is to
 
 Please contact the Technical Committee (technical-committee@openrailassociation.org) if you need an additional repository, with information about its name and potentially unusual settings.
 
+Once the repository is set up, please create a pull request for the [project list](https://github.com/OpenRailAssociation/technical-committee/blob/main/projects.md) and add the new repository there.
+
 Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g. for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
 
 ## Members, teams, and permissions
