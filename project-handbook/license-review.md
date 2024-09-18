@@ -33,11 +33,11 @@ Analyse the findings for licensing/copyright by third parties. Note down these l
 
 ### c) Search for license statements: automatically
 
-You may a tool like the [SBOM Workbench](https://github.com/scanoss/sbom-workbench) by ScanOSS. This may help you finding re-used snippets, e.g. from StackOverflow, which introduce other licenses and copyrights.
+You can use a tool like the [SBOM Workbench](https://github.com/scanoss/sbom-workbench) by ScanOSS. This may help you finding re-used snippets, e.g. from StackOverflow, which introduce other licenses and copyrights.
 
 ### d) Ask the project team
 
-An honest discussion with the project team might also reveal the use of code from third parties, e.g. by external contractors or from company-internal projects. Make sure to understand the history of the project.
+An open discussion with the project team might also reveal the use of code from third parties, e.g. by external contractors or from company-internal projects. Make sure to understand the history of the project.
 
 ## 2. Licensing of dependencies
 
