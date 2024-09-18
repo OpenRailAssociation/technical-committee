@@ -1,7 +1,5 @@
 # OpenRail Incubation process
 
-*This is a draft*
-
 This document describes the incubation process for projects in the OpenRail Association. This includes how a project can join OpenRail as well as how a project can move to subsequent stages of maturity.
 
 Projects can be in four stages which are reflecting the maturity of the project and the level of adoption in the OpenRail community (Sandbox, Incubation, Graduated, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to the next. The TC will evaluate the proposal and decide if the project can move to the next stage.
@@ -78,6 +76,8 @@ The Graduated stage is for projects which have not only reached a high level of 
 Projects at the Graduated stage fit into the overall architecture of the OpenRail Association. There are no competing projects on this stage which implement the same capabilities.
 
 ### Criteria
+
+*The criteria for stage 3 are still a draft*
 
 *Examples from CNCF incubation process, to be adopted*
 
