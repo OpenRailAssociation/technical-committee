@@ -8,7 +8,7 @@ Projects can be in four stages which are reflecting the maturity of the project 
 
 The criteria for entering each stage cover the compliance, business, and technical evaluation of the project. The evaluation has to be done for each version of the project. A community version could be accepted and not the enterprise version.
 
-The criteria for each stage are listed in the subsequent sections along with the process how projects are accepted into the corresponding stage.
+The criteria for each stage are listed in the subsequent sections along with the process how projects are accepted into the corresponding stage. Projects are going through the stages in a sequential order, stages can't be skipped, even if the project is already starting from a mature point. The exception is the Retired state which can always directly be entered by projects which are not active anymore.
 
 ## Stage 0: Candidate
 
