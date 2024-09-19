@@ -20,7 +20,7 @@ The Sandbox stage is the initial stage for projects being hosted by the OpenRail
 
 The Sandbox stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Sandbox stage.
 
-The barrier for entering the Sandbox stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association.
+The barrier for entering the Sandbox stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association with the support of the Technical Committee.
 
 ### Criteria
 
