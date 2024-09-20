@@ -27,5 +27,6 @@ There are some projects within OpenRail Association outside of the railway and t
 * [landscape](https://github.com/OpenRailAssociation/landscape), and experimental overview of Open Source projects in railways and transportation
 * [openrail-dns](https://github.com/OpenRailAssociation/openrail-dns), domain records configuration for some of OpenRail's domains
 * [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config), our configuration deployed using `github-org-manager`
+* [project-template](https://github.com/OpenRailAssociation/project-template), template for OpenRail repositories
 * [technical-committee](https://github.com/OpenRailAssociation/technical-committee), the repo for OpenRail's Technical Committee
 * [website](https://github.com/OpenRailAssociation/website), the sources of the [OpenRail Association's website](https://openrailassociation.org)
