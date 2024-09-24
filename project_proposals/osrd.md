@@ -63,10 +63,12 @@ Actually we have an internal process which is the same for internal and external
 
 * Check and comment if necessary until the reviewer thinks that the PR is fine
 * Reviewer ask for a review by a maintainer before merging
-## How can someone become s committer to the project?
+## How can someone become a committer to the project?
+
 For now, only the maintainers can make the final approval and merge the PR.
 ## How can someone become a maintainer of the project?
-It is not decided yet. I assume that once we have a contributor that provide good work, he or she can be granted maintainer. But we prefer not to have too much maintainers.
+It has not been decided yet. I assume that once we have a contributor that provides good work, he or she can be granted maintainer. But we prefer not to have too many maintainers.
+
 
 # Stage 2: Incubation
 
@@ -100,11 +102,13 @@ Proof of meeting criteria:
 * Project has implemented an open governance process. It's documented how decisions are taken in the project and how people can become committers and maintainers.
   * https://github.com/OpenRailAssociation/osrd/blob/dev/GOVERNANCE.md
 * Project explains the business roadmap.
-  * Nothing: We should add page on our website with our 2024 and 2025 roadmap. We should describe our main expected features.
+  * Nothing: We should add a page on our website with our 2024 and 2025 roadmap. We should describe our main expected features.
+
 * Project is used in production. It's sufficient if this is only the organization developing the project.
   * Multiple instances of OSRD run on "SNCF réseau" infrastructure.
   * A small group of people at "SNCF Réseau" is currently using OSRD for operational studies.
-  * We expect to have beta tester for the short term capacity management by the begining of october.
+  * We expect to have beta tester for the short term capacity management by the beginning of october.
+
 * Create clarity about licensing by being [REUSE](https://reuse.software) compliant.
   * [osrd](https://github.com/OpenRailAssociation/osrd/blob/7a61b4ca1bae2f28e097e863c0e6c0643b017cdf/.github/workflows/build.yml#L968-L973)
   * [osrd-ui](https://github.com/OpenRailAssociation/osrd-ui/blob/130f000824031d936fabe31fa9cfc04ed5bb8cd7/.github/workflows/osrd-ui-build.yml#L100-L106)
