@@ -1,5 +1,5 @@
- 
 # Questionnaire for OSRD
+
 ## What is the project's name?
 OSRD : Open Source Railway Designer
 ## Describe the project. What does the project do, why is it valuable, where does it come from?
@@ -63,7 +63,8 @@ Actually we have an internal process which is the same for internal and external
 
 * Check and comment if necessary until the reviewer thinks that the PR is fine
 * Reviewer ask for a review by a maintainer before merging
-## How can someone become s committer to the project?
+## How can someone become a committer to the project?
+
 For now, only the maintainers can make the final approval and merge the PR.
 ## How can someone become a maintainer of the project?
-It is not decided yet. I assume that once we have a contributor that provide good work, he or she can be granted maintainer. But we prefer not to have too much maintainers. 
+It has not been decided yet. I assume that once we have a contributor that provides good work, he or she can be granted maintainer. But we prefer not to have too many maintainers.
