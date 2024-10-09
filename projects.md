@@ -1,22 +1,22 @@
 # OpenRail Association Projects
 
-This is the list of projects accepted as OpenRail Association projects. Projects acceptance follows the [incubation process](incubation_process.md).
+This is the list of projects accepted as OpenRail Association projects. Projects acceptance follows the [incubation process](incubation-process.md).
 
 ## Stage 1
 
-* Open Source Railway Designer (OSRD) ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project_proposals/osrd.md)), accepted by vote of the board on 2024-02-02
+* Open Source Railway Designer (OSRD) ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/osrd.md)), accepted by vote of the board on 2024-02-02
   * https://github.com/OpenRailAssociation/osrd
   * https://github.com/OpenRailAssociation/osrd-ui
   * https://github.com/OpenRailAssociation/osrd-design
   * https://github.com/OpenRailAssociation/osrd-website
   * https://github.com/OpenRailAssociation/osrd-chart
   * https://github.com/OpenRailAssociation/osrd-images
-* RCM OSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project_proposals/RCM%20OSS.md)), accepted by vote of the board on 2024-03-14
+* RCM OSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/RCM%20OSS.md)), accepted by vote of the board on 2024-03-14
   * https://github.com/OpenRailAssociation/rcm-dx
-* DAC Migration DSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project_proposals/dac-migration-dss.md)), accepted by vote of the board on 2024-04-15
+* DAC Migration DSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/dac-migration-dss.md)), accepted by vote of the board on 2024-04-15
   * https://github.com/OpenRailAssociation/dac-migration-dss
-* Netzgrafik-Editor ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project_proposals/NGE.md)), accepted by vote of the board on 2024-06-21
-* liblrs ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project_proposals/liblrs.md)), accepted by vote of the board on 2024-07-12
+* Netzgrafik-Editor ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/NGE.md)), accepted by vote of the board on 2024-06-21
+* liblrs ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/liblrs.md)), accepted by vote of the board on 2024-07-12
 
 ## Administrative Projects
 

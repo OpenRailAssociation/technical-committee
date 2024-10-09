@@ -1,6 +1,6 @@
 # Questionnaire for projects intending to join the OpenRail Association
 
-*As a project intending to join the OpenRail Association, please fill out this questionnaire and send it to the Technical Committee. See the [incubation process](incubation_process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.*
+*As a project intending to join the OpenRail Association, please fill out this questionnaire and send it to the Technical Committee. See the [incubation process](../../incubation-process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.*
 
 *Copy this template and fill in your answers to the questions in the sections below.*
 

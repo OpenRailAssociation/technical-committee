@@ -33,7 +33,7 @@ The Technical Committee meets once per week. The agenda for each meeting is prep
 
 ## Projects
 
-Projects can join the OpenRail Association by using the [incubation process](incubation_process.md). Projects are supposed to adhere to certain standards to foster high quality projects which are useful to the sector. The barrier of entry is meant to be low, though. We want to provide an environment where projects can grow within the OpenRail Association.
+Projects can join the OpenRail Association by using the [incubation process](incubation-process.md). Projects are supposed to adhere to certain standards to foster high quality projects which are useful to the sector. The barrier of entry is meant to be low, though. We want to provide an environment where projects can grow within the OpenRail Association.
 
 We maintain a set of [project templates](project-templates/) which provides a baseline for projects joining the OpenRail Association in terms of governance according to open principles.
 
