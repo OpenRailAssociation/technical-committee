@@ -8,7 +8,7 @@ Naming is hard. Within OpenRail, all elements such as repositories must be prepe
 
 ## Repositories
 
-Only owners of the OpenRail organisation can create new repositories. This is to prevent clutter and unclear permissions.
+Only owners of the OpenRail organization can create new repositories. This is to prevent clutter and unclear permissions.
 
 The first repository will be set up as part of the onboarding as soon as the project has been accepted by the OpenRail Association in the [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation_process.md).
 
