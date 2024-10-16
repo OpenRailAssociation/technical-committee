@@ -14,7 +14,7 @@ The first repository will be set up as part of the onboarding as soon as the pro
 
 On the [project list](https://github.com/OpenRailAssociation/technical-committee/blob/main/projects.md) we list all repositories which belong to each OpenRail project. If you need an additional repository, create a pull request there with the name of the new repository and add any details in the text of the pull request. An owner of the organization will then work with you to set it up according to your needs. Once the setup is complete the pull request will be merged, so that the repo also shows up in the official project list.
 
-Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g. for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
+Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g., for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
 
 ## Members, teams, and permissions
 
