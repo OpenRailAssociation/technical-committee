@@ -31,7 +31,7 @@
 *Indicate documentation of the release process, how changes are communicated, versioning schemes, signing of release artifacts, etc.*
 
 
-### How are decisions taken in the project?
+### How are decisions made in the project?
 
 *Indicate documentation of the project governance.*
 
