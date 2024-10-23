@@ -4,7 +4,7 @@
 
 *Copy this template and fill in your answers to the questions in the sections below.*
 
-*The document has two sections. In the first section you provide references and evidence that show that you fullfil the criteria for incubation stage 2. These will mostly be links to documentation and other sources of information which show that you fullfil the criteria. Feel free to add any additional information which helps to explain or interprete this information. The second section is a checklist the Technical Committee fills out when it evaluates the proposal.*
+*The document has two sections. In the first section you provide references and evidence that show that you fulfill the criteria for incubation stage 2. These will mostly be links to documentation and other sources of information which show that you fulfill the criteria. Feel free to add any additional information which helps to explain or interpret this information. The second section is a checklist the Technical Committee fills out when it evaluates the proposal.*
 
 ## Health metrics
 
@@ -31,7 +31,7 @@
 
 ### How are decisions made in the project?
 
-*Please provide a link to the GOVERNANCE.md file of the project. This should explain the decision making process, including how technical decision are made such as accepting pull requests or deciding about technical architecture. The GOVERNANCE.md file should document the decision making process, which won't change very often. The CONTRIBUTING.md and possibly other files contain the more practical details, which will need continuous adaption. These files can point to the GOVERNANCE.md to reference the decision making process.*
+*Please provide a link to the GOVERNANCE.md file of the project. This should explain the decision making process, including how technical decisions are made such as accepting pull requests or deciding about technical architecture. The GOVERNANCE.md file should document the decision making process, which won't change very often. The CONTRIBUTING.md and possibly other files contain the more practical details, which will need continuous adaptation. These files can point to the GOVERNANCE.md to reference the decision making process.*
 
 ### What is the business roadmap of the project?
 
@@ -42,7 +42,7 @@
 
 ### Where is the project used in production?
 
-*Please provide links to references of production users or add equvalent information here.*
+*Please provide links to references of production users or add equivalent information here.*
 
 ### If the project includes specifications, where are reference implementations for these specifications?
 
@@ -64,7 +64,7 @@
 
 ## Evaluation by the Technical Committee
 
-*The following sections is filled out by the Techncial Committee. Please don't change it or add anything here when filling out the questionnaire as a project.*
+*The following sections are filled out by the Technical Committee. Please don't change it or add anything here when filling out the questionnaire as a project.*
 
 ### Criteria checklist
 
