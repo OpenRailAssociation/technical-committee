@@ -56,7 +56,7 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 * **The project has implemented an open governance process so that participation in the project becomes possible.** It is documented how decisions are taken in the project and how people can become committers and maintainers.
 * **There is a public business roadmap so that there is transparency about what drives the project.**
 * **The project's software is used in production so that it is demonstrated that the software is ready for serious use.** It is sufficient if this is only the organization developing the project.
-* **There is clarity about the licensing of the project so that it can be safely used in a compliant way.** To achieve that the project is [REUSE](https://reuse.software) compliant and there is an automatic check which runs the REUSE linter. Indicating copyright and license information in headers in each file is the preferred solution but to declare this information with the REUSE toml file can be a valid solution as well.
+* **There is clarity about the licensing of the project so that it can be safely used in a compliant way.** To achieve that the project is [REUSE](https://reuse.software) compliant and there is an automatic check which runs the REUSE linter. This detailed requirements and process are documented [here](project-handbook/reuse.md).
 * **The project requires the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) so that there is clarity about the provenance of contributed code.** The presence of the DCO information is automatically checked so that it is made sure that it is present in all commits.
 
 ### Process
