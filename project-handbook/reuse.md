@@ -29,7 +29,7 @@ When thinking about licensing and copyright of all your files, tricky questions 
 
 ### Annotating all files
 
-Once all these questions have been answered, the must be put into practice by adopting the REUSE standard for all your files. Ideally, each file will be annotated directly, so equipped with a comment header containing licensing and copyright information. Only if this isn't possible or not feasible (e.g. for binary or test files), one of the alternatives REUSE offers shall be chosen.
+Once all these questions have been answered, they must be put into practice by adopting the REUSE standard for all your files. Ideally, each file will be annotated directly, so equipped with a comment header containing licensing and copyright information. Only if this isn't possible or not feasible (e.g., for binary or test files), one of the alternatives REUSE offers shall be chosen.
 
 While the required information for REUSE compliance may be put manually into all files, it is strongly advised to make use of e.g. the [REUSE helper tool](https://github.com/fsfe/reuse-tool) that semi-automates many steps. However, manual checks and careful thoughts are mandatory, as described above.
 
