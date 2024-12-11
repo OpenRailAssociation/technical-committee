@@ -24,7 +24,7 @@ When thinking about licensing and copyright of all your files, tricky questions 
 
 * Are all files licensed the same way, or have files been copied from other projects under different licenses and copyrights?
 * Who owns the copyright of all the files? Just one organization, or were there contractors or external companies who acted under their own copyright?
-* Are there files that are not be licensed under the "main" license, e.g. icons, fonts, graphics, pictures?
+* Are there files that are not licensed under the "main" license, e.g., icons, fonts, graphics, pictures?
 * Are there trademarks or additional restrictions on parts of the projects, e.g. logos?
 
 ### Annotating all files
