@@ -10,7 +10,7 @@ Open Source projects typically depend on dozens to thousands of other Open Sourc
 
 To properly manage dependencies and potential risks, OpenRail projects should:
 
-1. use pinned dependencies to ensure a clear picture of the softare supply chain,
+1. use pinned dependencies to ensure a clear picture of the software supply chain,
 1. setup a system that automatically detects all dependencies and checks them against vulnerability databases,
 1. setup a system that automatically warns maintainers about detected vulnerabilities and ideally prepares pull requests to update these dependencies if a fix is available,
 1. and regularly update all dependencies to their latest (stable) versions to ensure that unknown security issues are also fixed.
@@ -27,6 +27,6 @@ Depending on the Incubation stage, OpenRail requires a minimum score. For OpenRa
 
 ## Security Policy
 
-OpenRail projects are requested provide a security policy that gives people instruction to report security issues. This security policy must be inside a file called `SECURITY.md`, [as documented by GitHub](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
+OpenRail projects are requested to provide a security policy that gives people instruction to report security issues. This security policy must be inside a file called `SECURITY.md`, [as documented by GitHub](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
 
 OpenRail projects are free to decide whether they provide an email address to send confidential security reports to, or use GitHub features such as the "private vulnerability reporting".
