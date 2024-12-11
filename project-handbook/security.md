@@ -10,7 +10,7 @@ Open Source projects typically depend on dozens to thousands of other Open Sourc
 
 To properly manage dependencies and potential risks, OpenRail projects should:
 
-1. use pinned dependencies to ensure a clear picture of the softare supply chain,
+1. use pinned dependencies to ensure a clear picture of the software supply chain,
 1. setup a system that automatically detects all dependencies and checks them against vulnerability databases,
 1. setup a system that automatically warns maintainers about detected vulnerabilities and ideally prepares pull requests to update these dependencies if a fix is available,
 1. and regularly update all dependencies to their latest (stable) versions to ensure that unknown security issues are also fixed.
