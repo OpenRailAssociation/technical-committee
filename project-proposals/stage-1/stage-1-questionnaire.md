@@ -1,8 +1,15 @@
 # Questionnaire for projects intending to join the OpenRail Association
 
-*As a project intending to join the OpenRail Association, please fill out this questionnaire and send it to the Technical Committee. See the [incubation process](../../incubation-process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.*
+\*As a project intending to join the OpenRail Association, please:
 
-*Copy this template and fill in your answers to the questions in the sections below.*
+- create your fork of this repository
+- create a copy of this questionnaire and rename it to your project name
+- answer the questions
+- commit to a new branch in your fork, name it new-project-[project name]
+- initiate a pull request from your new branch to this repository
+- inform the technical committee by email: peter.a.keller@sbb.ch, cornelius.schumacher@deutschebahn.com, loic.hamelin@reseau.sncf.fr
+
+Also see the doucmentation in [incubation process](../../incubation-process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.\*
 
 ##  What is the project's name?
 
