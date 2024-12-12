@@ -42,7 +42,8 @@ Originally, the repository contains a JSON API. We will split of the logic from 
 
 We propose MIT License or the Apache License 2.0 but want to have the advise of the technical committee
 
-## What other licenses does the project use, e.g. for included 3rd party code?
+## What other licenses does the project use, e.g., for included 3rd-party code?
+
 
 We are still in the progress of simplifying the libary, but at the moment, these packages are used with their respective licenses:
 
