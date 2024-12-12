@@ -62,7 +62,8 @@ No
 
 ## Does the project have a web site? Where is it? Are you ok with moving it to be hosted by the OpenRail Association?
 
-No, no website. We will forsee documentation and a seperate .net project to run tests, both will also be open sourced.
+No, no website. We will foresee documentation and a separate .net project to run tests, both will also be open sourced.
+
 
 ## What are the communication channels the project uses (such as mailing lists, Slack, IRC, etc.)?
 
