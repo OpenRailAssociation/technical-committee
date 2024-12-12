@@ -36,7 +36,8 @@ At the moment, on a gitlab server at Infrabel. We want to opensource it immediat
 
 ## Which exact repositories do you intend to transfer to the GitHub organization of the OpenRail Association?
 
-Originally, the repository contains a JSON API. We will split of the logic from the API and put it in a seperate repository. The API wrapper is not very usefull to opensource, so we will only opensource the library repository.
+Originally, the repository contains a JSON API. We will split of the logic from the API and put it in a separate repository. The API wrapper is not very useful to opensource, so we will only opensource the library repository.
+
 
 ## What is the project's main license?
 
