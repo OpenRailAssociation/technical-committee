@@ -102,7 +102,8 @@ All organisations that use measurement trains and process the measurements. But 
 
 Because all infra managers do this and should better do it together.
 
-## Are there competing products or projects? If there are please explain how the proposed projects differentiates.
+## Are there competing products or projects? If there are, please explain how the proposed projects differentiates.
+
 
 Not that we know of.
 
