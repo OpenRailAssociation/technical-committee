@@ -48,8 +48,6 @@ We propose MIT License or the Apache License 2.0 but want to have the advise of 
 
 We are still in the progress of simplifying the library, but at the moment, these packages are used with their respective licenses:
 
-
-- Microsoft.VisualStudio.Azure.Containers.Tools.Targets: [Microsoft specific license](https://www.nuget.org/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0/License)
 - NetTopologySuite: BSD-3-Clause License
 - NodaTime: Apache License 2.0
 - Npgsql.NetTopologySuite: PostgreSQL License
