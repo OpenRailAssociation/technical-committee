@@ -41,7 +41,7 @@ Originally, the repository contains a JSON API. We will split of the logic from 
 
 ## What is the project's main license?
 
-We propose MIT License or the Apache License 2.0 but want to have the advise of the technical committee
+Apache License 2.0
 
 ## What other licenses does the project use, e.g., for included 3rd-party code?
 
