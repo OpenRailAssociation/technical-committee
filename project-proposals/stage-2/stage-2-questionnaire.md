@@ -60,6 +60,26 @@
 *Do commits include "Signed-Off" trailers? Is the DCO bot enabled on the project? Please provide a link to the commit history where the commits with the "Signed-Off" trailers are shown*
 
 
+## Security
+
+### Does the project use pinned dependencies everywhere?
+
+*Please provide links to the files in which dependencies are defined*
+
+
+### Does the project have an automatic dependency and vulnerability process?
+
+*Does the project use tools like Dependabot or Renovate to check for outdated and vulnerable dependencies? Are security advisories automatically created, and pull requests automatically prepared? Please provide links to CI steps (if available) or past issues/pull requests which fixed dependency issues.*
+
+### What's the OpenSSF Scorecard score of the project?
+
+*Projects in this stage are required to reach at least 5/10 points. Please provide the full OpenSSF scorecard report. You may add information if you think the OpenSSF Scorecard tool made a false-positive/negative finding in one of the practices.*
+
+*Please provide the link to the README where the OpenSSF scorecard score is communicated together with the date of the last check.*
+
+### What is the security policy of the project?
+
+*Please provide a link to the security policy of your project.*
 
 
 ## Evaluation by the Technical Committee
