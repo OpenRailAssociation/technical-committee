@@ -1,8 +1,8 @@
 # Establish security best practices
 
-OpenRail projects are requested to follow security best practices. Especially projects from Incubation Stage 2 onwards must follow these to ensure that users can trust them.
+OpenRail projects are supposed to follow security best practices. Especially projects from Incubation Stage 2 onwards must follow these to ensure that users can trust them.
 
-Some best practices are technical, others rather relate to communication and documentation. We are aware that opinions may differ on the selection and priority of certain criteria, but this document defines a baseline which the OpenRail projects agree on.
+Some best practices are technical, others rather relate to communication and documentation. We are aware that there can be different perspectives on the selection and priority of certain criteria, but this document defines a baseline which the OpenRail projects agree on.
 
 ## Vulnerability management of dependencies
 
