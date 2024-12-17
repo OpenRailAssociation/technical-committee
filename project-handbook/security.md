@@ -23,7 +23,7 @@ The [OpenSSF Scorecard](https://scorecard.dev/) is a method and tool to quickly 
 
 OpenSSF Scorecard can be run locally or as a GitHub action in CI steps. The checks can be quite resource-expensive, so should not be triggered on every commit.
 
-Depending on the Incubation stage, OpenRail requires a minimum score. For OpenRail, the score is only relevant for the time of the Incubation stage application, but it is obvious that projects should at least retain the reached score.
+Depending on the Incubation stage, OpenRail requires a minimum score. If a check is required by the incubation stage, its score must be communicated in the project's `README.md` with a date of the last check, and updated when things change or at least once a year. However, an automatic check is not necessary.
 
 ## Security Policy
 

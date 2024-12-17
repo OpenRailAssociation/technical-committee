@@ -75,6 +75,8 @@
 
 *Projects in this stage are required to reach at least 5/10 points. Please provide the full OpenSSF scorecard report. You may add information if you think the OpenSSF Scorecard tool made a false-positive/negative finding in one of the practices.*
 
+*Please provide the link to the README where the OpenSSF scorecard score is communicated together with the date of the last check.*
+
 ### What is the security policy of the project?
 
 *Please provide a link to the security policy of your project.*
