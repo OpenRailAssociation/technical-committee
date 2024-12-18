@@ -8,7 +8,7 @@ Projects can be in four stages which are reflecting the maturity of the project 
 
 The criteria for entering each stage cover the compliance, business, and technical evaluation of the project. The evaluation has to be done for each version of the project. A community version could be accepted and not the enterprise version.
 
-The criteria for each stage are listed in the subsequent sections along with the process how projects are accepted into the corresponding stage. Projects are going through the stages in a sequential order, stages can't be skipped, even if the project is already starting from a mature point. The exception is the Retired state which can always directly be entered by projects which are not active anymore.
+The criteria for each stage are listed in the subsequent sections along with the process of how projects are accepted into the corresponding stage. Projects are going through the stages in a sequential order, stages can't be skipped, even if the project is already starting from a mature point. The exception is the Retired state which can always directly be entered by projects which are not active anymore.
 
 ## Stage 0: Candidate
 
@@ -58,7 +58,7 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 * **The project's software is used in production so that it is demonstrated that the software is ready for serious use.** It is sufficient if this is only the organization developing the project.
 * **There is clarity about the licensing of the project so that it can be safely used in a compliant way.** To achieve that the project is [REUSE](https://reuse.software) compliant and there is an automatic check which runs the REUSE linter. Indicating copyright and license information in headers in each file is the preferred solution but to declare this information with the REUSE toml file can be a valid solution as well.
 * **The project requires the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) so that there is clarity about the provenance of contributed code.** The presence of the DCO information is automatically checked so that it is made sure that it is present in all commits.
-* **The project follows baseline security best practices.** The project pins its dependencies and has an automated process to detect and update (vulnerable) dependencies. The project reaches an [OpenSSF Scorecard](https://openssf.org/projects/scorecard/) score of at least 5/10 and commicates the score with the check date in `README.md`. The project has a security policy in `SECURITY.md`. These best practices are detailed [here](project-handbook/security.md).
+* **The project follows baseline security best practices.** The project pins its dependencies and has an automated process to detect and update (vulnerable) dependencies. The project reaches an [OpenSSF Scorecard](https://openssf.org/projects/scorecard/) score of at least 5/10 and communicates the score with the check date in `README.md`. The project has a security policy in `SECURITY.md`. These best practices are detailed [here](project-handbook/security.md).
 
 ### Process
 
@@ -83,12 +83,12 @@ Projects at the Graduated stage fit into the overall architecture of the OpenRai
 
 * Document that it is being used successfully in production by at least three independent adopters which, in the TC’s judgement, are of adequate quality and scope.
 * Have committers from at least two organizations.
-* Have achieved and maintained a OpenSSF Best Practices Badge.
+* Have achieved and maintained an OpenSSF Best Practices Badge.
 * Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
 * Explicitly define a project governance and committer process. The committer process should cover the full committer lifecycle including onboarding and offboarding or emeritus criteria. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
-* Explicitly define the criteria, process and offboarding or emeritus conditions for project maintainers; or those who may interact with the CNCF on behalf of the project. The list of maintainers should be preferably be stored in a MAINTAINERS.md file and audited at a minimum of an annual cadence.
+* Explicitly define the criteria, process and offboarding or emeritus conditions for project maintainers; or those who may interact with the CNCF on behalf of the project. The list of maintainers should preferably be stored in a MAINTAINERS.md file and audited at a minimum of an annual cadence.
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
-* Please include a short one-page narrative based off the Graduation template, no more than 500 words.
+* Please include a short one-page narrative based on the Graduation template, no more than 500 words.
 
 ### Process
 
@@ -99,7 +99,7 @@ Projects at the Graduated stage fit into the overall architecture of the OpenRai
 
 ## Stage 4: Retired
 
-Project that aren't developed anymore or that have been replaced by another project are moved to the Retired stage.
+Projects that aren't developed anymore or that have been replaced by another project are moved to the Retired stage.
 
 ### Criteria
 
