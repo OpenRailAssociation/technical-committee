@@ -25,7 +25,6 @@ When thinking about licensing and copyright of all your files, tricky questions 
 * Are all files licensed the same way, or have files been copied from other projects under different licenses and copyrights?
 * Who owns the copyright of all the files? Just one organization, or were there contractors or external companies who acted under their own copyright?
 * Are there files that are not licensed under the "main" license, e.g., icons, fonts, graphics, pictures?
-* Are there trademarks or additional restrictions on parts of the projects, e.g. logos?
 
 ### Annotating all files
 
@@ -39,3 +38,7 @@ We require two additional steps to ensure that the best practices will be kept:
 
 1. Integrate a REUSE check into your CI, to ensure that new files without proper licensing/copyright annotation issue a warning. Possibilities are explained [here](https://reuse.software/dev/), e.g. via a GitHub action.
 2. Register the project with the [REUSE API](https://api.reuse.software/) and put the resulting badge into your `README` file. This will demonstrate the adoption of this standard and therefore the re-usability to potential users and contributors.
+
+## Trademarks and further restrictions
+
+There may be further legal restrictions and rights you need to consider, for example trademarks and usage restrictions on logos and fonts. REUSE only covers licenses and copyrights. Therefore, you should communicate such additional legal information in the `README` file. Please make sure to be transparent and helpful to potential users and contributors how they can use or modify these special parts.
