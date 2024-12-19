@@ -1,8 +1,8 @@
 # Adopt REUSE to ensure licensing transparency
 
-OpenRail projects are supposed to be safely used in a compliant way. This is why from Incubation Stage 2 onwards, projects shall adopt the [REUSE](https://reuse.software/) best practices for licensing and copyright information.
+OpenRail projects are supposed to enable users to easily and safely comply with licensing requirements. Starting from Incubation Stage 2, projects are required to adopt [REUSE](https://reuse.software/) best practices for licensing and copyright information.
 
-The fundamental idea is that for all files within a project there is unambiguous information about their license and copyright. REUSE consists of a standard and various tools and services that help with reaching and ensuring this clarity.
+REUSE ensures that for every file in a project there is unambiguous information about their license and copyright. It provides a clear standard, along with tools and services, to help with achieving and maintaining this clarity.
 
 This document helps with the adoption by providing links to relevant material and making recommendations for OpenRail projects.
 
@@ -29,7 +29,7 @@ When thinking about licensing and copyright of all your files, tricky questions 
 
 ### Annotating all files
 
-Once all these questions have been answered, they must be put into practice by adopting the REUSE standard for all your files. Ideally, each file will be annotated directly, so equipped with a comment header containing licensing and copyright information. Only if this isn't possible or not feasible (e.g., for binary or test files), one of the alternatives REUSE offers shall be chosen.
+Once all these questions have been answered, they must be put into practice by documenting copyright and licensing information following the REUSE standard for all your files. Ideally, each file will be annotated directly, so equipped with a comment header containing licensing and copyright information. This gives the maximum clarity. If this isn't possible or not feasible (e.g., for binary or test files), one of the alternatives REUSE offers shall be chosen.
 
 While the required information for REUSE compliance may be put manually into all files, it is strongly advised to make use of e.g. the [REUSE helper tool](https://github.com/fsfe/reuse-tool) that semi-automates many steps. However, manual checks and careful thoughts are mandatory, as described above.
 
