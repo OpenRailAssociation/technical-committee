@@ -53,11 +53,11 @@
 
 ### Is the project REUSE compliant?
 
-*Does the project include licensing information according to the [REUSE standard](https://reuse.software)? Please provide the link to the README where the REUSE badge is shown.*
+*Does the project include licensing information according to the [REUSE standard](https://reuse.software)? Did you register your project with the REUSE API, and set up CI checks? Are contributors informed about this in your CONTRIBUTING.md? Please provide the link to the README where the REUSE badge is shown, the CI workflow for REUSE checks, as well as your CONTRIBUTING.md where the REUSE requirement is mentioned.*
 
 ### Does the project use the Developer Certificate of Origin?
 
-*Do commits include "Signed-Off" trailers? Is the DCO bot enabled on the project? Please provide a link to the commit history where the commits with the "Signed-Off" trailers are shown*
+*Do commits include "Signed-Off" trailers? Is the DCO bot enabled on the project? Are contributors informed about this in your CONTRIBUTING.md? Please provide a link to the commit history where the commits with the "Signed-Off" trailers are shown, as well as your CONTRIBUTING.md where the DCO requirement is mentioned.*
 
 
 ## Security
