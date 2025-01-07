@@ -29,6 +29,8 @@
 
 *Please provide a link to a document which describes the release process. This should explain how changes are communicated, versioning schemes, signing of release artifacts, etc.*
 
+*You can find an example here: https://osrd.fr/en/docs/guides/release/*
+
 ### How are decisions made in the project?
 
 *Please provide a link to the GOVERNANCE.md file of the project. This should explain the decision making process, including how technical decisions are made such as accepting pull requests or deciding about technical architecture. The GOVERNANCE.md file should document the decision making process, which won't change very often. The CONTRIBUTING.md and possibly other files contain the more practical details, which will need continuous adaptation. These files can point to the GOVERNANCE.md to reference the decision making process.*
@@ -80,7 +82,6 @@
 ### What is the security policy of the project?
 
 *Please provide a link to the security policy of your project.*
-
 
 ## Evaluation by the Technical Committee
 
