@@ -20,6 +20,8 @@ The goal of the library is to have a flexible, high performance and easy to inte
 * high performance
 * extract geographical linestrings between two reference points
 
+libLRS is designed to be a comprehensive solution for managing linear referencing systems in the railway industry, providing flexibility, high performance, and ease of integration.
+
 ## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
 
 loic.hamelin@sncf.fr, ext.tristram.grabener@sncf.fr, ext.louis.greiner@sncf.fr
