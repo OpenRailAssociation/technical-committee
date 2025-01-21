@@ -38,6 +38,7 @@
 ### What is the business roadmap of the project?
 
 *Please provide a link to the roadmap of the project.*
+*You can find an example here: https://osrd.fr/en/about/roadmap/*
 
 
 ## Adoption
