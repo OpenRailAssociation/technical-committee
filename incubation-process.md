@@ -51,7 +51,7 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 ### Criteria
 
 * **The project has a healthy base of contributors so that it is developed in a sustainable way.** It has a healthy number of committers, i.e., people who can accept contributions to some or all of the project. Committers can come from the same organization. It demonstrates a substantial ongoing flow of commits and merged contributions. Since these metrics can vary significantly depending on the type, scope and size of a project, the TC has final judgement over the level of activity that is adequate to meet these criteria.
-* **There is a clear release process so that users know what to expect from releases.** This includes transparency about the release cycle, communicating changes via changelogs, and a clear versioning scheme. It also includes cryptographically signing release artifacts so that users can make sure they receive the software from trustable sources.
+* **There is a clear release process so that users know what to expect from releases.** This includes transparency about the release cycle, communicating changes via changelogs, and a clear versioning scheme. It also includes cryptographically signing release artifacts so that users can make sure they receive the software from trustable sources. It's recommended to provide SBOMs for all release artifacts.
 * **Specifications must have at least one public reference implementation so that the practicality of the specification is demonstrated and adopters have a base to start from.**
 * **The project has implemented an open governance process so that participation in the project becomes possible.** It is documented how decisions are taken in the project and how people can become committers and maintainers.
 * **There is a public business roadmap so that there is transparency about what drives the project.**
@@ -84,6 +84,7 @@ Projects at the Graduated stage fit into the overall architecture of the OpenRai
 * Document that it is being used successfully in production by at least three independent adopters which, in the TC’s judgement, are of adequate quality and scope.
 * Have committers from at least two organizations.
 * Have achieved and maintained an OpenSSF Best Practices Badge.
+* Provide SBOMs for all release artifacts
 * Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
 * Explicitly define a project governance and committer process. The committer process should cover the full committer lifecycle including onboarding and offboarding or emeritus criteria. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
 * Explicitly define the criteria, process and offboarding or emeritus conditions for project maintainers; or those who may interact with the CNCF on behalf of the project. The list of maintainers should preferably be stored in a MAINTAINERS.md file and audited at a minimum of an annual cadence.
