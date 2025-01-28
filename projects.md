@@ -22,6 +22,7 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 
 There are some projects within OpenRail Association outside of the railway and transportation domain. They are used for managing the technical infrastructure of the OpenRail Association or for general purposes of the organization. They do not follow the incubation process but follow best practices depending on their criticality.
 
+* [annual-report](https://github.com/OpenRailAssociation/annual-report), sources for annual reports of the OpenRail Association
 * [compliance-assistant](https://github.com/OpenRailAssociation/compliance-assistant), helping with tasks for license reviews, e.g. creating and enriching SBOMs
 * [FOSDEM](https://github.com/OpenRailAssociation/FOSDEM) for organizing the "Railways and Open Transportation" devroom at the FOSDEM conference
 * [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager) to manage permissions and settings in a GitHub organization
