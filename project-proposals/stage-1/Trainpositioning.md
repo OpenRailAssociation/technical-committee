@@ -21,10 +21,10 @@ The library works by taking into account:
 
 Infrabel:
 
-- glenn.vancalster@infrabel.be
+- benjamin.bex@infrabel.be
 - kevin.goos@infrabel.be
 - ilya.quateau@infrabel.be
-- mathias.vandenauweele@infrabel.be
+- glenn.vancalster@infrabel.be
 
 ## Which organizations are sponsoring/contributing to the project?
 
@@ -72,10 +72,10 @@ Git issues
 
 ## What is the project's leadership team and decision-making process?
 
-- PM: glenn.vancalster@infrabel.be
+- Project lead: benjamin.bex@infrabel.be
+- Teamlead: glenn.vancalster@infrabel.be
 - Dev: kevin.goos@infrabel.be
 - Dev: ilya.quateau@infrabel.be
-- Prev PM / Dev: mathias.vandenauweele@infrabel.be
 
 ## How is it decided if and when a pull request is merged?
 
