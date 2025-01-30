@@ -2,6 +2,7 @@ Everything you need to know as a project within the OpenRail Association.
 
 # Table of Content
 
+* [Charter]({{< ref "charter" >}})
 * [Applying to become an OpenRail project]({{< ref "application" >}})
 * [Onboarding as a new project]({{< ref "onboarding" >}})
 * [Setting up open governance]({{< ref "governance" >}})

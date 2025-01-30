@@ -1,0 +1,15 @@
+baseURL = 'https://cornelius.github.io/technical-committee'
+languageCode = 'en-us'
+title = 'OpenRail Project Handbook'
+theme = "book"
+
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = '../docs'
+    target = 'content/docs'
+  [[module.mounts]]
+    source = '../charter.md'
+    target = 'content/docs/charter.md'
