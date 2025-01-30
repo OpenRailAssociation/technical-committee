@@ -1,6 +1,6 @@
 ---
-title: Developer Certificate of Origin
-weight: 600
+title: DCO
+weight: 100
 ---
 # Signing off commits with the Developer Certificate of Origin (DCO)
 

@@ -11,7 +11,7 @@ Hosting an open source project means that the OpenRail Association provides the 
 
 Development of the open source software in the projects is done by the project participants. This will be members by the OpenRail Association in many cases, but this is not a prerequisite. All projects follow an open governance model, which means that decision are taken transparently and participation in projects is based on merits. The OpenRail Association makes sure that these principles are followed for its projects, but leaves projects a lot of autonomy to organize themselves in the way which is most suitable for the project. Control about the content of the project is fully with the projects. The OpenRail Foundation does not provide funding for development.
 
-The [incubation process](https://github.com/cornelius/technical-committee/blob/main/incubation_process.md) defines how projects can become part of the OpenRail Association and what conditions have to be met at which stage. The first step is to apply to be hosted as an official OpenRail Association project. Here is how:
+The [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation-process.md) defines how projects can become part of the OpenRail Association and what conditions have to be met at which stage. The first step is to apply to be hosted as an official OpenRail Association project. Here is how:
 
 ## Decide on adopting an open source model
 
@@ -31,9 +31,9 @@ Once you have decided that the OpenRail Association is the right path, go on to 
 
 ## Fill out the questionnaire for new projects
 
-There is a [questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/new-project-questionnaire.md) which helps you to collect the relevant information which is required to describe your project and give the base for the decision of the OpenRail Association on acceptance of your project as an officially hosted OpenRail project.
+There is a [questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/stage-1-questionnaire.md) which helps you to collect the relevant information which is required to describe your project and give the base for the decision of the OpenRail Association on acceptance of your project as an officially hosted OpenRail project.
 
-Take the questionnaire and open a pull request in the repository of the technical committee where you add the questionnaire as a [project proposal](https://github.com/OpenRailAssociation/technical-committee/tree/main/project_proposals) with the answers of your project filled in.
+Take the questionnaire and open a pull request in the repository of the technical committee where you add the questionnaire as a [project proposal](https://github.com/OpenRailAssociation/technical-committee/tree/main/project-proposals/stage-1) with the answers of your project filled in.
 
 The Technical Committee will evaluate the proposal and get in contact with you to clarify any open questions and get the proposal into a shape which is suitable for acceptance.
 

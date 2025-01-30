@@ -8,4 +8,4 @@ The Technical Committee is the working body of the OpenRail Association which ac
 
 Each project can send a representative into the Technical Committee. **As a project you need to name a person who gets invited to the weekly meetings of the Technical Committee** and has voting rights on decisions taken there. That said, almost all decisions are taken by consensus and those who do the actual work. We maintain a very collaborative culture there.
 
-More information about the Technical Committee can be found in its [charter](https://github.com/OpenRailAssociation/technical-committee/blob/main/charter.md). The group can be reached via email at technical-committee@openrailassociation.org.
+More information about the Technical Committee can be found in its [charter]({{< ref charter >}}). The group can be reached via email at technical-committee@openrailassociation.org.

@@ -1,5 +1,5 @@
 ---
-title: Incubation Process
+title: Incubation Stages
 weight: 700
 ---
 # Progressing in the Incubation Process

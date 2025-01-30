@@ -1,18 +1,13 @@
-Everything you need to know as a project within the OpenRail Association.
+**Everything you need to know as a project within the OpenRail Association.**
 
-# Table of Content
+This handbook covers all the relevant information for projects joining and working within the OpenRail Association. It is maintained by the OpenRail Technical Committee to support OpenRail projects to operate as successful open source projects.
 
-* [Charter]({{< ref "charter" >}})
-* [Applying to become an OpenRail project]({{< ref "application" >}})
-* [Onboarding as a new project]({{< ref "onboarding" >}})
-* [Setting up open governance]({{< ref "governance" >}})
-* [Participating in the Technical Committee]({{< ref "technical-committee" >}})
-* [Managing technical infrastructure]({{< ref "infrastructure" >}})
-  * [GitHub]({{< ref "github-management" >}})
-  * [Domain names]({{< ref "domain-names" >}})
-* [Signing off commits with the Developer Certificate of Origin (DCO)]({{< ref "dco" >}})
-* [Progressing in the incubation process]({{< ref "incubation" >}})
-  * [Activities at the Sandbox Stage]({{< ref "sandbox" >}})
-  * [Advancing to the Incubated Stage]({{< ref "incubated" >}})
-  * [Advancing to the Graduated Stage]({{< ref "graduated" >}})
-  * [Retiring a project]({{< ref "retired" >}})
+Here are the main sections of the handbook:
+
+* [Joining OpenRail]({{< ref joining >}}) - How to become an OpenRail project
+* [Incubation Stages]({{< ref incubation >}}) - How to grow as a project within the OpenRail Association
+* [Good Practices]({{< ref practices >}}) - Good practices adopted by OpenRail projects
+* [Technical Infrastructure]({{< ref infrastructure >}}) - Technical infrastructure for OpenRail projects
+* [Charter of the Technical Committee]({{< ref charter >}}) - How the Technical Committee is operating
+
+Use the navigation menu on the left to navigate to more detailed sections of the handbook.

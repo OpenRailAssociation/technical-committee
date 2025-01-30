@@ -1,3 +1,8 @@
+---
+title: License Review
+weight: 100
+---
+
 # Review licensing of future/current OpenRail projects
 
 Doing a license review of a project is part of the OpenRail project incubation process, and it might also make sense to make a review continuously or once in a while. This document presents the necessary and possible steps while the mandatory or optional triggers are discussed in other places.
