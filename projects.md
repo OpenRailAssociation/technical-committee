@@ -13,6 +13,7 @@ This is the list of projects accepted as OpenRail Association projects. Projects
   * https://github.com/OpenRailAssociation/osrd-images
 * RCM OSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/RCM%20OSS.md)), accepted by vote of the board on 2024-03-14
   * https://github.com/OpenRailAssociation/rcm-dx
+  * https://github.com/OpenRailAssociation/rcm-dx-examples
 * DAC Migration DSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/dac-migration-dss.md)), accepted by vote of the board on 2024-04-15
   * https://github.com/OpenRailAssociation/dac-migration-dss
 * Netzgrafik-Editor ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/NGE.md)), accepted by vote of the board on 2024-06-21
