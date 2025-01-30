@@ -12,4 +12,4 @@ Once the project has reached this level of adoption it's ready to move to the ne
 Projects on the Incubated stage are required to have adopted these practices:
 
 * [DCO]({{< ref dco >}})
-* [REUSE]({{ ref reuse }})
+* [REUSE]({{< ref reuse >}})
