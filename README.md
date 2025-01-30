@@ -10,26 +10,30 @@ Goals, principles and how it works are described in the [Charter](charter.md) of
 
 ## Members
 
-The members of the Technical Committee are representatives of the projects plus up to three people  appointed by the board of the OpenRail Association.
+The members of the Technical Committee are representatives of the projects plus up to three people appointed by the board of the OpenRail Association.
 
 The current members of the Technical Committee are:
 
-* Cornelius Schumacher (DB Systel, appointed), Chair of the Technical Committee
-* Loic Hamelin (SNCF Réseau, appointed)
-* Peter Keller (SBB, appointed)
-* Florian Amsallem (OSRD)
-* Stephanie Schalbetter (RCM OSS)
-* Frederik Schäfer (DAC Migration DSS)
-* Adrian Egli (Netzgrafik-Editor)
-* Tristram Gräbener (liblrs)
+* [Loic Hamelin](https://github.com/loic-hamelin) (SNCF Réseau, appointed), Chair of the Technical Committee
+* [Cornelius Schumacher](https://github.com/cornelius) (DB Systel, appointed)
+* [Peter Keller](https://github.com/Keller-Peter) (SBB, appointed)
+* [Florian Amsallem](https://github.com/flomonster) (OSRD)
+* [Stephanie Schalbetter](https://github.com/schalbts) (RCM OSS)
+* [Frederik Schäfer](https://github.com/frederik-db) (DAC Migration DSS)
+* [Adrian Egli](https://github.com/aiAdrian) (Netzgrafik-Editor)
+* [Tristram Gräbener](https://github.com/Tristramg) (liblrs)
+
+Permanent guests:
+
+* [Max Mehl](https://github.com/mxmehl) (OpenRail Team's Technical Infrastructure Manager)
 
 ## Meetings
 
-The Technical Committee meets once per week. The agenda for each meeting is prepared in an GitHub issue and the protocols of the meetings are collected in the [meetings folder](meetings/).
+The Technical Committee meets once per week. The agenda for each meeting is prepared in a GitHub issue and the protocols of the meetings are collected in the [meetings folder](meetings/).
 
 ## Projects
 
-Projects can join the OpenRail Association by using the [incubation process](incubation_process.md). Projects are supposed to adhere to certain standards to foster high quality projects which are useful to the sector. The barrier of entry is meant to be low, though. We want to provide an environment where projects can grow within the OpenRail Association.
+Projects can join the OpenRail Association by using the [incubation process](incubation-process.md). Projects are supposed to adhere to certain standards to foster high quality projects which are useful to the sector. The barrier of entry is meant to be low, though. We want to provide an environment where projects can grow within the OpenRail Association.
 
 We maintain a set of [project templates](project-templates/) which provides a baseline for projects joining the OpenRail Association in terms of governance according to open principles.
 

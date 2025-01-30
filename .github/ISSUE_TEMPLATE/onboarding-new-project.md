@@ -16,5 +16,6 @@ assignees: ''
   * [ ] License review (see https://github.com/OpenRailAssociation/compliance-assistant)
   * [ ] Move the repos
   * [ ] Set up teams/people/collaborators with access to the repos
+  * [ ] Create pull request for adding repos to the [project list](https://github.com/OpenRailAssociation/technical-committee/blob/main/projects.md)
 * [ ] Review repos and make sure that they have necessary files (CONTRIBUTING.md, CODE_OF_CONDUCT.md, MAINTAINERS.md, etc.; see [project templates](https://github.com/OpenRailAssociation/technical-committee/tree/main/project-templates))
 * [ ] Add project to web site
