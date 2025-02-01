@@ -8,5 +8,5 @@ The Graduated stage is the most advanced and mature stage of the incubation proc
 Projects on the Graduated stage are required to have adopted these practices:
 
 * [DCO]({{< ref dco >}})
-* [REUSE]({{ ref reuse }})
+* [REUSE]({{< ref reuse >}})
 * SBOM generation for all release artifacts
