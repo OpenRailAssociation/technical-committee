@@ -1,5 +1,5 @@
 ---
-title: Applying as OpenRail project
+title: Applying as OpenRail Project
 weight: 100
 ---
 

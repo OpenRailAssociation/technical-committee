@@ -1,8 +1,8 @@
 ---
-title: Setting up open governance
+title: Setting up Open Governance
 weight: 300
 ---
-# Setting up open governance
+# Setting up Open Governance
 
 We believe that the full power of open source is unleashed when open source is followed not only by the letter but also in spirit. That's why we require projects to not only adopt an open source license for the code but also an open and transparent collaboration model. We (and others) call that [open governance](https://opengovernance.dev/).
 

@@ -1,3 +1,7 @@
+---
+title: Charter of the Technical Committee
+weight: 2000
+---
 # Charter of the Technical Committee of the OpenRail Association
 
 *Version 1.0 - Validated by the board of directors on 2024-01-29*

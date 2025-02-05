@@ -1,5 +1,5 @@
 ---
-title: Onboarding a project
+title: Onboarding a Project
 weight: 200
 ---
 
