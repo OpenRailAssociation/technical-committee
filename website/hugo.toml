@@ -4,6 +4,8 @@ title = 'OpenRail Project Handbook'
 theme = "book"
 
 [module]
+  [[module.imports]]
+    path = 'github.com/alex-shpak/hugo-book'
   [[module.mounts]]
     source = 'content'
     target = 'content'
