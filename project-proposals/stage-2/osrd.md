@@ -161,13 +161,22 @@ All our services use build systems that handle pinned dependencies.
 
 ### Criteria checklist
 
-* [ ] Healthy contributor base
-* [ ] Clear release process
-* [ ] Reference implementations for specifications
-* [ ] Open governance
-* [ ] Public roadmap
-* [ ] Production users
-* [ ] REUSE compliance
-* [ ] Use of DCO
+* [X] Healthy contributor base
+* [x] Clear release process
+* [x] Reference implementations for specifications
+* [x] Open governance
+* [x] Public roadmap
+* [x] Production users
+* [x] REUSE compliance
+* [x] Use of DCO
 
 ### Additional comments by the Technical Committee
+
+Reference implementations for specifications: Don't apply since it's not a lib or API...
+Open governance:
+- The project meets the requirements for stage 2
+- Functional decisions are not transparent
+- How to become a maintainer is not clear.
+- Does the MAINTAINERS.md make sense? We could reference our CODEOWNERS file instead to keep it up to date.
+Public roadmap:
+- Could be more detailed (at least for the current year)
