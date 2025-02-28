@@ -16,6 +16,8 @@ Projects which intend to join the OpenRail Association are considered candidates
 
 ## Stage 1: Sandbox
 
+![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
+
 The Sandbox stage is the initial stage for projects being hosted by the OpenRail Association. Sandbox projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
 
 The Sandbox stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Sandbox stage.
@@ -41,6 +43,8 @@ The barrier for entering the Sandbox stage is intended to be low, so that it's e
 7. Sandbox projects can use the badge "OpenRail project (Sandbox)" (to be created).
 
 ## Stage 2: Incubation
+
+![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
 
 The Incubation stage is for projects that have reached a high level of quality and maturity that indicates they are ready to be used by end users. Incubation projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
 
@@ -68,6 +72,8 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 4. Sandbox projects can use the badge "OpenRail project (Incubation)" (to be created).
 
 ## Stage 3: Graduated
+
+![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
 
 The Graduated stage is for projects which have reached a level of high maturity and adoption. They are the flagship projects of the OpenRail Association.
 
