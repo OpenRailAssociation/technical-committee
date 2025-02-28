@@ -1,3 +1,7 @@
+---
+title: REUSE
+weight: 200
+---
 # Adopt REUSE to ensure licensing transparency
 
 OpenRail projects are supposed to enable users to easily and safely comply with licensing requirements. Starting from Incubation Stage 2, projects are required to adopt [REUSE](https://reuse.software/) best practices for licensing and copyright information.

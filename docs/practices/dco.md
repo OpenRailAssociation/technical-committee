@@ -1,4 +1,8 @@
-# Developer Certificate of Origin
+---
+title: DCO
+weight: 100
+---
+# Signing off commits with the Developer Certificate of Origin (DCO)
 
 In order to provide clarity about the provenance of code being contributed to OpenRail projects, we use the [Developer Certificate of Origin (DCO)](https://developercertificate.org/).
 
