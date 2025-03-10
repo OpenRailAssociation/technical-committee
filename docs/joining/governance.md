@@ -4,7 +4,7 @@ weight: 300
 ---
 # Setting up Open Governance
 
-We believe that the full power of open source is unleashed when open source is followed not only by the letter but also in spirit. That's why we require projects to not only adopt an open source license for the code but also an open and transparent collaboration model. We (and others) call that [open governance](https://opengovernance.dev/).
+We believe that the full power of Open Source is unleashed when Open Source is followed not only by the letter but also in spirit. That's why we require projects to not only adopt an Open Source license for the code but also an open and transparent collaboration model. We (and others) call that [open governance](https://opengovernance.dev/).
 
 ## Principles
 
@@ -23,4 +23,4 @@ Projects are required to adopt an open governance model. The Technical Committee
 
 As a base for projects to define their governance rules the Technical Committee also maintains a set of [templates](https://github.com/OpenRailAssociation/technical-committee/tree/main/project-templates) for setting up a minimum viable open governance. These templates can act as a set of default documents, a starting point for defining more sophisticated models, and a baseline to check existing documents against.
 
-When you are part of the OpenRail Association as a project, you will work with the Technical Committee to set up and refine your governance according to open governance principles, so that you can use the full power of open source.
+When you are part of the OpenRail Association as a project, you will work with the Technical Committee to set up and refine your governance according to open governance principles, so that you can use the full power of Open Source.

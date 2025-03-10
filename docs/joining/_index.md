@@ -3,9 +3,9 @@ title: Joining OpenRail
 weight: 100
 ---
 
-**How to join the OpenRail Association as an open source project.**
+**How to join the OpenRail Association as an Open Source project.**
 
-The OpenRail Association welcomes open source projects which address challenges and solve problems of the railway sector. Here you find documentation about the steps of joining the OpenRail Association as a project.
+The OpenRail Association welcomes Open Source projects which address challenges and solve problems of the railway sector. Here you find documentation about the steps of joining the OpenRail Association as a project.
 
 * [Application]({{< relref application >}})
 * [Onboarding]({{< relref onboarding >}})
