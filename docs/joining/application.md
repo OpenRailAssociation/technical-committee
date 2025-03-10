@@ -43,4 +43,4 @@ Then it's decision time:
 
 Once the proposal is ready and you and the Technical Committee have decided that the project is a fit for the OpenRail Association, the board of the OpenRail Association has the final say in deciding on the acceptance of the project.
 
-If the project proposal is accepted by the Technical Committee and the board, congratulations, you have a new OpenRail project. It's ready to be [onboarded]({{< ref "onboarding" >}}) now.
+If the project proposal is accepted by the Technical Committee and the board, congratulations, you have a new OpenRail project. It's ready to be [onboarded]({{< relref "onboarding" >}}) now.

@@ -29,13 +29,13 @@ OpenRail Association registers and manages all of its domains via [INWX](https:/
 
 INWX supports sub-accounts which may be used to allow tools and other persons to access only specific parts of the account.
 
-Projects may control their domains on their own. Please see the document about [Managing Domain Names]({{< ref "domain-names" >}}) for guidance and details.
+Projects may control their domains on their own. Please see the document about [Managing Domain Names]({{< relref "domain-names" >}}) for guidance and details.
 
 ## GitHub
 
 OpenRail Association prefers using GitHub.com for hosting of code, projects and documentation. All official repositories - e.g., by OpenRail projects, working groups, for administrative projects - must be part of the [OpenRailAssociation](https://github.com/OpenRailAssociation) GitHub organisation.
 
-For this GitHub organisation, we distribute permissions using Teams and a repository that follows a four-eyes and version-controlled paradigm. Please see the detailed document about [Managing GitHub]({{< ref "github-management" >}}) for guidance and details.
+For this GitHub organisation, we distribute permissions using Teams and a repository that follows a four-eyes and version-controlled paradigm. Please see the detailed document about [Managing GitHub]({{< relref "github-management" >}}) for guidance and details.
 
 In addition to the official GitHub organisation, there is an organisation for experimental and other projects which need a space for initial or temporary collaboration without being ready for an application as official project. It is the organisation [OpenRail-Playground](https://github.com/OpenRail-Playground). Permissions are controlled individually using the GitHub web interface.
 

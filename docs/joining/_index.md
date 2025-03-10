@@ -7,9 +7,9 @@ weight: 100
 
 The OpenRail Association welcomes open source projects which address challenges and solve problems of the railway sector. Here you find documentation about the steps of joining the OpenRail Association as a project.
 
-* [Application]({{< ref application >}})
-* [Onboarding]({{< ref onboarding >}})
-* [Open Governance]({{< ref governance >}})
-* [Technical Committee]({{< ref technical-committee >}})
+* [Application]({{< relref application >}})
+* [Onboarding]({{< relref onboarding >}})
+* [Open Governance]({{< relref governance >}})
+* [Technical Committee]({{< relref technical-committee >}})
 
 In case you have any questions feel free to reach out to the [Technical Committee](mailto:technical-committee@openrailassociation.org).

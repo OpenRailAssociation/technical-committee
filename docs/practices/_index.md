@@ -8,6 +8,6 @@ We strive to achieve a high degree of quality and maturity for open source proje
 
 We generally orient ourselves at general good practices from the open source community. For some of the key practices we maintain specific documentation here:
 
-* [DCO]({{< ref dco >}})
-* [REUSE]({{< ref reuse >}})
-* [Security]({{< ref security >}})
+* [DCO]({{< relref dco >}})
+* [REUSE]({{< relref reuse >}})
+* [Security]({{< relref security >}})
