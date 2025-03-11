@@ -1,0 +1,16 @@
+baseURL = 'https://OpenRailAssociation.github.io/technical-committee'
+languageCode = 'en-us'
+title = 'OpenRail Project Handbook'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/alex-shpak/hugo-book'
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = '../docs'
+    target = 'content/docs'
+  [[module.mounts]]
+    source = '../charter.md'
+    target = 'content/docs/charter.md'

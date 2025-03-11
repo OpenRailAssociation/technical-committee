@@ -1,3 +1,8 @@
+---
+title: Security
+weight: 300
+---
+
 # Establish security best practices
 
 OpenRail projects are supposed to follow security best practices. Especially projects from Incubation Stage 2 onwards must follow these to ensure that users can trust them.
