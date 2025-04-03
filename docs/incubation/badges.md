@@ -31,6 +31,14 @@ Rendered result:
 
 ![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
 
+## Incubation Stage 4
+
+    ![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)
+
+Rendered result:
+
+![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)
+
 ## Administrative Projects
 
     ![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)
@@ -38,3 +46,13 @@ Rendered result:
 Rendered result:
 
 ![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)
+
+## Sources
+
+The badges were initially rendered with https://shields.io:
+
+* Stage 1: https://img.shields.io/badge/OpenRail-Sandbox-peru
+* Stage 2: https://img.shields.io/badge/OpenRail-Incubation-silver
+* Stage 3: https://img.shields.io/badge/OpenRail-Graduated-gold
+* Stage 4: https://img.shields.io/badge/OpenRail-Retired-black
+* Administrative: https://img.shields.io/badge/OpenRail-Administrative-white
