@@ -19,3 +19,5 @@ The following guides describe activities on the various stages and how to advanc
 A project which is not longer active and maintained is formally retired:
 
 * [Retiring a project]({{< relref "retired" >}})
+
+To indicate the status of a project you can use the [OpenRail Project Badges]({{< relref "badges" >}}).
