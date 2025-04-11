@@ -44,7 +44,7 @@ In addition to the official GitHub organisation, there is an organisation for ex
 
 OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use three intertwined services: mail accounts on an account with [Uberspace](https://uberspace.de), mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://mailman3.org), and the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting)
 
-Uberspace is a web hosting provider which can serve as a place to put websites, but also offers to set up email accounts. We use this to create some email accounts and redirections. This way, we can configure certain addresses such as `technical-committee@openrailassociation.org` to forward received emails to another address. In some instances, this is one or multiple persons individually (e.g. the Technical Infrastructure Manager), but more often its a larger group of people.
+Uberspace is a web hosting provider which can serve as a place to put websites, but also offers to set up email accounts. We use this to create some email accounts and redirections. This way, we can configure certain addresses such as `technical-committee@openrailassociation.org` to forward received emails to another address. In some instances, this is one or multiple persons individually (e.g., the Technical Infrastructure Manager), but more often it's a larger group of people.
 
 In these cases, we address these people using mailing lists. This allows for more fine-grained configuration of who can contact this group, and has advantages when dealing with anti-spam techniques such as SPF, DKIM and DMARC which often trigger when just using forwards.
 
@@ -70,7 +70,7 @@ Permissions to manage these websites are set via GitHub, as explained above.
 
 ## Collaboration Suite
 
-We are using [Nextcloud](https://nextcloud.com/) hosted by [SpaceNet](https://www.space.net/) as a place to share files, collaborate on Kanban decks, and potentially more in the feature. User management primarily happens via our own identity provider, described above.
+We are using [Nextcloud](https://nextcloud.com/) hosted by [SpaceNet](https://www.space.net/) as a place to share files, collaborate on Kanban decks, and potentially more in the future. User management primarily happens via our own identity provider, described above.
 
 ## Other Services
 
