@@ -23,4 +23,4 @@ Many projects will be fine with setting some records once and only changing it v
 
 If your project belongs to the first group, it's fine if you just send an email to the Technical Committee requesting a certain change.
 
-If your project needs more control over its domain's DNS records, you may manage it via the [openrail-dns](https://github.com/OpenRailAssociation/openrail-dns/) repository. The process is very similar to [managing GitHub team permissions](github-management.md).
+If your project needs more control over its domain's DNS records, you may manage it via the [openrail-dns](https://github.com/OpenRailAssociation/openrail-dns/) repository. The process is very similar to [managing GitHub team permissions]({{< relref "github-management" >}}).
