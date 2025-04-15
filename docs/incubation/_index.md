@@ -4,7 +4,7 @@ weight: 700
 ---
 # Progressing in the Incubation Process
 
-The lifecycle of projects in the OpenRail Association is managed with the [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation_process.md). The first step is to get accepted as an OpenRail project:
+The lifecycle of projects in the OpenRail Association is managed with the [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation-process.md). The first step is to get accepted as an OpenRail project:
 
 * [Applying to become an OpenRail project]({{< relref "application" >}})
 
