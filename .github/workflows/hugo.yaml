@@ -1,0 +1,207 @@
+name: Website build and deploy
+
+on:
+  push:
+    branches:
+      - main # Deploy branch
+
+  # Run on PRs, but only build
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  pull-requests: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Set environment variables
+env:
+  hugo_version: "0.130.0"
+  source_dir: "./website"
+  preview_domain: web-preview.openrailassociation.org
+  preview_segment: proj-pr-${{ github.event.number }}
+  uberspace_host: uberspace1.openrailassociation.org
+  uberspace_user: openrail
+  uberspace_virtual_base: /var/www/virtual
+
+jobs:
+  # Set vars
+  vars:
+    runs-on: ubuntu-24.04
+    outputs:
+      pr_closed_merged: ${{ steps.pr_status.outputs.pr_closed_merged }}
+      datetime: ${{ steps.datetime.outputs.datetime }}
+    steps:
+      - id: pr_status
+        run: echo "pr_closed_merged=${{ github.event.pull_request.closed_at || github.event.pull_request.merged }}" >> "$GITHUB_OUTPUT"
+      - id: datetime
+        run: echo "datetime=$(date '+%Y-%m-%d %H:%M:%S %Z')" >> "$GITHUB_OUTPUT"
+
+  # Build job
+  build:
+    runs-on: ubuntu-24.04
+    needs: vars
+    # Only if PR not closed or merged
+    if: needs.vars.outputs.pr_closed_merged == 'false' || needs.vars.outputs.pr_closed_merged == ''
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive # Get submdules
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: ${{ env.hugo_version }}
+          extended: true
+
+      - name: Build production site
+        run: hugo -s ${{ env.source_dir }}
+        if: github.ref == 'refs/heads/main'
+
+      - name: Build preview site
+        run: hugo -s ${{ env.source_dir }} -e staging --buildFuture --buildDrafts -b https://${{ env.preview_domain }}/${{ env.preview_segment }}/
+        if: ${{ github.event.pull_request }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: public
+          path: ${{ env.source_dir }}/public
+          include-hidden-files: true
+          retention-days: 1
+
+  # Checking links using lychee
+  linkchecker:
+    runs-on: ubuntu-24.04
+    needs:
+      - vars
+      - build
+    if: needs.vars.outputs.pr_closed_merged == 'false' || needs.vars.outputs.pr_closed_merged == ''
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: .
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: '-r 5 -u "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple WebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" --include-fragments --exclude sncf.com --exclude nge.flatland.cloud --max-concurrency 1 .'
+          # Fail on errors
+          fail: false
+          # TODO: Implement https://github.com/lycheeverse/lychee/issues/989 once it's done. Will help with LinkedIn rate limits
+
+  # Deployment jobs
+  deploy-production:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-24.04
+    needs:
+      - vars
+      - build
+    # Only deploy if on main branch
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: ./public
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  deploy-preview:
+    runs-on: ubuntu-24.04
+    needs:
+      - vars
+      - build
+    # Only deploy if non-closed/non-merged pull request
+    if: github.event.pull_request && needs.vars.outputs.pr_closed_merged == 'false'
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: ./public
+
+      - name: Copy website to host
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ env.uberspace_host }}
+          username: ${{ env.uberspace_user }}
+          key: ${{ secrets.SSH_KEY }}
+          port: 22
+          timeout: 1m
+          command_timeout: 2m
+          target: ${{ env.uberspace_virtual_base }}/${{ env.uberspace_user }}/${{ env.preview_domain }}/${{ env.preview_segment }}
+          source: "public/*"
+          rm: true
+          strip_components: 1
+
+      - name: Inform about Preview URL
+        uses: marocchino/sticky-pull-request-comment@67d0dec7b07ed060a405f9b2a64b8ab319fdd7db # v2.9.2
+        with:
+          header: pr-preview
+          message: |
+            Pull Request Live Preview
+            :---:
+            | <p><br />:rocket: View preview at <br />https://${{ env.preview_domain }}/${{ env.preview_segment }}/<br /><br /></p>
+            | <p>Last updated: ${{ needs.vars.outputs.datetime }}</p>
+
+  remove-preview:
+    runs-on: ubuntu-24.04
+    needs:
+      - vars
+    # Only deploy if non-closed/non-merged pull request
+    if: github.event.pull_request && needs.vars.outputs.pr_closed_merged != 'false'
+    steps:
+      - name: Create deletion notice
+        run: mkdir -p public && echo "This PR has been closed or merged. The preview has been removed." > public/index.html
+
+      - name: Copy empty folder to host
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ env.uberspace_host }}
+          username: ${{ env.uberspace_user }}
+          key: ${{ secrets.SSH_KEY }}
+          port: 22
+          timeout: 1m
+          command_timeout: 2m
+          target: ${{ env.uberspace_virtual_base }}/${{ env.uberspace_user }}/${{ env.preview_domain }}/${{ env.preview_segment }}
+          source: "public/*"
+          rm: true
+          strip_components: 1
+
+      - name: Inform about preview removal
+        uses: marocchino/sticky-pull-request-comment@67d0dec7b07ed060a405f9b2a64b8ab319fdd7db # v2.9.2
+        with:
+          header: pr-preview
+          message: |
+            Pull Request Live Preview
+            :---:
+            | <p><br />:x: Preview has been removed.<br /><br /></p>
