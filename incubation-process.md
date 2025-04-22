@@ -68,7 +68,7 @@ The barrier for entering the Qualified stage is intended to be high, so there is
 
 1. Apply to move to Qualified using the questionnaire (to be done).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
-3. On a positive evaluation the Technical Committee decides to accept the project as an Qualified project.
+3. On a positive evaluation the Technical Committee decides to accept the project as a Qualified project.
 4. Qualified projects can use the badge "OpenRail project (Qualified)" (to be created).
 
 ## Stage 3: Adopted
