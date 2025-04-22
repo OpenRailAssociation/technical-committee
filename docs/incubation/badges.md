@@ -51,8 +51,8 @@ Rendered result:
 
 The badges were initially rendered with https://shields.io:
 
-* Stage 1: https://img.shields.io/badge/OpenRail-Sandbox-peru
-* Stage 2: https://img.shields.io/badge/OpenRail-Incubation-silver
-* Stage 3: https://img.shields.io/badge/OpenRail-Graduated-gold
+* Stage 1: https://img.shields.io/badge/OpenRail-Onboarded-peru
+* Stage 2: https://img.shields.io/badge/OpenRail-Qualified-silver
+* Stage 3: https://img.shields.io/badge/OpenRail-Adopted-gold
 * Stage 4: https://img.shields.io/badge/OpenRail-Retired-black
 * Administrative: https://img.shields.io/badge/OpenRail-Administrative-white
