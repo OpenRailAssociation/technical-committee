@@ -2,7 +2,7 @@
 
 This document describes the incubation process for projects in the OpenRail Association. This includes how a project can join OpenRail as well as how a project can move to subsequent stages of maturity.
 
-Projects can be in four stages which are reflecting the maturity of the project and the level of adoption in the OpenRail community (Formed, Qualified, Adopted, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to the next. The TC will evaluate the proposal and decide if the project can move to the next stage.
+Projects can be in four stages which are reflecting the maturity of the project and the level of adoption in the OpenRail community (Onboarded, Qualified, Adopted, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to the next. The TC will evaluate the proposal and decide if the project can move to the next stage.
 
 ![Project funnel](images/project-funnel.png)
 
@@ -16,15 +16,15 @@ The criteria for each stage are listed in the subsequent sections along with the
 
 ## Stage 0: Candidate
 
-Projects which intend to join the OpenRail Association are considered candidates. Candidates are not yet OpenRail projects. They are evaluated by the Technical Committee on request of the project to become part of the OpenRail Association. Candidates need to at least fulfill the criteria for the Formed stage to be accepted into the OpenRail Association.
+Projects which intend to join the OpenRail Association are considered candidates. Candidates are not yet OpenRail projects. They are evaluated by the Technical Committee on request of the project to become part of the OpenRail Association. Candidates need to at least fulfill the criteria for the Onboarded stage to be accepted into the OpenRail Association.
 
-## Stage 1: Formed
+## Stage 1: Onboarded
 
-The Formed stage is the initial stage for projects being hosted by the OpenRail Association. Formed projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
+The Onboarded stage is the initial stage for projects being hosted by the OpenRail Association. Onboarded projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
 
-The Formed stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Formed stage.
+The Onboarded stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Onboarded stage.
 
-The barrier for entering the Formed stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association with the support of the Technical Committee.
+The barrier for entering the Onboarded stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association with the support of the Technical Committee.
 
 ### Criteria
 
@@ -36,13 +36,13 @@ The barrier for entering the Formed stage is intended to be low, so that it's ea
 
 ### Process
 
-1. The project applies to join the Formed using the [New Project Questionnaire](project-proposals/stage-1/stage-1-questionnaire.md).
+1. The project applies to join the Onboarded using the [New Project Questionnaire](project-proposals/stage-1/stage-1-questionnaire.md).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
 3. On a positive evaluation the Technical Committee prepares the decision to accept the project as an OpenRail Association project.
 4. According to the statutes of the OpenRail Association Article 22 the OpenRail board finally decides about the acceptance of the project based on the decision prepared by the Technical Committee.
-5. The project is accepted into the OpenRail Association as Formed project and their code is moved to the [GitHub organization of the OpenRail Association](https://github.com/OpenRailAssociation).
+5. The project is accepted into the OpenRail Association as Onboarded project and their code is moved to the [GitHub organization of the OpenRail Association](https://github.com/OpenRailAssociation).
 6. The project is listed on the [OpenRail Association web site](https://openrailassociation.org).
-7. Formed projects can use the badge "OpenRail project (Formed)" (to be created).
+7. Onboarded projects can use the badge "OpenRail project (Onboarded)" (to be created).
 
 ## Stage 2: Qualified
 
