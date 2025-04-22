@@ -2,24 +2,33 @@
 
 This is the list of projects accepted as OpenRail Association projects. Projects acceptance follows the [incubation process](incubation-process.md).
 
-## Stage 1
+## Stage 2
 
-* Open Source Railway Designer (OSRD) ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/osrd.md)), accepted by vote of the board on 2024-02-02
+![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
+
+* **Open Source Railway Designer (OSRD)** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/osrd.md)), accepted by vote of the board on 2024-02-02, ([stage 2 questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-2/osrd.md)), advanced to stage 2 by decision of the technical committee on [2025-02-25](https://github.com/OpenRailAssociation/technical-committee/blob/main/meetings/2025-02-25.md))
   * https://github.com/OpenRailAssociation/osrd
   * https://github.com/OpenRailAssociation/osrd-ui
   * https://github.com/OpenRailAssociation/osrd-design
   * https://github.com/OpenRailAssociation/osrd-website
   * https://github.com/OpenRailAssociation/osrd-chart
   * https://github.com/OpenRailAssociation/osrd-images
-* RCM OSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/RCM%20OSS.md)), accepted by vote of the board on 2024-03-14
+
+## Stage 1
+
+![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
+
+* **RCM OSS** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/RCM%20OSS.md)), accepted by vote of the board on 2024-03-14
   * https://github.com/OpenRailAssociation/rcm-dx
   * https://github.com/OpenRailAssociation/rcm-dx-examples
-* DAC Migration DSS ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/dac-migration-dss.md)), accepted by vote of the board on 2024-04-15
+* **DAC Migration DSS** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/dac-migration-dss.md)), accepted by vote of the board on 2024-04-15
   * https://github.com/OpenRailAssociation/dac-migration-dss
-* Netzgrafik-Editor ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/NGE.md)), accepted by vote of the board on 2024-06-21
-* liblrs ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/liblrs.md)), accepted by vote of the board on 2024-07-12
+* **Netzgrafik-Editor** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/NGE.md)), accepted by vote of the board on 2024-06-21
+* **liblrs** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/liblrs.md)), accepted by vote of the board on 2024-07-12
 
 ## Administrative Projects
+
+![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)
 
 There are some projects within OpenRail Association outside of the railway and transportation domain. They are used for managing the technical infrastructure of the OpenRail Association or for general purposes of the organization. They do not follow the incubation process but follow best practices depending on their criticality.
 

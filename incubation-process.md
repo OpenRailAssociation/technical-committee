@@ -20,6 +20,8 @@ Projects which intend to join the OpenRail Association are considered candidates
 
 ## Stage 1: Onboarded
 
+![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
+
 The Onboarded stage is the initial stage for projects being hosted by the OpenRail Association. Onboarded projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
 
 The Onboarded stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Onboarded stage.
@@ -45,6 +47,8 @@ The barrier for entering the Onboarded stage is intended to be low, so that it's
 7. Onboarded projects can use the badge "OpenRail project (Onboarded)" (to be created).
 
 ## Stage 2: Qualified
+
+![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
 
 The Qualified stage is for projects that have reached a high level of quality and maturity that indicates they are ready to be used by end users. Qualified projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
 
@@ -72,6 +76,8 @@ The barrier for entering the Qualified stage is intended to be high, so there is
 4. Qualified projects can use the badge "OpenRail project (Qualified)" (to be created).
 
 ## Stage 3: Adopted
+
+![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
 
 The Adopted stage is for projects which have reached a level of high maturity and adoption. They are the flagship projects of the OpenRail Association.
 

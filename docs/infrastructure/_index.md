@@ -21,7 +21,7 @@ In combination, we sometimes cannot find a technical solution to a problem that 
 
 The *Technical Infrastructure Manager*, part of the OpenRail Team, is responsible for the overall infrastructure. They do this in close collaboration with the *Technical Committee* as well as other users inside the organisation. They can define assistants to avoid that all knowledge and accesses reside with only one person.
 
-The current Technical Infrastructure Manager is Max Mehl ([@mxmehl](https://github.com/@mxmehl)). He is assisted by Cornelius Schumacher ([@cornelius](https://github.com/@cornelius)).
+The current Technical Infrastructure Manager is Max Mehl ([@mxmehl](https://github.com/mxmehl)). He is assisted by Cornelius Schumacher ([@cornelius](https://github.com/cornelius)).
 
 ## Domains
 
@@ -41,7 +41,7 @@ In addition to the official GitHub organisation, there is an organisation for ex
 
 ## Mails and Mailing Lists
 
-OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use two intertwined services: the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting) and mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://mailman3.org).
+OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use two intertwined services: the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting) and mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://docs.mailman3.org/).
 
 The MailEasy product as part of INWX's hosting services doesn't provide mail boxes but only forwards. This way, we can configure certain addresses such as `technical-committee@openrailassociation.org` to forward received emails to another address. In some instances, this is one or multiple persons individually (e.g. the Technical Infrastructure Manager), but more often its a larger group of people.
 
