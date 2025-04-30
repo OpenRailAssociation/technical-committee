@@ -41,5 +41,6 @@ There are some projects within OpenRail Association outside of the railway and t
 * [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config), our configuration deployed using `github-org-manager`
 * [project-template](https://github.com/OpenRailAssociation/project-template), template for OpenRail repositories
 * [purl-tools](https://github.com/OpenRailAssociation/purl-tools), library for handling Package URLs, mainly used by compliance-assistant
+* [renovate-config](https://github.com/OpenRailAssociation/renovate-config), the repo for OpenRail's Renovate Bot configuration presets
 * [technical-committee](https://github.com/OpenRailAssociation/technical-committee), the repo for OpenRail's Technical Committee
 * [website](https://github.com/OpenRailAssociation/website), the sources of the [OpenRail Association's website](https://openrailassociation.org)
