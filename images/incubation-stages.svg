@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="228mm"
    height="108mm"
    viewBox="0 0 228 108"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="incubation-stages.svg">
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="incubation-stages.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -89,18 +89,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="523.06001"
-     inkscape:cy="389.16316"
+     inkscape:cx="430.32499"
+     inkscape:cy="247.48737"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      width="296mm"
-     inkscape:window-width="1854"
-     inkscape:window-height="1051"
+     inkscape:window-width="1384"
+     inkscape:window-height="847"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -109,7 +112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,22 +150,22 @@
        y="46.168125" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="41.025265"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.619839"
        y="58.35004"
        id="text876"><tspan
          sodipodi:role="line"
          id="tspan874"
-         x="41.025265"
+         x="38.619839"
          y="58.35004"
-         style="font-size:5.64444px;stroke-width:0.264583px">Sandbox</tspan></text>
+         style="font-size:4.93889px;stroke-width:0.264583px">Onboarded</tspan></text>
     <text
        xml:space="preserve"
        id="text878"
-       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect880);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect880);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="188.23906"
        y="58.35004"
        id="text876-6"><tspan
@@ -170,29 +173,29 @@
          id="tspan874-2"
          x="188.23906"
          y="58.35004"
-         style="font-size:5.64444px;stroke-width:0.264583px">Retired</tspan></text>
+         style="font-size:4.93889px;stroke-width:0.264583px">Retired</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="135.72459"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139.1991"
        y="58.35004"
        id="text876-9"><tspan
          sodipodi:role="line"
          id="tspan874-1"
-         x="135.72459"
+         x="139.1991"
          y="58.35004"
-         style="font-size:5.64444px;stroke-width:0.264583px">Graduated</tspan></text>
+         style="font-size:4.93889px;stroke-width:0.264583px">Adopted</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.7611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="87.061714"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="89.734413"
        y="58.35004"
        id="text876-2"><tspan
          sodipodi:role="line"
          id="tspan874-7"
-         x="87.061714"
+         x="89.734413"
          y="58.35004"
-         style="font-size:5.64444px;stroke-width:0.264583px">Incubation</tspan></text>
+         style="font-size:4.93889px;stroke-width:0.264583px">Qualified</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
        d="m 27.646536,29.695498 c 0.05195,49.111409 0.154259,49.207149 0.154259,49.207149 l 0.0094,0.10726"
@@ -355,7 +358,7 @@
          id="tspan959-8-7-7" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1820)"
-       d="M 69.135975,56.260935 H 83.244423"
+       d="M 69.135975,56.260936 H 83.244423"
        id="path1756"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -363,7 +366,7 @@
        inkscape:connection-end="#rect833-5" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1786)"
-       d="m 117.51371,56.260935 h 14.10838"
+       d="m 117.51371,56.260936 h 14.10838"
        id="path1760"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -371,7 +374,7 @@
        inkscape:connection-end="#rect833-7" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 165.89138,56.260935 h 14.10827"
+       d="m 165.89138,56.260936 h 14.10827"
        id="path1762"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"

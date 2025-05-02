@@ -12,9 +12,9 @@ Once you are an OpenRail project you can progress within the incubation process 
 
 The following guides describe activities on the various stages and how to advance to the next stage.
 
-* [Activities at the Sandbox Stage]({{< relref "sandbox" >}})
-* [Advancing to the Incubated Stage]({{< relref "incubated" >}})
-* [Advancing to the Graduated Stage]({{< relref "graduated" >}})
+* [Activities at the Onboarded Stage]({{< relref "onboarded" >}})
+* [Advancing to the Qualified Stage]({{< relref "qualified" >}})
+* [Advancing to the Adopted Stage]({{< relref "adopted" >}})
 
 A project which is not longer active and maintained is formally retired:
 

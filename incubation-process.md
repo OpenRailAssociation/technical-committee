@@ -2,7 +2,11 @@
 
 This document describes the incubation process for projects in the OpenRail Association. This includes how a project can join OpenRail as well as how a project can move to subsequent stages of maturity.
 
-Projects can be in four stages which are reflecting the maturity of the project and the level of adoption in the OpenRail community (Sandbox, Incubation, Graduated, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to the next. The TC will evaluate the proposal and decide if the project can move to the next stage.
+Projects can be in four stages which are reflecting the maturity of the project and the level of adoption in the OpenRail community (Onboarded, Qualified, Adopted, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to the next. The TC will evaluate the proposal and decide if the project can move to the next stage.
+
+![Project funnel](images/project-funnel.png)
+
+Previous naming scheme:
 
 ![Project lifecycle](images/incubation-stages.svg)
 
@@ -12,17 +16,17 @@ The criteria for each stage are listed in the subsequent sections along with the
 
 ## Stage 0: Candidate
 
-Projects which intend to join the OpenRail Association are considered candidates. Candidates are not yet OpenRail projects. They are evaluated by the Technical Committee on request of the project to become part of the OpenRail Association. Candidates need to at least fulfill the criteria for the Sandbox stage to be accepted into the OpenRail Association.
+Projects which intend to join the OpenRail Association are considered candidates. Candidates are not yet OpenRail projects. They are evaluated by the Technical Committee on request of the project to become part of the OpenRail Association. Candidates need to at least fulfill the criteria for the Onboarded stage to be accepted into the OpenRail Association.
 
-## Stage 1: Sandbox
+## Stage 1: Onboarded
 
 ![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
 
-The Sandbox stage is the initial stage for projects being hosted by the OpenRail Association. Sandbox projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
+The Onboarded stage is the initial stage for projects being hosted by the OpenRail Association. Onboarded projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
 
-The Sandbox stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Sandbox stage.
+The Onboarded stage is the entry stage for all projects hosted by the OpenRail Association. This stage is meant for projects to mature and work on meeting the criteria for the Incubation stage while already being part of the OpenRail Association. This can be projects that are in an early phase or it can be projects which already are mature. More mature projects will likely spend less time in the Onboarded stage.
 
-The barrier for entering the Sandbox stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association with the support of the Technical Committee.
+The barrier for entering the Onboarded stage is intended to be low, so that it's easy for projects to become part of the OpenRail Association and the work necessary for moving to the next stage can be done within the Association with the support of the Technical Committee.
 
 ### Criteria
 
@@ -34,23 +38,23 @@ The barrier for entering the Sandbox stage is intended to be low, so that it's e
 
 ### Process
 
-1. The project applies to join the Sandbox using the [New Project Questionnaire](project-proposals/stage-1/stage-1-questionnaire.md).
+1. The project applies to join the Onboarded using the [New Project Questionnaire](project-proposals/stage-1/stage-1-questionnaire.md).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
 3. On a positive evaluation the Technical Committee prepares the decision to accept the project as an OpenRail Association project.
 4. According to the statutes of the OpenRail Association Article 22 the OpenRail board finally decides about the acceptance of the project based on the decision prepared by the Technical Committee.
-5. The project is accepted into the OpenRail Association as Sandbox project and their code is moved to the [GitHub organization of the OpenRail Association](https://github.com/OpenRailAssociation).
+5. The project is accepted into the OpenRail Association as Onboarded project and their code is moved to the [GitHub organization of the OpenRail Association](https://github.com/OpenRailAssociation).
 6. The project is listed on the [OpenRail Association web site](https://openrailassociation.org).
-7. Sandbox projects can use the badge "OpenRail project (Sandbox)" (to be created).
+7. Onboarded projects can use the badge "OpenRail project (Onboarded)" (to be created).
 
-## Stage 2: Incubation
+## Stage 2: Qualified
 
 ![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
 
-The Incubation stage is for projects that have reached a high level of quality and maturity that indicates they are ready to be used by end users. Incubation projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
+The Qualified stage is for projects that have reached a high level of quality and maturity that indicates they are ready to be used by end users. Qualified projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
 
-The Incubation stage focuses on quality criteria the project can reach on its own and doesn't require a high degree of external adoption or contributions yet.
+The Qualified stage focuses on quality criteria the project can reach on its own and doesn't require a high degree of external adoption or contributions yet.
 
-The barrier for entering the Incubation stage is intended to be high, so there is a high level of quality for projects which have reached this stage.
+The barrier for entering the Qualified stage is intended to be high, so there is a high level of quality for projects which have reached this stage.
 
 ### Criteria
 
@@ -66,20 +70,20 @@ The barrier for entering the Incubation stage is intended to be high, so there i
 
 ### Process
 
-1. Apply to move to Incubation using the questionnaire (to be done).
+1. Apply to move to Qualified using the questionnaire (to be done).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
-3. On a positive evaluation the Technical Committee decides to accept the project as an Incubation project.
-4. Sandbox projects can use the badge "OpenRail project (Incubation)" (to be created).
+3. On a positive evaluation the Technical Committee decides to accept the project as a Qualified project.
+4. Qualified projects can use the badge "OpenRail project (Qualified)" (to be created).
 
-## Stage 3: Graduated
+## Stage 3: Adopted
 
 ![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
 
-The Graduated stage is for projects which have reached a level of high maturity and adoption. They are the flagship projects of the OpenRail Association.
+The Adopted stage is for projects which have reached a level of high maturity and adoption. They are the flagship projects of the OpenRail Association.
 
-The Graduated stage is for projects which have not only reached a high level of quality, but also demonstrate that they are widely used and have a diverse set of contributors. This indicates that they can be relied on and they don't depend on a single organization.
+The Adopted stage is for projects which have not only reached a high level of quality, but also demonstrate that they are widely used and have a diverse set of contributors. This indicates that they can be relied on and they don't depend on a single organization.
 
-Projects at the Graduated stage fit into the overall architecture of the OpenRail Association. There are no competing projects on this stage which implement the same capabilities.
+Projects at the Adopted stage fit into the overall architecture of the OpenRail Association. There are no competing projects on this stage which implement the same capabilities.
 
 ### Criteria
 
@@ -91,18 +95,18 @@ Projects at the Graduated stage fit into the overall architecture of the OpenRai
 * Have committers from at least two organizations.
 * Have achieved and maintained an OpenSSF Best Practices Badge.
 * Provide SBOMs for all release artifacts
-* Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
+* Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before moving to the Adopted stage.
 * Explicitly define a project governance and committer process. The committer process should cover the full committer lifecycle including onboarding and offboarding or emeritus criteria. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
 * Explicitly define the criteria, process and offboarding or emeritus conditions for project maintainers; or those who may interact with the CNCF on behalf of the project. The list of maintainers should preferably be stored in a MAINTAINERS.md file and audited at a minimum of an annual cadence.
 * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
-* Please include a short one-page narrative based on the Graduation template, no more than 500 words.
+* Please include a short one-page narrative based on the template for Adopted projects, no more than 500 words.
 
 ### Process
 
-1. Apply to move to Graduation using the questionnaire (to be done).
+1. Apply to move to Adopted stage using the questionnaire (to be done).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
-3. On a positive evaluation the Technical Committee decides to accept the project as a Graduation project.
-4. Graduation projects can use the badge "OpenRail project (Graduation)" (to be created).
+3. On a positive evaluation the Technical Committee decides to accept the project as an Adopted project.
+4. Adopted projects can use the badge "OpenRail project (Adopted)" (to be created).
 
 ## Stage 4: Retired
 
