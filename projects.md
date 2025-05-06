@@ -4,7 +4,7 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 
 ## Stage 2
 
-[![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)](https://l.openrailassociation.org/stage-2)
+[![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)](https://link.openrailassociation.org/stage-2)
 
 * **Open Source Railway Designer (OSRD)** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/osrd.md)), accepted by vote of the board on 2024-02-02, ([stage 2 questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-2/osrd.md)), advanced to stage 2 by decision of the technical committee on [2025-02-25](https://github.com/OpenRailAssociation/technical-committee/blob/main/meetings/2025-02-25.md))
   * https://github.com/OpenRailAssociation/osrd
@@ -16,7 +16,7 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 
 ## Stage 1
 
-[![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)](https://l.openrailassociation.org/stage-1)
+[![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)](https://link.openrailassociation.org/stage-1)
 
 * **RCM OSS** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/RCM%20OSS.md)), accepted by vote of the board on 2024-03-14
   * https://github.com/OpenRailAssociation/rcm-dx
@@ -28,7 +28,7 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 
 ## Administrative Projects
 
-[![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)](https://l.openrailassociation.org/admin-projects)
+[![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)](https://link.openrailassociation.org/admin-projects)
 
 There are some projects within OpenRail Association outside of the railway and transportation domain. They are used for managing the technical infrastructure of the OpenRail Association or for general purposes of the organization. They do not follow the incubation process but follow best practices depending on their criticality.
 
