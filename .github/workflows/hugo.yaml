@@ -150,7 +150,7 @@ jobs:
           path: ./public
 
       - name: Copy website to host
-        uses: appleboy/scp-action@v0.1.7
+        uses: appleboy/scp-action@v1.0.0
         with:
           host: ${{ env.uberspace_host }}
           username: ${{ env.uberspace_user }}
@@ -184,7 +184,7 @@ jobs:
         run: mkdir -p public && echo "This PR has been closed or merged. The preview has been removed." > public/index.html
 
       - name: Copy empty folder to host
-        uses: appleboy/scp-action@v0.1.7
+        uses: appleboy/scp-action@v1.0.0
         with:
           host: ${{ env.uberspace_host }}
           username: ${{ env.uberspace_user }}
