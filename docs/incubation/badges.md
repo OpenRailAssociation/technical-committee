@@ -9,43 +9,43 @@ Badges are hosted as SVG files on the OpenRail website. Use the following snippe
 
 ## Incubation Stage 1
 
-    ![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
+    [![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)](https://link.openrailassociation.org/stage-1)
 
 Rendered result:
 
-![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
+[![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)](https://link.openrailassociation.org/stage-1)
 
 ## Incubation Stage 2
 
-    ![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
+    [![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)](https://link.openrailassociation.org/stage-2)
 
 Rendered result:
 
-![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
+[![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)](https://link.openrailassociation.org/stage-2)
 
 ## Incubation Stage 3
 
-    ![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
+    [![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)](https://link.openrailassociation.org/stage-3)
 
 Rendered result:
 
-![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
+[![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)](https://link.openrailassociation.org/stage-3)
 
 ## Incubation Stage 4
 
-    ![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)
+    [![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)](https://link.openrailassociation.org/stage-4)
 
 Rendered result:
 
-![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)
+[![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)](https://link.openrailassociation.org/stage-4)
 
 ## Administrative Projects
 
-    ![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)
+    [![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)](https://link.openrailassociation.org/admin-projects)
 
 Rendered result:
 
-![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)
+[![Badge Administrative](https://openrailassociation.org/badges/openrail-project-admin.svg)](https://link.openrailassociation.org/admin-projects)
 
 ## Sources
 

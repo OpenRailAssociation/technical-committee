@@ -20,7 +20,7 @@ Projects which intend to join the OpenRail Association are considered candidates
 
 ## Stage 1: Onboarded
 
-![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
+[![Badge Stage 1](https://openrailassociation.org/badges/openrail-project-stage-1.svg)](https://link.openrailassociation.org/stage-1)
 
 The Onboarded stage is the initial stage for projects being hosted by the OpenRail Association. Onboarded projects meet the minimal requirements necessary for being considered to be part of the OpenRail Association.
 
@@ -48,7 +48,7 @@ The barrier for entering the Onboarded stage is intended to be low, so that it's
 
 ## Stage 2: Qualified
 
-![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
+[![Badge Stage 2](https://openrailassociation.org/badges/openrail-project-stage-2.svg)](https://link.openrailassociation.org/stage-2)
 
 The Qualified stage is for projects that have reached a high level of quality and maturity that indicates they are ready to be used by end users. Qualified projects meet the main criteria of the OpenRail Association which make sure that the project is governed openly. Open governance means that decisions are taken in a transparent way and there is a path to become committer and maintainer based on the merits of contributions.
 
@@ -77,7 +77,7 @@ The barrier for entering the Qualified stage is intended to be high, so there is
 
 ## Stage 3: Adopted
 
-![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)
+[![Badge Stage 3](https://openrailassociation.org/badges/openrail-project-stage-3.svg)](https://link.openrailassociation.org/stage-3)
 
 The Adopted stage is for projects which have reached a level of high maturity and adoption. They are the flagship projects of the OpenRail Association.
 
@@ -109,6 +109,8 @@ Projects at the Adopted stage fit into the overall architecture of the OpenRail 
 4. Adopted projects can use the badge "OpenRail project (Adopted)" (to be created).
 
 ## Stage 4: Retired
+
+[![Badge Stage 4](https://openrailassociation.org/badges/openrail-project-stage-4.svg)](https://link.openrailassociation.org/stage-4)
 
 Projects that aren't developed anymore or that have been replaced by another project are moved to the Retired stage.
 
