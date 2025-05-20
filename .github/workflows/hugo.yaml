@@ -58,13 +58,13 @@ jobs:
     # Only if PR not closed or merged
     if: needs.vars.outputs.pr_closed_merged == 'false' || needs.vars.outputs.pr_closed_merged == ''
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
         with:
           submodules: recursive # Get submdules
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3.0.0
+        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
         with:
           hugo-version: ${{ env.hugo_version }}
           extended: true
@@ -78,7 +78,7 @@ jobs:
         if: ${{ github.event.pull_request }}
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: public
           path: ${{ env.source_dir }}/public
@@ -94,14 +94,14 @@ jobs:
     if: needs.vars.outputs.pr_closed_merged == 'false' || needs.vars.outputs.pr_closed_merged == ''
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: public
           path: .
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@82202e5e9c2f4ef1a55a3d02563e1cb6041e5332 # v2
         with:
           args: '-r 5 -u "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple WebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" --include-fragments --exclude sncf.com --exclude nge.flatland.cloud --max-concurrency 1 .'
           # Fail on errors
@@ -121,19 +121,19 @@ jobs:
     if: github.ref == 'refs/heads/main'
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: public
           path: ./public
 
       - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:
           path: ./public
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
 
   deploy-preview:
     runs-on: ubuntu-24.04
@@ -144,13 +144,13 @@ jobs:
     if: github.event.pull_request && needs.vars.outputs.pr_closed_merged == 'false'
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: public
           path: ./public
 
       - name: Copy website to host
-        uses: appleboy/scp-action@v1.0.0
+        uses: appleboy/scp-action@ff85246acaad7bdce478db94a363cd2bf7c90345 # v1.0.0
         with:
           host: ${{ env.uberspace_host }}
           username: ${{ env.uberspace_user }}
@@ -184,7 +184,7 @@ jobs:
         run: mkdir -p public && echo "This PR has been closed or merged. The preview has been removed." > public/index.html
 
       - name: Copy empty folder to host
-        uses: appleboy/scp-action@v1.0.0
+        uses: appleboy/scp-action@ff85246acaad7bdce478db94a363cd2bf7c90345 # v1.0.0
         with:
           host: ${{ env.uberspace_host }}
           username: ${{ env.uberspace_user }}
