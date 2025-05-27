@@ -87,15 +87,17 @@ Projects at the Adopted stage fit into the overall architecture of the OpenRail 
 
 ### Criteria
 
-* Document that it is being used successfully in production by at least three independent adopters of adequate quality and scope. It's up to the TC's judgement to assess that based on the context of the concrete project. This includes that there is commercial support available where it is needed to satisfy production needs.
-* Have a public list of project adopters for at least the primary repo (preferably documented in the project's publiccode.yml file). For a specification, have a list of adopters for the implementation(s) of the spec.
-* Have committers from at least two independent organizations so that the project does not depend on the commitment of a single contributing organization. Contributions from diverse companies raise the strength and health of the project.
-* The project has a documented track record of regular stable releases
-* The project has a documented process with guaranteed reaction times for releasing security updates. This is an extension of the security requirements of stage 2 and should be documented in the `SECURITY.md` file.
-* Have completed an independent and third party security audit which includes all critical vulnerabilities. All critical vulnerabilities need to be addressed before moving to the Adopted stage. The audit should also address architecture from a security point of view and the development process for maintaining the project in a secure way going forward.
-* At least 8/10 score on OpenSSF Best Practices Badge.
-* Provide SBOMs for all release artifacts
-* Make current situation of funding transparent for the next years. There needs to be adequate funding to make sure the project is well-mantained.
+### Criteria
+
+* **The project is used in production by at least three independent adopters so that it demonstrates widespread real-world relevance.** Adopters must be of adequate quality and scope. The TC evaluates this based on the context of the specific project. Where needed, commercial support should be available to meet production requirements.
+* **There is a public list of adopters so that usage is transparent.** This should be listed for at least the primary repository, ideally in the `publiccode.yml` file. For specifications, adopters of the reference implementations must be documented.
+* **The project has committers from at least two independent organizations so that its development is resilient and not dependent on a single entity.** A diverse contributor base strengthens the sustainability and community health of the project. Diversity of contributors is documented through suitable committer statistics.
+* **The project regularly produces stable releases so that users can rely on predictable updates.** A clear release cadence and a history of stable releases are documented.
+* **Security updates follow a documented and time-bound process so that users can rely on timely responses to vulnerabilities.** This process is described in the project’s `SECURITY.md` file and complements the Stage 2 security requirements.
+* **The project has passed an independent third-party security audit so that critical risks are identified and resolved.** All critical vulnerabilities must be addressed before progressing to this stage. The audit should also assess the architecture and development process from a security perspective.
+* **The project follows thorough security best practices so that it demonstrates strong security and quality.** It reaches at least 8/10 on the [OpenSSF Best Practices Badge](https://bestpractices.coreinfrastructure.org).
+* **SBOMs are provided for all release artifacts so that the project provides transparency of its supply chain security.** Availability of SBOMs in a standard format is documented as part of the release documentation.
+* **The project has adequate funding so that ongoing maintenance is ensured.** Current funding sources and prospectives for the future are made transparent. This is documented as part of the questionnaire.
 
 ### Process
 
