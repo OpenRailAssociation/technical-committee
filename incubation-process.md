@@ -87,15 +87,15 @@ Projects at the Adopted stage fit into the overall architecture of the OpenRail 
 
 ### Criteria
 
-* Document that it is being used successfully in production by at least three independent adopters which, in the TC’s judgement, are of adequate quality and scope.
+* Document that it is being used successfully in production by at least three independent adopters of adequate quality and scope. It's up to the TC's judgement to assess that based on the context of the concrete project. This includes that there is commercial support available where it is needed to satisfy production needs.
 * Have a public list of project adopters for at least the primary repo (preferably documented in the project's publiccode.yml file). For a specification, have a list of adopters for the implementation(s) of the spec.
-* Have committers from at least two organizations.
+* Have committers from at least two independent organizations so that the project does not depend on the commitment of a single contributing organization. Contributions from diverse companies raise the strength and health of the project.
 * The project has a documented track record of regular stable releases
-* The project has a documented process with guaranteed reaction times for releasing security updates
-* Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before moving to the Adopted stage.
-* There is at least one organization which is able to offer commercial support for the project.
-* At least 7/10 score on OpenSSF Best Practices Badge.
+* The project has a documented process with guaranteed reaction times for releasing security updates. This is an extension of the security requirements of stage 2 and should be documented in the `SECURITY.md` file.
+* Have completed an independent and third party security audit which includes all critical vulnerabilities. All critical vulnerabilities need to be addressed before moving to the Adopted stage. The audit should also address architecture from a security point of view and the development process for maintaining the project in a secure way going forward.
+* At least 8/10 score on OpenSSF Best Practices Badge.
 * Provide SBOMs for all release artifacts
+* Make current situation of funding transparent for the next years. There needs to be adequate funding to make sure the project is well-mantained.
 
 ### Process
 
