@@ -31,6 +31,14 @@ INWX supports sub-accounts which may be used to allow tools and other persons to
 
 Projects may control their domains on their own. Please see the document about [Managing Domain Names]({{< relref "domain-names" >}}) for guidance and details.
 
+## Identity Provider
+
+We self-host an identity provider based on [Authentik](https://github.com/goauthentik/authentik/). This allows our users to only have one account for multiple services of OpenRail Association, and configure group memberships and other permissions centrally. Currently, this is used for our Collaboration Suite based on Nextcloud and our Matrix server (see below).
+
+The user directory of our Authentik instance is managed, like domain records and GitHub team memberships, in version-controlled text files and synchronised with a tool.
+
+The service is deployed and semi-automatically managed via [Elest.io](https://elest.io/).
+
 ## GitHub
 
 OpenRail Association prefers using GitHub.com for hosting of code, projects and documentation. All official repositories - e.g., by OpenRail projects, working groups, for administrative projects - must be part of the [OpenRailAssociation](https://github.com/OpenRailAssociation) GitHub organisation.
@@ -39,11 +47,15 @@ For this GitHub organisation, we distribute permissions using Teams and a reposi
 
 In addition to the official GitHub organisation, there is an organisation for experimental and other projects which need a space for initial or temporary collaboration without being ready for an application as official project. It is the organisation [OpenRail-Playground](https://github.com/OpenRail-Playground). Permissions are controlled individually using the GitHub web interface.
 
+## Uberspace
+
+[Uberspace](https://uberspace.de) is a web hosting provider which can serve as a place to put websites, but also offers to set up email accounts. We have one account there and use it for both purposes as described below.
+
 ## Mails and Mailing Lists
 
-OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use two intertwined services: the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting) and mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://docs.mailman3.org/).
+OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use three intertwined services: mail accounts on an account with [Uberspace](https://uberspace.de), mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://docs.mailman3.org/), and the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting).
 
-The MailEasy product as part of INWX's hosting services doesn't provide mail boxes but only forwards. This way, we can configure certain addresses such as `technical-committee@openrailassociation.org` to forward received emails to another address. In some instances, this is one or multiple persons individually (e.g. the Technical Infrastructure Manager), but more often its a larger group of people.
+We use Uberspace to create some email accounts and redirections. This way, we can configure certain addresses such as `technical-committee@openrailassociation.org` to forward received emails to another address. In some instances, this is one or multiple persons individually (e.g. the Technical Infrastructure Manager), but more often its a larger group of people.
 
 In these cases, we address these people using mailing lists. This allows for more fine-grained configuration of who can contact this group, and has advantages when dealing with anti-spam techniques such as SPF, DKIM and DMARC which often trigger when just using forwards.
 
@@ -53,17 +65,31 @@ When setting up new lists, make sure to have a look at the list configuration of
 
 The configuration of lists and owners is done manually inside the web interface.
 
+There are very few use-cases for which we use the MailEasy product as part of INWX's hosting services. This doesn't provide mail boxes but only forwards for certain email addresses and certain domains. We only use this for redirections that cannot be handled by our Uberspace account because of user name overlaps or similar reasons.
+
 ## Passwords
 
 For the several services we are using, some require dedicated accounts and passwords, while others are ties to existing user accounts, e.g. GitHub.
 
 If we have to share passwords, we are using an hosted password vault, currently based on Vaultwarden/Bitwarden. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a service. However, we generally prefer using pre-existing, personalised accounts.
 
-## Website
+## Websites
 
-For website hosting, we prefer using [GitHub Pages](https://pages.github.com/) over third-party providers or self-hosting. This is also used for the main [OpenRail Association website](https://github.com/OpenRailAssociation/website), accessible via [openrailassociation.org](https://openrailassociation.org).
+For website hosting, we accept either using [GitHub Pages](https://pages.github.com/) or our Uberspace account mentioned above. For simple use-cases, GitHub Pages works well and can be easily integrated into CI/CD pipelines, but for cases in which we require staging environments or more granular configuration of redirects, we use Uberspace as hosting provider. The latter is the case for the main [OpenRail Association website](https://github.com/OpenRailAssociation/website), accessible via [openrailassociation.org](https://openrailassociation.org), and [projects.openrailassociation.org](https://projects.openrailassociation.org) managed by the Technical Committee.
 
-Permissions to manage these websites are set via GitHub, as explained above.
+Permissions to manage these websites are set via GitHub, as explained above, as their deployment is done via GitHub workflows.
+
+## Collaboration Suite
+
+We are using [Nextcloud](https://nextcloud.com/) hosted as a service by [Hetzner](https://www.hetzner.com/storage/storage-share), primarily as a place to share files publicly. User management is done, apart from technical exceptions, via our own identity provider described above.
+
+## Instant Messaging and Chatrooms
+
+We run a [Matrix](https://matrix.org/) service to allow registered users to chat in internal and external channels. We self-host this instance based on [this Ansible playbook](https://github.com/OpenRailAssociation/matrix-docker-ansible-deploy/tree/deployment) on virtual machines and S3-compatible buckets by Hetzner.
+
+The user management is done via our Identity Provider.
+
+The service can be accessed via [element.openrailassociation.org](https://element.openrailassociation.org).
 
 ## Other Services
 
