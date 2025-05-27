@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 GitHub, Inc.
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Governance Policy
 
 This document provides the governance policy for the Project. Maintainers agree to this policy and to abide by all Project policies, including the [code of conduct](./CODE_OF_CONDUCT.md) by adding their name to the [`MAINTAINERS.md` file](./MAINTAINERS.md).

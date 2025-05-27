@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 OpenRail Association AISBL
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Contributing
 
 *The links to the license files need to be checked when adding the file to a repository. The license must be a license approved by the [Open Source Initiative (OSI)] as open source license.*
