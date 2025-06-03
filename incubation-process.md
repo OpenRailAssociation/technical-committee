@@ -87,19 +87,17 @@ Projects at the Adopted stage fit into the overall architecture of the OpenRail 
 
 ### Criteria
 
-*The criteria for stage 3 are still a draft*
+### Criteria
 
-*Examples from CNCF incubation process, to be adopted*
-
-* Document that it is being used successfully in production by at least three independent adopters which, in the TC’s judgement, are of adequate quality and scope.
-* Have committers from at least two organizations.
-* Have achieved and maintained an OpenSSF Best Practices Badge.
-* Provide SBOMs for all release artifacts
-* Have completed an independent and third party security audit with results published of similar scope and quality as this example which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before moving to the Adopted stage.
-* Explicitly define a project governance and committer process. The committer process should cover the full committer lifecycle including onboarding and offboarding or emeritus criteria. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
-* Explicitly define the criteria, process and offboarding or emeritus conditions for project maintainers; or those who may interact with the CNCF on behalf of the project. The list of maintainers should preferably be stored in a MAINTAINERS.md file and audited at a minimum of an annual cadence.
-* Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
-* Please include a short one-page narrative based on the template for Adopted projects, no more than 500 words.
+* **The project is used in production by at least three independent adopters so that it demonstrates widespread real-world relevance.** Adopters must be of adequate quality and scope. The TC evaluates this based on the context of the specific project. Where needed, commercial support should be available to meet production requirements.
+* **There is a public list of adopters so that usage is transparent.** This should be listed for at least the primary repository, ideally in the `publiccode.yml` file. For specifications, adopters of the reference implementations must be documented.
+* **The project has committers from at least two independent organizations so that its development is resilient and not dependent on a single entity.** A diverse contributor base strengthens the sustainability and community health of the project. Diversity of contributors is documented through suitable committer statistics. The TC evaluates this based on the context of the specific project.
+* **The project regularly produces stable releases so that users can rely on predictable updates.** A clear release cadence and a history of stable releases are documented.
+* **Security updates follow a documented and time-bound process so that users can rely on timely responses to vulnerabilities.** This process is described in the project’s `SECURITY.md` file and complements the Stage 2 security requirements.
+* **The project has passed an independent third-party security audit so that critical risks are identified and resolved.** All critical vulnerabilities must be addressed before progressing to this stage. The audit should also assess the architecture and development process from a security perspective.
+* **The project follows thorough security best practices so that it demonstrates strong security and quality.** It reaches at least 8/10 on the [OpenSSF Best Practices Badge](https://bestpractices.coreinfrastructure.org).
+* **SBOMs are provided for all release artifacts so that the project provides transparency of its supply chain security.** Availability of SBOMs in a standard format is documented as part of the release documentation.
+* **The project has adequate funding so that ongoing maintenance is ensured.** Current funding sources and prospectives for the future are made transparent. This is documented as part of the questionnaire.
 
 ### Process
 
