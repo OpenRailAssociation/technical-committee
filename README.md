@@ -6,26 +6,7 @@ This repository is the entry point for the work of the technical committee (TC) 
 
 The Technical Committee is the bridge between the organization and the projects. It manages the general technical process, such as the incubation process and the project governance. The goal is to have an environment where open source projects from the railway domain can flourish. The Technical Committee strives to find the right balance between keeping high standards to foster high quality projects and acting results-driven and pragmatic to allow for low-barrier access and fast progress.
 
-Goals, principles and how it works are described in the [Charter](charter.md) of the Technical Committee.
-
-## Members
-
-The members of the Technical Committee are representatives of the projects plus up to three people appointed by the board of the OpenRail Association.
-
-The current members of the Technical Committee are:
-
-* [Florian Amsallem](https://github.com/flomonster) (OSRD), Chair of the Technical Committee
-* [Stephanie Schalbetter](https://github.com/schalbts) (RCM OSS)
-* [Frederik Schäfer](https://github.com/frederik-db) (DAC Migration DSS)
-* [Adrian Egli](https://github.com/aiAdrian) (Netzgrafik-Editor)
-* [Tristram Gräbener](https://github.com/Tristramg) (liblrs)
-* [Loic Hamelin](https://github.com/loic-hamelin) (SNCF Réseau, appointed)
-* [Cornelius Schumacher](https://github.com/cornelius) (DB Systel, appointed)
-* [Peter Keller](https://github.com/Keller-Peter) (SBB, appointed)
-
-Permanent guests:
-
-* [Max Mehl](https://github.com/mxmehl) (OpenRail Team's Technical Infrastructure Manager)
+Goals, principles and how it works are described in the [Charter](charter.md) of the Technical Committee. See the [members list](docs/technical-committee/members.md) who currently is in the Technical Committee.
 
 ## Meetings
 
