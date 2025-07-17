@@ -1,5 +1,5 @@
 ---
-title: Charter of the Technical Committee
+title: Charter
 weight: 2000
 ---
 # Charter of the Technical Committee of the OpenRail Association

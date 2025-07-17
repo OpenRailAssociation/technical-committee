@@ -10,6 +10,6 @@ The OpenRail Association welcomes Open Source projects which address challenges 
 * [Application]({{< relref application >}})
 * [Onboarding]({{< relref onboarding >}})
 * [Open Governance]({{< relref governance >}})
-* [Technical Committee]({{< relref technical-committee >}})
+* [Technical Committee]({{< relref participating >}})
 
 In case you have any questions feel free to reach out to the [Technical Committee](mailto:technical-committee@openrailassociation.org).

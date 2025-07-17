@@ -8,6 +8,6 @@ Here are the main sections of the handbook:
 * [Incubation Stages]({{< relref incubation >}}) - How to grow as a project within the OpenRail Association
 * [Good Practices]({{< relref practices >}}) - Good practices adopted by OpenRail projects
 * [Technical Infrastructure]({{< relref infrastructure >}}) - Technical infrastructure for OpenRail projects
-* [Charter of the Technical Committee]({{< relref charter >}}) - How the Technical Committee is operating
+* [Technical Committee]({{< relref technical-committee >}}) - How the Technical Committee is operating
 
 Use the navigation menu on the left to navigate to more detailed sections of the handbook.
