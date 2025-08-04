@@ -21,8 +21,6 @@ env:
   source_dir: "./website"
   artifact_name: "website"
   condition_production: ${{ github.ref == 'refs/heads/main' }}
-  domain_production: https://projects.openrailassociation.org
-  domain_preview: https://web-preview.openrailassociation.org
   dir_preview_subdir: proj-pr-${{ github.event.number }}
 
 jobs:
@@ -45,7 +43,7 @@ jobs:
         if: env.condition_production == 'true'
 
       - name: Build preview site
-        run: hugo -s ${{ env.source_dir }} -e staging --buildFuture --buildDrafts -b ${{ env.domain_preview }}/${{ env.dir_preview_subdir }}/
+        run: hugo -s ${{ env.source_dir }} -e staging --buildFuture --buildDrafts -b ${{ vars.WEB_DOMAIN_PREVIEW }}/${{ env.dir_preview_subdir }}/
         if: github.event.pull_request
 
       - name: Upload artifact
@@ -65,13 +63,13 @@ jobs:
         with:
           artifact_name: ${{ env.artifact_name }}
           condition_production: ${{ env.condition_production }}
-          domain_production: ${{ env.domain_production }}
-          domain_preview: ${{ env.domain_preview }}
-          dir_base: /var/www/virtual/openrail
+          domain_production: https://projects.openrailassociation.org
+          domain_preview: ${{ vars.WEB_DOMAIN_PREVIEW }}
+          dir_base: ${{ vars.WEB_DIR_BASE }}
           dir_production: projects.openrailassociation.org
-          dir_preview_base: web-preview.openrailassociation.org
+          dir_preview_base: ${{ vars.WEB_DIR_PREVIEW_BASE }}
           dir_preview_subdir: ${{ env.dir_preview_subdir }}
-          ssh_host: uberspace1.openrailassociation.org
-          ssh_user: openrail
+          ssh_host: ${{ vars.WEB_SSH_HOST }}
+          ssh_user: ${{ vars.WEB_SSH_USER }}
           ssh_key: ${{ secrets.SSH_KEY }}
           linkchecker_exclude: "sncf.com,nge.flatland.cloud"
