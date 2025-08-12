@@ -44,13 +44,13 @@ The barrier for entering the Onboarded stage is intended to be low, so that it's
 
 ### Process
 
-1. The project applies to join the Onboarded using the [New Project Questionnaire](project-proposals/stage-1/stage-1-questionnaire.md).
+1. The project applies to join the Onboarded using the [New Project Questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/stage-1-questionnaire.md).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
 3. On a positive evaluation the Technical Committee prepares the decision to accept the project as an OpenRail Association project.
 4. According to the statutes of the OpenRail Association Article 22 the OpenRail board finally decides about the acceptance of the project based on the decision prepared by the Technical Committee.
 5. The project is accepted into the OpenRail Association as Onboarded project and their code is moved to the [GitHub organization of the OpenRail Association](https://github.com/OpenRailAssociation).
 6. The project is listed on the [OpenRail Association web site](https://openrailassociation.org).
-7. Onboarded projects can use the badge "OpenRail project (Onboarded)" (to be created).
+7. Onboarded projects can use the badge ["OpenRail (Onboarded)"]({{< relref "badges#incubation-stage-1" >}}).
 
 ## Stage 2: Qualified
 
@@ -76,10 +76,10 @@ The barrier for entering the Qualified stage is intended to be high, so there is
 
 ### Process
 
-1. Apply to move to Qualified using the questionnaire (to be done).
+1. Apply to move to Qualified using the [stage 2 questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-2/stage-2-questionnaire.md).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
 3. On a positive evaluation the Technical Committee decides to accept the project as a Qualified project.
-4. Qualified projects can use the badge "OpenRail project (Qualified)" (to be created).
+4. Qualified projects can use the badge ["OpenRail (Qualified)"]({{< relref "badges#incubation-stage-2" >}}).
 
 ## Stage 3: Adopted
 
@@ -90,8 +90,6 @@ The Adopted stage is for projects which have reached a level of high maturity an
 The Adopted stage is for projects which have not only reached a high level of quality, but also demonstrate that they are widely used and have a diverse set of contributors. This indicates that they can be relied on and they don't depend on a single organization.
 
 Projects at the Adopted stage fit into the overall architecture of the OpenRail Association. There are no competing projects on this stage which implement the same capabilities.
-
-### Criteria
 
 ### Criteria
 
@@ -107,10 +105,10 @@ Projects at the Adopted stage fit into the overall architecture of the OpenRail 
 
 ### Process
 
-1. Apply to move to Adopted stage using the questionnaire (to be done).
+1. Apply to move to Adopted stage using the [stage 3 questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-3/stage-3-questionnaire.md).
 2. The Technical Committee evaluates the application and works with the project to address any open issues.
 3. On a positive evaluation the Technical Committee decides to accept the project as an Adopted project.
-4. Adopted projects can use the badge "OpenRail project (Adopted)" (to be created).
+4. Adopted projects can use the badge ["OpenRail (Adopted)"]({{< relref "badges#incubation-stage-3" >}}).
 
 ## Stage 4: Retired
 
