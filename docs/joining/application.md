@@ -11,7 +11,7 @@ Hosting an Open Source project means that the OpenRail Association provides the 
 
 Development of the Open Source software in the projects is done by the project participants. This will be members of the OpenRail Association in many cases, but this is not a prerequisite. All projects follow an open governance model, which means that decisions are taken transparently and participation in projects is based on merits. The OpenRail Association makes sure that these principles are followed for its projects, but leaves projects a lot of autonomy to organize themselves in the way which is most suitable for the project. Control about the content of the project is fully with the projects. The OpenRail Foundation does not provide funding for development.
 
-The [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation-process.md) defines how projects can become part of the OpenRail Association and what conditions have to be met at which stage. The first step is to apply to be hosted as an official OpenRail Association project. Here is how:
+The [incubation process]({{< relref "process" >}}) defines how projects can become part of the OpenRail Association and what conditions have to be met at which stage. The first step is to apply to be hosted as an official OpenRail Association project. Here is how:
 
 ## Decide on adopting an Open Source model
 

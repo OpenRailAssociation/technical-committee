@@ -19,7 +19,7 @@ Following the statutes of the OpenRail Association and the charter of its Techni
 
 ## Implementation
 
-Projects are required to adopt an open governance model. The Technical Committee guides, advises and supports projects in doing so. The Technical Committee is responsible for shaping and running the [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation-process.md) which defines how projects can become part of the OpenRail Association and what requirements they have to meet to advance to more mature stages. Adhering to open principles is a significant part of this.
+Projects are required to adopt an open governance model. The Technical Committee guides, advises and supports projects in doing so. The Technical Committee is responsible for shaping and running the [incubation process]({{< relref "process" >}}) which defines how projects can become part of the OpenRail Association and what requirements they have to meet to advance to more mature stages. Adhering to open principles is a significant part of this.
 
 As a base for projects to define their governance rules the Technical Committee also maintains a set of [templates](https://github.com/OpenRailAssociation/technical-committee/tree/main/project-templates) for setting up a minimum viable open governance. These templates can act as a set of default documents, a starting point for defining more sophisticated models, and a baseline to check existing documents against.
 
