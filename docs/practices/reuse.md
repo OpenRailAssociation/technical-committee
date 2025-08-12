@@ -22,7 +22,7 @@ Instead of duplicating guides, we refer to helpful material that already exists 
 
 For Incubation Stage 2, we require projects to be fully REUSE compliant. This is measured by whether the `reuse lint` command exits successfully, but requires that the projects carefully check the licenses and copyright of all their files.
 
-### Analyse your codebase
+### Analyze your codebase
 
 When thinking about licensing and copyright of all your files, tricky questions may arise:
 

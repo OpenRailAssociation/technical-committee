@@ -12,7 +12,7 @@ weight: 2000
 
 The OpenRail Association's Technical Committee (TC) is responsible for selecting and overseeing the Association's projects to ensure that they are aligned with the Association's goals and values. The committee works in collaboration with the Board of Directors to make informed decisions on which projects to support and provides the necessary guidance to ensure their success.
 
-The Technical Committee is also responsible for the necessary software and service infrastructure for code hosting and other common tools to facilitate open source collaboration. It may delegate operation but shall be reponsible for overseeing the overall management of such tools.
+The Technical Committee is also responsible for the necessary software and service infrastructure for code hosting and other common tools to facilitate open source collaboration. It may delegate operation but shall be responsible for overseeing the overall management of such tools.
 
 ## Principles
 
@@ -30,7 +30,7 @@ All members of the TC should have a technical perspective, work towards the bene
 
 ## Chair of the TC
 
-The Chair of the TC is elected once a year from among the TC members. The Chair is responsible for ensuring that meetings are conducted according to the rules described below, and for communicating the decisions made at these meetings to the Board and the wider Openrail Association community. The Chair is representing the Technical Committee as a whole, which means all projects in the Association, not only a particular project.
+The Chair of the TC is elected once a year from among the TC members. The Chair is responsible for ensuring that meetings are conducted according to the rules described below, and for communicating the decisions made at these meetings to the Board and the wider OpenRail Association community. The Chair is representing the Technical Committee as a whole, which means all projects in the Association, not only a particular project.
 
 The current TC Chair is responsible for running the election of the next TC Chair and remains responsible for the TC Chair duties until the next TC Chair is elected.
 
