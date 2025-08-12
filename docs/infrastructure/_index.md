@@ -35,7 +35,7 @@ Projects may control their domains on their own. Please see the document about [
 
 We self-host an identity provider based on [Authentik](https://github.com/goauthentik/authentik/). This allows our users to only have one account for multiple services of OpenRail Association, and configure group memberships and other permissions centrally. Currently, this is used for our Collaboration Suite based on Nextcloud and our Matrix server (see below).
 
-The user directory of our Authentik instance is managed, like domain records and GitHub team memberships, in version-controlled text files and synchronised with a tool.
+The user directory of our Authentik instance is managed, like domain records and GitHub team memberships, in version-controlled text files and synchronized with a tool.
 
 The service is deployed and semi-automatically managed via [Elest.io](https://elest.io/).
 
@@ -71,7 +71,7 @@ There are very few use-cases for which we use the MailEasy product as part of IN
 
 For the several services we are using, some require dedicated accounts and passwords, while others are ties to existing user accounts, e.g. GitHub.
 
-If we have to share passwords, we are using an hosted password vault, currently based on Vaultwarden/Bitwarden. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a service. However, we generally prefer using pre-existing, personalised accounts.
+If we have to share passwords, we are using an hosted password vault, currently based on Vaultwarden/Bitwarden. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a service. However, we generally prefer using pre-existing, personalized accounts.
 
 ## Websites
 
