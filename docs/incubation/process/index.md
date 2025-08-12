@@ -12,7 +12,7 @@ Projects can be in four stages which are reflecting the maturity of the project 
 
 ![Project funnel](project-funnel.png)
 
-Previous naming scheme:
+Here is the detailed view how projects flow through the stages of the incubation process:
 
 ![Project lifecycle](incubation-stages.svg)
 
