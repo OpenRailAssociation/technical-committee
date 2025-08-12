@@ -1,14 +1,20 @@
+---
+title: Overview
+weight: 100
+---
 # OpenRail Incubation process
+
+> _**Note:** This is the official specification of the OpenRail incubation process. All substantial changes must be approved by the Technical Committee._
 
 This document describes the incubation process for projects in the OpenRail Association. This includes how a project can join OpenRail as well as how a project can move to subsequent stages of maturity.
 
 Projects can be in four stages which are reflecting the maturity of the project and the level of adoption in the OpenRail community (Onboarded, Qualified, Adopted, Retired). For each stage the project has to fulfill a set of criteria. Projects can propose to be moved from one stage to the next. The TC will evaluate the proposal and decide if the project can move to the next stage.
 
-![Project funnel](images/project-funnel.png)
+![Project funnel](project-funnel.png)
 
 Previous naming scheme:
 
-![Project lifecycle](images/incubation-stages.svg)
+![Project lifecycle](incubation-stages.svg)
 
 The criteria for entering each stage cover the compliance, business, and technical evaluation of the project. The evaluation has to be done for each version of the project. A community version could be accepted and not the enterprise version.
 

@@ -20,6 +20,14 @@ We maintain a set of [project templates](project-templates/) which provides a ba
 
 See the [official list of projects](projects.md) for which projects are already part of the OpenRail Association.
 
+## Official documents
+
+There are a couple of formal official documents which define how the technical committee and the incubation process works:
+
+* [Charter of the OpenRail Technical Committee](docs/technical-committee/charter.md)
+* [Specification of the OpenRail Incubation Process](docs/incubation/process/index.md)
+* [Official list of OpenRail projects](docs/joining/projects.md)
+
 ## License
 
 All material in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you are [contributing](CONTRIBUTING.md) to this repository you agree to make these contributions under the same license.
