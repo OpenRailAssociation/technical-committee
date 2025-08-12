@@ -10,7 +10,7 @@ Naming is hard. Within OpenRail, all elements such as repositories must be prepe
 
 Only owners of the OpenRail organization can create new repositories. This is to prevent clutter and unclear permissions.
 
-The first repository will be set up as part of the onboarding as soon as the project has been accepted by the OpenRail Association in the [incubation process]({{< relref "process >}}).
+The first repository will be set up as part of the onboarding as soon as the project has been accepted by the OpenRail Association in the [incubation process]({{< relref "process" >}}).
 
 On the [project list]({{< relref "projects" >}}) we list all repositories which belong to each OpenRail project. If you need an additional repository, create a pull request there with the name of the new repository and add any details in the text of the pull request. An owner of the organization will then work with you to set it up according to your needs. Once the setup is complete the pull request will be merged, so that the repo also shows up in the official project list.
 
