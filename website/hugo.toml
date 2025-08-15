@@ -11,9 +11,3 @@ title = 'OpenRail Project Handbook'
   [[module.mounts]]
     source = '../docs'
     target = 'content/docs'
-  [[module.mounts]]
-    source = '../charter.md'
-    target = 'content/docs/technical-committee/charter.md'
-  [[module.mounts]]
-    source = '../projects.md'
-    target = 'content/docs/joining/projects.md'

@@ -19,7 +19,7 @@ In combination, we sometimes cannot find a technical solution to a problem that 
 
 ## Governance
 
-The *Technical Infrastructure Manager*, part of the OpenRail Team, is responsible for the overall infrastructure. They do this in close collaboration with the *Technical Committee* as well as other users inside the organisation. They can define assistants to avoid that all knowledge and accesses reside with only one person.
+The *Technical Infrastructure Manager*, part of the OpenRail Team, is responsible for the overall infrastructure. They do this in close collaboration with the *Technical Committee* as well as other users inside the organization. They can define assistants to avoid that all knowledge and accesses reside with only one person.
 
 The current Technical Infrastructure Manager is Max Mehl ([@mxmehl](https://github.com/mxmehl)). He is assisted by Cornelius Schumacher ([@cornelius](https://github.com/cornelius)).
 
@@ -35,17 +35,17 @@ Projects may control their domains on their own. Please see the document about [
 
 We self-host an identity provider based on [Authentik](https://github.com/goauthentik/authentik/). This allows our users to only have one account for multiple services of OpenRail Association, and configure group memberships and other permissions centrally. Currently, this is used for our Collaboration Suite based on Nextcloud and our Matrix server (see below).
 
-The user directory of our Authentik instance is managed, like domain records and GitHub team memberships, in version-controlled text files and synchronised with a tool.
+The user directory of our Authentik instance is managed, like domain records and GitHub team memberships, in version-controlled text files and synchronized with a tool.
 
 The service is deployed and semi-automatically managed via [Elest.io](https://elest.io/).
 
 ## GitHub
 
-OpenRail Association prefers using GitHub.com for hosting of code, projects and documentation. All official repositories - e.g., by OpenRail projects, working groups, for administrative projects - must be part of the [OpenRailAssociation](https://github.com/OpenRailAssociation) GitHub organisation.
+OpenRail Association prefers using GitHub.com for hosting of code, projects and documentation. All official repositories - e.g., by OpenRail projects, working groups, for administrative projects - must be part of the [OpenRailAssociation](https://github.com/OpenRailAssociation) GitHub organization.
 
-For this GitHub organisation, we distribute permissions using Teams and a repository that follows a four-eyes and version-controlled paradigm. Please see the detailed document about [Managing GitHub]({{< relref "github-management" >}}) for guidance and details.
+For this GitHub organization, we distribute permissions using Teams and a repository that follows a four-eyes and version-controlled paradigm. Please see the detailed document about [Managing GitHub]({{< relref "github-management" >}}) for guidance and details.
 
-In addition to the official GitHub organisation, there is an organisation for experimental and other projects which need a space for initial or temporary collaboration without being ready for an application as official project. It is the organisation [OpenRail-Playground](https://github.com/OpenRail-Playground). Permissions are controlled individually using the GitHub web interface.
+In addition to the official GitHub organization, there is an organization for experimental and other projects which need a space for initial or temporary collaboration without being ready for an application as official project. It is the organization [OpenRail-Playground](https://github.com/OpenRail-Playground). Permissions are controlled individually using the GitHub web interface.
 
 ## Uberspace
 
@@ -71,7 +71,7 @@ There are very few use-cases for which we use the MailEasy product as part of IN
 
 For the several services we are using, some require dedicated accounts and passwords, while others are ties to existing user accounts, e.g. GitHub.
 
-If we have to share passwords, we are using an hosted password vault, currently based on Vaultwarden/Bitwarden. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a service. However, we generally prefer using pre-existing, personalised accounts.
+If we have to share passwords, we are using an hosted password vault, currently based on Vaultwarden/Bitwarden. The Technical Infrastructure Manager manages this vault and provides access to other people, like their assistants, on a need-to-know basis. A sub-part of this vault may also be used by other teams if they require such a service. However, we generally prefer using pre-existing, personalized accounts.
 
 ## Websites
 
@@ -93,6 +93,6 @@ The service can be accessed via [element.openrailassociation.org](https://elemen
 
 ## Other Services
 
-For the functioning of the organisation, teams may use other tools that suit their needs. One example is office tools to share documents and collaborate on them. So far, we have been using services provided by single members and didn't see the need to set up dedicated services. While this may change in the future, we currently have other priorities.
+For the functioning of the organization, teams may use other tools that suit their needs. One example is office tools to share documents and collaborate on them. So far, we have been using services provided by single members and didn't see the need to set up dedicated services. While this may change in the future, we currently have other priorities.
 
 If you believe OpenRail Association shall provide more technical services to make a certain team or project more efficient, please contact the Technical Committee and/or the Technical Infrastructure Manager and explain your use-case.

@@ -4,7 +4,9 @@ weight: 600
 ---
 # OpenRail Association Projects
 
-This is the list of projects accepted as OpenRail Association projects. Projects acceptance follows the [incubation process](incubation-process.md).
+> _**Note:** This is the official list of OpenRail projects. All substantial changes must be approved by the Technical Committee._
+
+This is the list of projects accepted as OpenRail Association projects. Projects acceptance follows the [incubation process]({{< relref "process" >}}).
 
 ## Stage 2
 
