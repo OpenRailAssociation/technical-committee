@@ -70,9 +70,9 @@ The barrier for entering the Qualified stage is intended to be high, so there is
 * **The project has implemented an open governance process so that participation in the project becomes possible.** It is documented how decisions are taken in the project and how people can become committers and maintainers. Listing and documenting the channels / means of communication used by the project is also essential for an open governance.
 * **There is a public business roadmap so that there is transparency about what drives the project.**
 * **The project's software is used in production so that it is demonstrated that the software is ready for serious use.** It is sufficient if this is only the organization developing the project.
-* **There is clarity about the licensing of the project so that it can be safely used in a compliant way.** To achieve that the project is [REUSE](https://reuse.software) compliant and there is an automatic check which runs the REUSE linter. These detailed requirements and processes are documented [here](project-handbook/reuse.md).
+* **There is clarity about the licensing of the project so that it can be safely used in a compliant way.** To achieve that the project is [REUSE](https://reuse.software) compliant and there is an automatic check which runs the REUSE linter. These detailed requirements and processes are documented in the [project handbook]({{< relref "reuse" >}}).
 * **The project requires the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) so that there is clarity about the provenance of contributed code.** The presence of the DCO information is automatically checked so that it is made sure that it is present in all commits.
-* **The project follows baseline security best practices.** The project pins its dependencies and has an automated process to detect and update (vulnerable) dependencies. The project reaches an [OpenSSF Scorecard](https://openssf.org/projects/scorecard/) score of at least 5/10 and communicates the score with the check date in `README.md`. The project has a security policy in `SECURITY.md`. These best practices are detailed [here](project-handbook/security.md).
+* **The project follows baseline security best practices.** The project pins its dependencies and has an automated process to detect and update (vulnerable) dependencies. The project reaches an [OpenSSF Scorecard](https://openssf.org/projects/scorecard/) score of at least 5/10 and communicates the score with the check date in `README.md`. The project has a security policy in `SECURITY.md`. These best practices are detailed in the [project handbook]({{< relref "security" >}}).
 
 ### Process
 
@@ -131,4 +131,4 @@ Projects that aren't developed anymore or that have been replaced by another pro
 
 ## References
 
-The stages and the process are inspired by the [CNCF project lifecycle process](https://github.com/cncf/toc/blob/main/process/README.md) and the [LF Energy technical project lifecycle](https://wiki.lfenergy.org/display/HOME/Technical+Project+Lifecycle).
+The stages and the process are inspired by the [CNCF project lifecycle process](https://github.com/cncf/toc/blob/main/process/README.md) and the [LF Energy project lifecycle](https://tac.lfenergy.org/process/lifecycle.html).
