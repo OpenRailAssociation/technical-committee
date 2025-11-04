@@ -10,6 +10,8 @@
 
 *Also see the documentation in [incubation process](../../incubation-process.md) for details about criteria and requirements for new projects and how it works to get new projects into the association.*
 
+**Note: This project has been accepted as a subproject of DAC Migration DSS**
+
 ##  What is the project's name?
 PopUpSim
 
