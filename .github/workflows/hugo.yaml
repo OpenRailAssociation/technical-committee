@@ -27,7 +27,7 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
         with:
           submodules: recursive # Get submodules
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
@@ -47,7 +47,7 @@ jobs:
         if: github.event.pull_request
 
       - name: Upload artifact
-        uses: actions/upload-artifact@330a01c490aca151604b8cf639adc76d48f6c5d4 # v5
+        uses: actions/upload-artifact@330a01c490aca151604b8cf639adc76d48f6c5d4 # v5.0.0
         with:
           name: ${{ env.artifact_name }}
           path: ${{ env.source_dir }}/public
@@ -59,7 +59,7 @@ jobs:
     needs: build
     runs-on: ubuntu-24.04
     steps:
-      - uses: OpenRailAssociation/web-deployment-action@20b8d1c718a88eb73ccfde8e4fc32a02bc13da74 # v1
+      - uses: OpenRailAssociation/web-deployment-action@20b8d1c718a88eb73ccfde8e4fc32a02bc13da74 # v1.1.2
         with:
           artifact_name: ${{ env.artifact_name }}
           condition_production: ${{ env.condition_production }}
