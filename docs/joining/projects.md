@@ -31,7 +31,10 @@ This is the list of projects accepted as OpenRail Association projects. Projects
   * https://github.com/OpenRailAssociation/dac-migration-dss
   * https://github.com/OpenRailAssociation/dac-migration-dss-popupsim ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/PopUpSim.md), accepted as sub-project by technical committee on 2025-09-30)
 * **Netzgrafik-Editor** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/NGE.md)), accepted by vote of the board on 2024-06-21
+  * https://github.com/OpenRailAssociation/netzgrafik-editor-frontend
+  * https://github.com/OpenRailAssociation/netzgrafik-editor-backend
 * **liblrs** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/liblrs.md)), accepted by vote of the board on 2024-07-12
+  * https://github.com/OpenRailAssociation/liblrs
 
 ## Administrative Projects
 
