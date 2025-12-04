@@ -145,9 +145,9 @@ This is the preferred option because it provides the most stable and broad base 
 
 The OpenRail Association has a defined [incubation process]({{< relref "process" >}}) for how projects can join the organization. Follow that to get your project on board and join the set of [official OpenRail projects]({{< relref "projects" >}}).
 
-#### Join an umbrella organization
+#### Join a fiscal sponsorship organization
 
-There are some organizations which act as umbrella organizations for other open source projects. That means they can represent a project in financial and other organizational matters but act more or less as a proxy and don't get involved with running the project. Examples are the [Software Freedom Conservancy](https://sfconservancy.org/) or [SPI](https://www.spi-inc.org/).
+There are some organizations which act as fiscal sponsorship organizations for other open source projects. That means they can represent a project in financial and other organizational matters but act more or less as a proxy and don't get involved with running the project. Examples are the [Software Freedom Conservancy](https://sfconservancy.org/) or [SPI](https://www.spi-inc.org/).
 
 These organizations can work well for individual projects which need an organization from a practical point of view but are operating mostly individually in most ways.
 
