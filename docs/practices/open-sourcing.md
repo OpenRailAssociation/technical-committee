@@ -12,7 +12,7 @@ There are many reasons why it can be a good idea to open source a software proje
 * Reducing costs through shared development
 * Attracting talent and engaging employees
 
-There is excellent material available in the community which dives deep on each of these motivations and some more. Good starting points are TODO Group's ["Guide to Outbound Open Source Software"](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/), Bitkom's ["Open Source Guide"](https://www.bitkom.org/sites/main/files/2024-04/bitkom-opensource-guide-en.pdf) and Mozilla's ["Framework For Purposeful Open Source"](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf).
+There is excellent material available in the community which dives deep on each of these motivations and some more. Good general starting points are TODO Group's ["Guide to Outbound Open Source Software"](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/), Bitkom's ["Open Source Guide"](https://www.bitkom.org/sites/main/files/2024-04/bitkom-opensource-guide-en.pdf) and Mozilla's ["Framework For Purposeful Open Source"](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf). See ["What is a good project for the OpenRail Association?"]({{< relref "indicators" >}}) for a discussion of business indicators for starting an open source project.
 
 When the primary decision is taken to open source a project, there are a number of additional questions to consider. And there are practical decisions and steps to be taken to finally publish the project as open source software. The rest of this guide covers all these subsequent steps.
 
@@ -254,6 +254,7 @@ The final step of the open sourcing process is publishing the repository you hav
 * [Guide to Outbound Open Source Software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/) - Covers setting up processes for employees to contribute to external projects and starting new open source projects
 * [Open Source Guide](https://www.bitkom.org/sites/main/files/2024-04/bitkom-opensource-guide-en.pdf) - Explains license mechanics, types (permissive, weak/strong copyleft, network copyleft), and practical considerations
 * [Framework For Purposeful Open Source](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) - Mozilla's research on different archetypes and motivations for open source projects
+* [What is a good project for the OpenRail Association?]({{< relref "indicators" >}}) - Business indicators for starting an open source project
 * [Open Source Initiative (OSI)](https://opensource.org) - The authority that approves and maintains the definition of open source licenses
 * [Open source licenses](https://opensource.org/licenses) - Complete catalog of OSI-approved licenses
 * [Open-source license](https://en.wikipedia.org/wiki/Open-source_license) - Overview of license categories and their legal implications
