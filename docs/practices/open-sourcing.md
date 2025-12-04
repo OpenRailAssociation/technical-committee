@@ -83,7 +83,7 @@ One of the most important decisions is the license under which the project will 
 
 Things to consider:
 
-* Use a license which is approved by the [Open Source Initiative (OSI)](https://opensource.org) as [open source](https://opensource.org/licenses). This is the only way to guarantee that the license communicates clear expectations and finds broad acceptance in the community.
+* Use a license which is approved by the [Open Source Initiative (OSI)](https://opensource.org) as [open source](https://opensource.org/licenses). This is the only way to guarantee that the license communicates clear expectations and finds broad acceptance in the community. These licenses are court-tested, reviewed by many lawyers and well understood, and there are experts available to consult on these licenses, also within the OpenRail Association.
 * Stick with commonly used licenses. The more exotic the license is, the harder it is to explain to people what it means. A rarely used license creates barriers which can be avoided by using a license which is well known and understood.
 * Choose an up-to-date license. There are multiple versions of many licenses. Use the most recent one, so you benefit from the experience which has gone into the evolution of the licenses.
 * For a project which is truly open, the license will be enough. You won't need additional agreements such as a Contributor License Agreement. These only create additional barriers with no substantial benefit. Using the [Developer Certificate of Origin (DCO)]({{< relref "dco" >}}) can add some explicitness to the licensing process for contributors. It isn't strictly necessary, either.
