@@ -217,7 +217,7 @@ Every company has (or should have) some kind of internal contribution process wh
 
 ### Follow upstream process
 
-Every open source project has some policies and conventions they expect to be followed. The main entry point usually is the CONTRIBUTING.md file in the root of the project's repository. Take the time to make yourself familiar with what is expected and make sure that you follow the project's conventions. More information can for example be found in TODO Group's guide for [Employee Open Source Engagement](https://todogroup.org/resources/guides/employee-open-source-engagement/).
+Every open source project has some policies and conventions they expect to be followed. The main entry point usually is the `CONTRIBUTING.md` file in the root of the project's repository. Take the time to make yourself familiar with what is expected and make sure that you follow the project's conventions. More information can for example be found in TODO Group's guide for [Employee Open Source Engagement](https://todogroup.org/resources/guides/employee-open-source-engagement/).
 
 ### Take decisions
 
