@@ -174,7 +174,7 @@ Things to consider:
 
 With the main decisions in place you can go through the practical steps of preparing and publishing your project as open source. This section describes an exemplary workflow. Depending on your organization and how you manage open source there, your workflow might look different. Adapt it as you see fit.
 
-```mermaid
+{{< mermaid >}}
 flowchart TD
   A([Start]) --> B
   B[Set goal] --> C
@@ -199,7 +199,7 @@ flowchart TD
     L[Train contributors] --> M
     M[Publish] --> N((Open Source))
   end
-```
+{{< /mermaid >}}
 
 Here is the description of the individual steps in the process:
 
