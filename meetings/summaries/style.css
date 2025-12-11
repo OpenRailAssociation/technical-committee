@@ -1,0 +1,15 @@
+@page {
+  margin: 2cm;
+}
+
+@page :first {
+  background-image: url('logo-OpenRail-Association.png');
+  background-repeat: no-repeat;
+  background-position: top -1.5cm right -1.5cm;
+  background-size: 2cm auto;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.2;
+}
