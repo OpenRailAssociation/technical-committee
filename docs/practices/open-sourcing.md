@@ -170,6 +170,24 @@ Things to consider:
 * Cultural and linguistic check - Make sure the name works in common languages in your ecosystem and does not unintentionally refer to something inappropriate.
 * Optional: trademark - A trademark is not required, but if you want one, choose a name where you could register it later if necessary.
 
+### Set up for cooperation
+
+Open source projects have the potential to scale incredibly well. The open nature of culture and process reduces barriers and makes it easy to efficiently address a large audience. This is the base for wide adoption of open source software but also the base for growing a large community of contributors.
+
+Not every project has the goal to attract contributors or to build a developer community. There can be other motivations such as building trust through transparency. But if building a large developer community is a goal, then the project needs to take some decisions to make it attractive for others to contribute and to facilitate shared development.
+
+The key factor is to **set up for cooperation**. This means that the project needs to be structured to allow contributors to cooperate with a common direction, while still supporting different sub goals, motivations and working modes. The goal is not to set up very tight-knit collaboration, but to allow looser cooperation to contribute to the shared success of the project. This enables asynchronous work, reduces coordination effort, and supports people to take local responsibility.
+
+This kind of cooperation has to cover aspects of community, process, and technology.
+
+The community needs to establish shared values which guide decisions in favor of the common goal. That doesn't mean that contributors can't have their own goals, but they need to meet the overall goal and values of the project, otherwise conflict is likely.
+
+The process needs to be efficient without creating central bottlenecks. Asynchronous review processes allow for contributors to work on their own time lines. Standards for how to make contributions allows contributors to hold up common practices without central gates.
+
+The technology, especially the architecture, has to allow components to be developed independently in a model of loose coupling. Almost all large popular open source projects have some type of module system, which makes it possible for developers to extend the project without having to touch central parts of the software. One example would be the device drivers of the Linux kernel.
+
+In conclusion, if you want to scale and grow a developer community, set up for cooperation, so that developers can work together with minimal effort of coordination.
+
 ## Procedure
 
 With the main decisions in place you can go through the practical steps of preparing and publishing your project as open source. This section describes an exemplary workflow. Depending on your organization and how you manage open source there, your workflow might look different. Adapt it as you see fit.
