@@ -91,6 +91,10 @@ The user management is done via our Identity Provider.
 
 The service can be accessed via [element.openrailassociation.org](https://element.openrailassociation.org).
 
+## e-decisions
+
+For asynchronous decision making we use [Loomio](https://loomio.eu). It's an open source tool hosted in Europe which is built for supporting digital discussions and decision making in collaborative organizations. We refer to that as e-decisions. See the [Loomio]({{< relref "loomio" >}}) for the details and convention we have agreed on how we use the tool.
+
 ## Other Services
 
 For the functioning of the organization, teams may use other tools that suit their needs. One example is office tools to share documents and collaborate on them. So far, we have been using services provided by single members and didn't see the need to set up dedicated services. While this may change in the future, we currently have other priorities.
