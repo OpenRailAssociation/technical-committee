@@ -10,6 +10,8 @@ Loomio supports discussions and a wide variety of decision types, where people c
 
 The goal is to take decisions early, without having to wait for a board meeting, while making sure that there is room for discussion and feedback to enable informed decisions.
 
+Votings beyond the procedures described above will be set up when required and in accordance with the statutes applicable at the given point in time.
+
 ## Groups
 
 We have an overall OpenRail group in Loomio. This has subgroups in which the actual activity is happening.
