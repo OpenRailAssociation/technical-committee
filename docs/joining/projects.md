@@ -48,6 +48,7 @@ There are some projects within OpenRail Association outside of the railway and t
 * [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager) to manage permissions and settings in a GitHub organization
 * [landscape](https://github.com/OpenRailAssociation/landscape), and experimental overview of Open Source projects in railways and transportation
 * [openrail-dns](https://github.com/OpenRailAssociation/openrail-dns), domain records configuration for some of OpenRail's domains
+* [openrail-metrics](https://github.com/OpenRailAssociation/openrail-metrics), repo for generating quarterly OpenRail metrics reports
 * [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config), our configuration deployed using `github-org-manager`
 * [project-template](https://github.com/OpenRailAssociation/project-template), template for OpenRail repositories
 * [purl-tools](https://github.com/OpenRailAssociation/purl-tools), library for handling Package URLs, mainly used by compliance-assistant
