@@ -59,7 +59,7 @@ jobs:
     needs: build
     runs-on: ubuntu-24.04
     steps:
-      - uses: OpenRailAssociation/web-deployment-action@743e1801e8a0cce27d8f416987d4c9ef69449703 # v1.1.3
+      - uses: OpenRailAssociation/web-deployment-action@5eec7c629352dfac2c5905d7f1408a26d1951433 # v1.2.0
         with:
           artifact_name: ${{ env.artifact_name }}
           condition_production: ${{ env.condition_production }}
