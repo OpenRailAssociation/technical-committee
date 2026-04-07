@@ -58,6 +58,10 @@ Sometimes hardware requires specific software coming from the software vendor, n
 
 Often, buying software is preferred over making it, because the effort of making software is high. Open source can be a compromise by either taking existing open source software to massively reduce the make effort, or by mutualizing the effort through multiple parties combining their efforts to make software.
 
+### Scaling to many users
+
+One fundamental advantage of open source software is that there are no license fees for the software itself. Open Source licenses allow unrestricted use by definition. This is especially advantageous in situations with many potential users. Proprietary solutions often have pricing models which have a per-user license fee. Open Source scales much better here, only taking into account the real costs of hosting, support, etc. This is an opportunity to lower costs for use cases addressing many users. *Example: Linux on Mobile or in the Cloud.*
+
 ### Innovation and research projects
 
 Open source plays a big role in innovation and research because it provides a very low barrier to entry and accelerates development. It also benefits from involvement of a broad set of diverse minds, which naturally is facilitated by the openness of the open source model. Often the choice of software and approaches is also less limited than in mature production systems. Especially if public research funding is involved open source also is a good way to realize corporate social responsibility. *Example: OSRD.*
