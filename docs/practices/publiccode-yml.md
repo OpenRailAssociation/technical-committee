@@ -19,6 +19,7 @@ Having a standardized, machine-readable metadata file for each project enables u
 - Display project information on the [OpenRail website](https://openrailassociation.org/#projects) automatically
 - Aggregate projects in the [OpenRail Landscape](https://landscape.openrailassociation.org) with structured data about capabilities, licenses, and status
 - Keep project information consistent across different places where it is shown
+- A publiccode.yml file in our projects allows them to be shown in catalogs from other organizations
 - Let projects maintain their own metadata as part of their regular development workflow
 
 The information is consumed directly from the repositories, so keeping the file up to date in the repository is all that is needed.
