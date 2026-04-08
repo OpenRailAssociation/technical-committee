@@ -9,5 +9,6 @@ We strive to achieve a high degree of quality and maturity for Open Source proje
 We generally orient ourselves at general good practices from the Open Source community. For some of the key practices we maintain specific documentation here:
 
 * [DCO]({{< relref dco >}})
+* [publiccode.yml]({{< relref publiccode-yml >}})
 * [REUSE]({{< relref reuse >}})
 * [Security]({{< relref security >}})
