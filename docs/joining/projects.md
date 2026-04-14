@@ -47,6 +47,7 @@ There are some projects within OpenRail Association outside of the railway and t
 * [FOSDEM](https://github.com/OpenRailAssociation/FOSDEM) for organizing the "Railways and Open Transportation" devroom at the FOSDEM conference
 * [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager) to manage permissions and settings in a GitHub organization
 * [landscape](https://github.com/OpenRailAssociation/landscape), and experimental overview of Open Source projects in railways and transportation
+* [openrail-ansible](https://github.com/OpenRailAssociation/openrail-ansible), Ansible playbooks for managing OpenRail's infrastructure
 * [openrail-dns](https://github.com/OpenRailAssociation/openrail-dns), domain records configuration for some of OpenRail's domains
 * [openrail-metrics](https://github.com/OpenRailAssociation/openrail-metrics), repo for generating quarterly OpenRail metrics reports
 * [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config), our configuration deployed using `github-org-manager`
