@@ -4,7 +4,7 @@ weight: 400
 ---
 # Provide project metadata with publiccode.yml
 
-OpenRail projects are expected to maintain a `publiccode.yml` file in the root of their most central repository. This file serves as the entry of the project in the OpenRail software catalogue. It provides structured metadata about the project which is used on the [OpenRail website](https://openrailassociation.org/#projects) and in the [OpenRail Landscape](https://landscape.openrailassociation.org).
+OpenRail projects are expected to maintain a `publiccode.yml` file in the root of their most central repository. This file serves as the entry of the project in the OpenRail software catalogue. It provides structured metadata about the project which is used on the [OpenRail website](https://openrailassociation.org/#projects) and in the [OpenRail Landscape](https://openrailassociation.github.io/landscape/).
 
 ## What is publiccode.yml?
 
@@ -16,8 +16,8 @@ See the [publiccode.yml specification](https://yml.publiccode.tools/schema.core.
 
 Having a standardized, machine-readable metadata file for each project enables us to:
 
-- Display project information on the [OpenRail website](https://openrailassociation.org/#projects) automatically
-- Aggregate projects in the [OpenRail Landscape](https://landscape.openrailassociation.org) with structured data about capabilities, licenses, and status
+- Display project information on the [OpenRail website](https://openrailassociation.github.io/landscape/projects/) automatically
+- Aggregate projects in the [OpenRail Landscape](https://openrailassociation.github.io/landscape/) with structured data about capabilities, licenses, and status
 - Keep project information consistent across different places where it is shown
 - A publiccode.yml file in our projects allows them to be shown in catalogs from other organizations
 - Let projects maintain their own metadata as part of their regular development workflow

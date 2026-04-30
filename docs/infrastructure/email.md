@@ -1,6 +1,6 @@
 # Emails and Mailing Lists
 
-OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use three intertwined services: mail accounts on an account with [Uberspace](https://uberspace.de), mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://docs.mailman3.org/), and the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting).
+OpenRail Association runs a number of email addresses via which people can reach us and individual teams. We don't run a mail server ourselves but use three intertwined services: mail accounts on an account with [Uberspace](https://uberspace.de), mailing lists by [Mailman3.com](https://mailman3.com), a provider of mailing lists using the Open Source software [Mailman 3](https://docs.mailman3.org/), and the [MailEasy product by our domain registrar INWX](https://www.inwx.de/en/hosting/email).
 
 ## Email accounts (Uberspace)
 

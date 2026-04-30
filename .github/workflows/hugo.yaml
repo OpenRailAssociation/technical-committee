@@ -82,4 +82,4 @@ jobs:
           ssh_host: ${{ vars.WEB_SSH_HOST }}
           ssh_user: ${{ vars.WEB_SSH_USER }}
           ssh_key: ${{ secrets.SSH_KEY }}
-          linkchecker_exclude: "sncf.com,nge.flatland.cloud"
+          linkchecker_exclude: "https://github.com/orgs/OpenRailAssociation/projects/13,loomio.eu"
