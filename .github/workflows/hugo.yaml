@@ -17,7 +17,6 @@ concurrency:
 
 # Set environment variables
 env:
-  hugo_version: "0.130.0"
   source_dir: "./website"
   artifact_name: "website"
   condition_production: ${{ github.ref == 'refs/heads/main' }}
@@ -36,21 +35,18 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
           persist-credentials: false
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
-        with:
-          hugo-version: ${{ env.hugo_version }}
-          extended: true
+      - name: Setup required build tools with mise
+        uses: jdx/mise-action@1648a7812b9aeae629881980618f079932869151 # v4.0.1
 
       - name: Build production site
-        run: hugo -s ${{ env.source_dir }}
+        run: mise run build
         if: env.condition_production == 'true'
 
       - name: Build preview site
-        run: hugo -s ${{ env.source_dir }} -e staging --buildFuture --buildDrafts -b ${VARS_WEB_DOMAIN_PREVIEW}/${dir_preview_subdir}/
-        if: github.event.pull_request
         env:
           VARS_WEB_DOMAIN_PREVIEW: ${{ vars.WEB_DOMAIN_PREVIEW }}
+        run: mise run build-preview -b ${VARS_WEB_DOMAIN_PREVIEW}/${dir_preview_subdir}/
+        if: github.event.pull_request
 
       - name: Upload artifact
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
@@ -82,4 +78,4 @@ jobs:
           ssh_host: ${{ vars.WEB_SSH_HOST }}
           ssh_user: ${{ vars.WEB_SSH_USER }}
           ssh_key: ${{ secrets.SSH_KEY }}
-          linkchecker_exclude: "sncf.com,nge.flatland.cloud"
+          linkchecker_exclude: "https://github.com/orgs/OpenRailAssociation/projects/13,loomio.eu"

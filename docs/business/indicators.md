@@ -98,6 +98,6 @@ PowSyBl is a framework for modeling and simulation of the electric grid. It cont
 
 The project was founded by RTE, the operator of energy transmission infrastructure of France. After it was open sourced and put under the umbrella of LF Energy other organizations joined in and it was integrated by other projects as well.
 
-The project implements an [open governance model](https://www.powsybl.org/pages/overview/governance).
+The project implements an [open governance model](https://www.powsybl.org/pages/project/governance.html).
 
 There also is an interesting study from the context of this project about [best practices to handle open source in public contracts](https://lfenergy.org/wp-content/uploads/sites/18/2023/11/Note_OpenSource_CompetitionLaw_EN-1.1.pdf).
