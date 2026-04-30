@@ -1,0 +1,46 @@
+[settings]
+use_versions_host_track = false
+
+[tools]
+hugo-extended = "0.130.0"
+lychee = "0.24.1"
+
+[vars]
+source_dir = "website"
+build_dir = "public"
+preview_baseurl = "https://preview.openrailassociation.org/proj-pr-9999/"
+
+[tasks.cleanup]
+description = "Clean up the build destination directory"
+run = "rm -rf {{vars.source_dir}}/{{vars.build_dir}} || true"
+
+[tasks.build]
+depends = ["cleanup"]
+description = "Build the static site using Hugo"
+run = "hugo -s {{vars.source_dir}} -d {{vars.build_dir}}"
+
+[tasks.build-preview]
+depends = "cleanup"
+description = "Build the static site using Hugo, using subdirectory as baseURL for previewing"
+usage = '''
+flag "-b --baseurl <baseurl>" help="Hugo baseURL" default="{{vars.preview_baseurl}}"
+'''
+run = "hugo -s {{vars.source_dir}} -e staging --buildFuture --buildDrafts -b {{ usage.baseurl }}"
+
+[tasks.preview]
+depends = ["cleanup"]
+description = "Preview the site locally using Hugo's built-in server"
+run = "hugo -s {{vars.source_dir}} server"
+
+[tasks.linkcheck]
+depends = ["build"]
+description = "Check for broken links using lychee"
+run = '''
+lychee \
+  --max-concurrency 5 --cache --max-cache-age 1h \
+  --include-fragments --index-files 'index.html' \
+  --exclude https://github.com/orgs/OpenRailAssociation/projects/13 --exclude loomio.eu \
+  --root-dir {{vars.source_dir}}/{{vars.build_dir}}/ \
+  -u 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple WebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' \
+  {{vars.source_dir}}/{{vars.build_dir}}/
+'''
