@@ -21,9 +21,13 @@ A `feat` commit triggers a minor version bump, a `fix` commit triggers a patch b
 
 In addition, it's best practice to squash-merge pull requests to keep the commit history clean and ensure that the PR title serves as the commit message, which must also follow the Conventional Commits format.
 
+## Semantic Versioning
+
+OpenRail projects that publish releases should follow [Semantic Versioning](https://semver.org/), which defines a version format of `MAJOR.MINOR.PATCH` and rules for when to increment each part of the version number based on the types of changes introduced.
+
 ## release-please
 
-[release-please](https://github.com/googleapis/release-please) automates the release process by analysing the commit history. When commits following the Conventional Commits convention are merged to the default branch, release-please creates or updates a release pull request that bumps the version and updates the changelog. Merging that PR triggers the actual release (e.g. creating a Git tag, creating a GitHub release, and publishing to a package repository, if activated).
+[release-please](https://github.com/googleapis/release-please) automates the release process by analysing the commit history. When commits following the Conventional Commits convention are merged to the default branch, release-please creates or updates a release pull request that bumps the version (according to [Semantic Versioning](https://semver.org/)) and updates the changelog. Merging that PR triggers the actual release (e.g. creating a Git tag, creating a GitHub release, and publishing to a package repository, if activated).
 
 See [purl-tools](https://github.com/OpenRailAssociation/purl-tools) for a working example, including its `release-please-config.json`, `.release-please-manifest.json`, and release workflow `.github/workflows/release-please.yaml`.
 
