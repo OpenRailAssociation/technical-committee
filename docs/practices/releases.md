@@ -45,5 +45,5 @@ Many OpenRail projects are Python-based and publish their releases to [PyPI](htt
 You may see the workflow configuration in the [purl-tools repository](https://github.com/OpenRailAssociation/purl-tools/blob/main/.github/workflows/publish.yaml) as an example.
 
 In order to make this work, two things are necessary:
-1. You need to create a GitHub environment for teh repository, in the example called `pypi`.
+1. You need to create a GitHub environment for the repository, in the example called `pypi`.
 1. At pypi.org, you need to edit the Publishing settings of the package, and add a new publisher via GitHub. In the input field, you provide information about the repository and the publishing workflow.
