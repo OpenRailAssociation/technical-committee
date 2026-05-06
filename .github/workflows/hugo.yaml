@@ -65,7 +65,7 @@ jobs:
       pull-requests: write # required unless you explicitly set sticky_comment_enabled: false
       # deployments: write # required if gh_deployment is set
     steps:
-      - uses: OpenRailAssociation/web-deployment-action@ec2b90e1fe811972e5cee9861646360a7a4356ac # v1.3.0
+      - uses: OpenRailAssociation/web-deployment-action@866b5120138b7deddc2c1e3600bc897a39bd8c91 # v1.3.1
         with:
           artifact_name: ${{ env.artifact_name }}
           condition_production: ${{ env.condition_production }}
