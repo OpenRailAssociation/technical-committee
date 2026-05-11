@@ -22,6 +22,18 @@ To properly manage dependencies and potential risks, OpenRail projects should:
 
 There are numerous technical solutions that assist maintainers with these steps, e.g. [GitHub's Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide) or [Renovate](https://github.com/renovatebot/renovate). OpenRail doesn't mandate a specific solution but recommends to choose a popular, well-supported one.
 
+### When automated dependency updates are expected
+
+Automated dependency updates make sense if any of the following apply, with descending priority:
+
+- the project publishes release artifacts and is still maintained
+- the project is actively developed and has runtime, build, or CI dependencies
+- the project processes untrusted input (for example external pull requests) and therefore benefits from faster security patch adoption
+
+Dependency update automation can be relaxed for one-off or archived projects that are no longer maintained, as long as this status is clearly documented in `README.md`.
+
+To avoid noisy update traffic for projects with less attack surface, it might make sense to adapt the updater cadence to the project lifecycle (for example monthly schedules).
+
 ### Renovate at OpenRail
 
 For many OpenRail projects, we use Renovate for dependency management. OpenRail maintains a [shared Renovate configuration](https://github.com/OpenRailAssociation/renovate-config) that projects can extend.

@@ -52,9 +52,13 @@ Administrative projects follow the [security best practices]({{< relref "securit
 - **Vulnerability monitoring**: Run a weekly check of the latest release against vulnerability databases (for projects that publish releases)
 - **Security policy**: Provide a `SECURITY.md` as described in the [security practices]({{< relref "security#security-policy" >}})
 
+Depending on the type of the project, certain practices may be relaxed. Check the linked security practices document for indicators.
+
 ## Releases {#releases}
 
 Administrative projects automate their releases using [release-please](https://github.com/googleapis/release-please) and [Conventional Commits](https://www.conventionalcommits.org/). Since squash merging is enforced, the PR title serves as the commit message and must follow the Conventional Commits format. See [release practices]({{< relref "releases" >}}) for details and [purl-tools](https://github.com/OpenRailAssociation/purl-tools) for a working example.
+
+Depending on the project, this requirement can be relaxed. Check the linked release practices document for indicators.
 
 ## Licensing {#licensing}
 

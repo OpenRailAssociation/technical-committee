@@ -7,6 +7,19 @@ weight: 350
 
 It's a best practice for Open Source projects to automate their release process to reduce manual effort and maintain consistent, traceable changelogs. This relies on two complementary practices: a structured commit convention and a release automation tool.
 
+## When automated releases are expected
+
+Automated releases make sense if the project publishes release artifacts beyond the Git repository itself, for example:
+
+- package registry uploads (for example PyPI)
+- GitHub Releases with build artifacts
+- GitHub Marketplace actions
+- container images
+
+In these cases, users consume a packaged output, so reproducible and auditable release creation should be automated.
+
+If a repository is only consumed directly from Git (for example documentation or internal one-off tooling with no published artifacts), release automation can be optional.
+
 ## Conventional Commits
 
 All commits to the default branch must follow the [Conventional Commits](https://www.conventionalcommits.org/) specification:
