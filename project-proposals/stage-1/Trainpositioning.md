@@ -19,6 +19,8 @@ TP-Lib is valuable because:
 - It provides a full pipeline: GNSS input → candidate selection → probabilistic HMM path calculation → network projection → CSV/GeoJSON output.
 - It ships a browser-based interactive path review and editing tool (`tp-webapp`) so operators can correct the calculated path before final projection.
 - It exposes a CLI (`tp-cli`) for operational use, a Python API (`tp-lib` on PyPI) for integration in data science workflows and a .NET API (`TpLib` on NuGet, install via `dotnet add package TpLib`).
+- It integrates with the EU register of railway infrastructure (RINF) to download the micro network topology if the user doesn't have this at his disposal
+- It is build with common terminology as internationally recognised by models such as RTM, RSM, EULYNX, railML, ERA ontology, ...
 - It is thoroughly tested with 460 tests (unit, integration, contract, CLI, and doctests).
 
 ## Who are the maintainers of the project (these will be the primary contacts for the OpenRail Association)?
@@ -52,10 +54,11 @@ All third-party dependencies use permissive licenses compatible with Apache 2.0:
 - **MIT**: polars, proj4rs, tracing, PyO3 (Rust/Python crates)
 - **Apache-2.0**: Apache Arrow (Rust)
 - **BSD-2-Clause**: Leaflet.js (JavaScript, bundled in the web application)
+- **CDLA-Permissive-2.0**: webpki-root for CA
 
 No copyleft (GPL/LGPL) dependencies are used.
 
-A GitHub action has been configured to generate an SBOM and check the licenses as suggested by Openrail's onboarding manual.
+A [GitHub action](https://github.com/Matdata-eu/tp-lib/actions/workflows/sbom.yml) has been configured to generate an SBOM and check the licenses as suggested by Openrail's onboarding manual.
 
 ## Are any trademarks associated with the project?
 
@@ -63,11 +66,11 @@ No
 
 ## Does the project have a web site? Where is it? Are you ok with moving it to be hosted by the OpenRail Association?
 
-The project has a documentation site hosted on GitHub Pages at https://matdata-eu.github.io/tp-lib/ specifically about the Rust. This will need to be moved when the Github repository is moved.
+The project has a documentation site hosted on GitHub Pages at https://matdata-eu.github.io/tp-lib/ specifically about the Rust. This will need to be moved when the Github repository is moved. Other documentation is available as README.md file in the repository root and it's individual packages (such as the python, .net, and webapp dependencies)
 
 ## What are the communication channels the project uses (such as mailing lists, Slack, IRC, etc.)?
 
-Communication currently happens through GitHub: Issues for bug reports and feature requests, and Pull Requests for code contributions. There are no mailing lists, Slack workspaces, or other channels at this time.
+Communication happens through GitHub: Issues for bug reports and feature requests, and Pull Requests for code contributions. There are no mailing lists, Slack workspaces, or other channels at this time.
 
 ## What is the project's leadership team and decision-making process?
 
@@ -87,15 +90,17 @@ Development is organized openly by the Maintainers under written public procedur
 
 ## What is the project's roadmap?
 
-After the project refactoring and extensive testing, no further development is planned at this time.
+After the project refactoring and extensive testing, no further development is planned at this time. Depending on the community, two principle points could be addressed:
+- Longitudal distribution of the GNSS projected points based on wheel sensor (odometry) or timestamp/speed
+- Input/output to RSM-DX
 
 ## What other organizations in the world should be interested in this project?
 
-All organisations that use railway vehicles with GNSS traces that need to be mapped on the network. But the project can also be used as a guideline for organisations that want to post processes location measurements for other domains that include topology and navigability.
+All organisations that use railway vehicles with GNSS traces that need to be mapped on the network offboard. But the project can also be used as a guideline for organisations that want to post processes location measurements for other domains that include topology and navigability.
 
 ## Why would this project be a good candidate for inclusion in the OpenRail Association?
 
-Because all infra managers do this and should better do it together.
+Because all railway infrastructure managers do this and should better do it together.
 
 ## Are there competing products or projects? If there are, please explain how the proposed projects differentiates.
 
@@ -103,7 +108,7 @@ Not that we know of.
 
 ## What standards does the project implement or rely on? How are they related to other existing standards?
 
-Topology and navigability is also defined by several other railway related standards. But they are very loosely related. Examples include: RailTopoModel, RailSystemModel, railML, RINF.
+Topology and navigability is also defined by several other railway related standards. But they are very loosely related. Examples include: RailTopoModel, RailSystemModel, railML, ERA ontology.
 
 ## What is the tech stack of the project? Name the major programming languages and frameworks which are used.
 
