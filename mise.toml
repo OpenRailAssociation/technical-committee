@@ -2,7 +2,7 @@
 use_versions_host_track = false
 
 [tools]
-hugo-extended = "0.162.0"
+hugo-extended = "0.162.1"
 lychee = "0.24.2"
 
 [vars]
