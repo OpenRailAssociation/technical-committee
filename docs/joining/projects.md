@@ -14,11 +14,8 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 
 * **Open Source Railway Designer (OSRD)** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/osrd.md)), accepted by vote of the board on 2024-02-02, ([stage 2 questionnaire](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-2/osrd.md)), advanced to stage 2 by decision of the technical committee on [2025-02-25](https://github.com/OpenRailAssociation/technical-committee/blob/main/meetings/2025-02-25.md))
   * https://github.com/OpenRailAssociation/osrd
-  * https://github.com/OpenRailAssociation/osrd-ui
   * https://github.com/OpenRailAssociation/osrd-design
   * https://github.com/OpenRailAssociation/osrd-website
-  * https://github.com/OpenRailAssociation/osrd-chart
-  * https://github.com/OpenRailAssociation/osrd-images
 
 ## Stage 1
 
@@ -43,10 +40,14 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 There are some projects within OpenRail Association outside of the railway and transportation domain. They are used for managing the technical infrastructure of the OpenRail Association or for general purposes of the organization. They do not follow the incubation process but follow best practices depending on their criticality.
 
 * [annual-report](https://github.com/OpenRailAssociation/annual-report), sources for annual reports of the OpenRail Association
+* [authentik-user-manager](https://github.com/OpenRailAssociation/authentik-user-manager), manage users and their groups on Authentik instances by local configuration YAML files
 * [compliance-assistant](https://github.com/OpenRailAssociation/compliance-assistant), helping with tasks for license reviews, e.g. creating and enriching SBOMs
 * [FOSDEM](https://github.com/OpenRailAssociation/FOSDEM) for organizing the "Railways and Open Transportation" devroom at the FOSDEM conference
 * [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager) to manage permissions and settings in a GitHub organization
+* [hack4rail-website](https://github.com/OpenRailAssociation/hack4rail-website), website for Hack4Rail, the international hackathon for and by the railway sector (formerly known as Dreiländerhack)
 * [landscape](https://github.com/OpenRailAssociation/landscape), and experimental overview of Open Source projects in railways and transportation
+* [nextcloud-forms-to-tables](https://github.com/OpenRailAssociation/nextcloud-forms-to-tables), convert Nextcloud Forms submissions to Nextcloud Table rows
+* [openrail-ai-toolkit](https://github.com/OpenRailAssociation/openrail-ai-toolkit), material, templates, instructions, and tools useful when working with AI agents on OpenRail topics
 * [openrail-ansible](https://github.com/OpenRailAssociation/openrail-ansible), Ansible playbooks for managing OpenRail's infrastructure
 * [openrail-dns](https://github.com/OpenRailAssociation/openrail-dns), domain records configuration for some of OpenRail's domains
 * [openrail-metrics](https://github.com/OpenRailAssociation/openrail-metrics), repo for generating quarterly OpenRail metrics reports
@@ -55,4 +56,6 @@ There are some projects within OpenRail Association outside of the railway and t
 * [purl-tools](https://github.com/OpenRailAssociation/purl-tools), library for handling Package URLs, mainly used by compliance-assistant
 * [renovate-config](https://github.com/OpenRailAssociation/renovate-config), the repo for OpenRail's Renovate Bot configuration presets
 * [technical-committee](https://github.com/OpenRailAssociation/technical-committee), the repo for OpenRail's Technical Committee
+* [web-deployment-action](https://github.com/OpenRailAssociation/web-deployment-action), GitHub Action for preview and deployment of website to an external host via SCP/SSH
 * [website](https://github.com/OpenRailAssociation/website), the sources of the [OpenRail Association's website](https://openrailassociation.org)
+* [wg-project-scouting](https://github.com/OpenRailAssociation/wg-project-scouting), landing place for the Project Scouting Working Group (PSWG) of OpenRail Association
