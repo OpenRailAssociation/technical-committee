@@ -10,5 +10,6 @@ We generally orient ourselves at general good practices from the Open Source com
 
 * [DCO]({{< relref dco >}})
 * [publiccode.yml]({{< relref publiccode-yml >}})
+* [Automated Releases]({{< relref releases >}})
 * [REUSE]({{< relref reuse >}})
 * [Security]({{< relref security >}})
