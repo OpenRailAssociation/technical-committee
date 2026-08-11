@@ -11,7 +11,8 @@ assignees: ''
 * [ ] Plan meeting with maintainers to discuss onboarding and clear expectations, and plan next steps
 * [ ] Add project representative to Technical Committee
   * [ ] Add to invitation for weekly meeting
-  * [ ] Add to [official list of members](https://github.com/OpenRailAssociation/technical-committee/blob/main/README.md#members) 
+  * [ ] Add to [official list of members](https://github.com/OpenRailAssociation/technical-committee/blob/main/README.md#members)
+  * [ ] Add to the TC mailing list
 * [ ] Move repositories to OpenRail Association organization on GitHub
   * [ ] License review (see https://github.com/OpenRailAssociation/compliance-assistant)
   * [ ] Move the repos
