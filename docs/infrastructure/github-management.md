@@ -32,6 +32,10 @@ org1 → admin org1 → admin org2 → org2
 
 When the project is moved the git repo is moved and all data such as issues, pull requests, etc. GitHub sets up a redirect from the old repo to the new one, but it's advisable to adjust links and configuration to the new location. Especially the remote in local git checkouts should be set to the new location.
 
+After the transfer, the repository needs to be added to [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config) so that team permissions are set up correctly (see [Members, teams, and permissions](#members-teams-and-permissions) below).
+
+Note that CI/CD pipelines (GitHub Actions secrets, deployment configurations) don't transfer with the repository and need to be set up fresh in the receiving organization.
+
 See the [GitHub documentation on transferring a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) for more details.
 
 ## Members, teams, and permissions
