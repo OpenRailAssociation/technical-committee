@@ -33,7 +33,7 @@ This is the list of projects accepted as OpenRail Association projects. Projects
 * **liblrs** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/liblrs.md)), accepted by vote of the board on 2024-07-12
   * https://github.com/OpenRailAssociation/liblrs
 * **MscViewer** ([proposal](https://github.com/OpenRailAssociation/technical-committee/pull/321)), accepted by vote of the board on 2026-06-10
-  * https://github.com/greenstones-gmbh/msc-viewer
+  * https://github.com/OpenRailAssociation/msc-viewer
 
 ## Administrative Projects
 
