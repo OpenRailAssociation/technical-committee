@@ -16,6 +16,28 @@ On the [project list]({{< relref "projects" >}}) we list all repositories which 
 
 Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g., for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
 
+## Moving repositories
+
+When onboarding OpenRail projects a key step is moving the repositories to the [OpenRailAssociation](https://github.com/OpenRailAssociation/) organization. The procedure depends on where the repo is coming from.
+
+When moving repos between organizations there is the challenge that it requires admin access on both sides. So there is an intermediate step required to make the transfer possible without weakening the protection of the organization.
+
+When moving a repo from a personal account to the OpenRail org, first transfer it to the personal account of an admin of the org, and then the admin can move it to the org.
+
+When it's coming from another org, an additional step is necessary, because GitHub doesn't allow moving projects from an org to a personal account of a non-admin. So the org admin of the originating org first has to move it to their personal account, then move it to the personal account of the admin of OpenRail.
+
+To summarize, moving the repo from one org to another, it needs to flow this way:
+
+org1 → admin org1 → admin org2 → org2
+
+When the project is moved the git repo is moved and all data such as issues, pull requests, etc. GitHub sets up a redirect from the old repo to the new one, but it's advisable to adjust links and configuration to the new location. Especially the remote in local git checkouts should be set to the new location.
+
+After the transfer, the repository needs to be added to [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config) so that team permissions are set up correctly (see [Members, teams, and permissions](#members-teams-and-permissions) below).
+
+Note that CI/CD pipelines (GitHub Actions secrets, deployment configurations) don't transfer with the repository and need to be set up fresh in the receiving organization.
+
+See the [GitHub documentation on transferring a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) for more details.
+
 ## Members, teams, and permissions
 
 For the OpenRail organization, all members, teams, and repository permissions are managed in the [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config) repository. The settings managed there will be synchronised using [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager). That means, if you want to yourself or another maintainer to become a member of the OpenRail organization on GitHub and configure permissions, you must do that via a pull request to [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config).
