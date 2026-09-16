@@ -6,13 +6,13 @@ OpenRail Association runs a number of email addresses via which people can reach
 
 We use Uberspace to create email accounts and redirections. All configurations are done via the Uberspace web interface. The credentials for email accounts are stored in our password manager and only shared with the respective users.
 
-### Redirections and forwards
+### Redirections and forwards {#redirections}
 
 We can configure certain addresses such as `techadmin@openrailassociation.org` to forward received emails to another address. In most instances, this is one or multiple persons individually (e.g. the Technical Infrastructure Manager). In some cases, these are forward to mailing lists (e.g. `technical-committee@openrailassociation.org` to `technical-committee@lists.openrailassociation.org`).
 
 It can also be configured whether behind this address, there is a mailbox or not (see below). If there is no mailbox, emails are only forwarded and not stored on the server. We prefer having a mailbox for each address, even if it is only used for forwarding, to have a backup in case of issues with the forwarding and to be able to access the emails via IMAP if needed.
 
-### Mailboxes
+### Mailboxes {#mailboxes}
 
 We can create proper mailboxes (email accounts) on Uberspace that can be access via IMAP and the [webmail interface](https://webmail.uberspace.de/). This is primarily used if someone needs/wants to have a dedicated, official email address for receiving and sending emails. Regarding naming, we prefer the format `firstname.lastname@openrailassociation.org` for individual accounts.
 
@@ -24,7 +24,7 @@ Password: (as stored in our password manager and communicated to the respective 
 IMAP Port: `993` (SSL)\
 SMTP Port: `587` (STARTTLS) / `465` (SSL)
 
-## Mailing lists (Mailman3)
+## Mailing lists (Mailman3) {#lists}
 
 If the recipient group is sufficiently large, we prefer proper mailing lists over forwards. This allows for more fine-grained configuration of who can contact this group, and has advantages when dealing with anti-spam techniques such as SPF, DKIM and DMARC which often trigger when just using forwards.
 
