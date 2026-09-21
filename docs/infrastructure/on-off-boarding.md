@@ -43,8 +43,7 @@ This guide does not contain all the administrative, financial, and legal steps r
 
 In the following table, we document the recommended system accesses for common roles within the OpenRail Association.
 
-> [!WARNING]
-> There may be valid reasons why a person requires different access than what is listed here. Carefully assess every system, **especially during offboarding**.
+> ⚠️ There may be valid reasons why a person requires different access than what is listed here. Carefully assess every system, **especially during offboarding**.
 
 | System                                      | Board Member | Team Member | WG Member | TC Member |
 | ------------------------------------------- | ------------ | ----------- | --------- | --------- |
