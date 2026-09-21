@@ -36,7 +36,7 @@ If the new organization sends a representative to join the board, follow the [st
 
 ### Administrative
 
-This guide does not contain all the administrative, financial, and legal steps required for onboarding a new member organization as this is documented internally and elsewhere.
+This guide does not contain all the administrative, financial, and legal steps required for onboarding a new member organization. This is documented internally and a responsibility of the OpenRail Team.
 
 
 ## People {#people}
@@ -57,7 +57,7 @@ In order to provide the person access to OpenRail's Nextcloud and Matrix, they m
 
 ### Website
 
-Depending on the role, the person might need to be added to the website. See [this pull request](https://github.com/OpenRailAssociation/website/pull/189) as an example.
+If the new person is a member of the board or the OpenRail team, they need to be added to the website. See [this pull request](https://github.com/OpenRailAssociation/website/pull/189) as an example.
 
 Usually, you need the following information:
 
@@ -69,9 +69,9 @@ Usually, you need the following information:
 
 ### Technical Committee {#tc-member}
 
-Any TC member is listed on [Technical Committee > Members]({{< relref "members" >}}). Add a new TC member on this page.
+Any TC member is listed on [Technical Committee > Members]({{< relref "members" >}}). Add a new TC member on this page. The onboarding of members of the Technical Committee is part of the [onboarding process]({{< relref "onboarding" >}}) for new projects.
 
-**Offboarding**: Remove the person from the Technical Committee page. Unless the associated project is stopped, add the successor.
+**Offboarding**: Remove the person from the Technical Committee page, the technical-committee mailing list and the Signal group. Adjust GitHub permissions accordingly. Unless the associated project is stopped, add the successor.
 
 ### Instant Messaging
 
@@ -83,7 +83,7 @@ The person might need access to certain instant messaging platforms, such as Mat
 
 Especially board and team members use our [e-decision platform]({{< relref "infrastructure#e-decisions" >}}). Make sure to grant them access when they join and revoke it when they leave.
 
-**Offboarding**: Delete the person's account from the e-decision platform.
+**Offboarding**: Delete the person's account from the e-decision platform if they completely stopped their involvement in OpenRail. Otherwise, adjust their team memberships / roles as needed.
 
 ### Email Accounts
 
@@ -97,7 +97,7 @@ Depending on the persons role, they may need to become member of one or more mai
 
 In some cases, email distributions happens via forwards set up on the main email accounts. See [Redirections and forwards]({{< relref "email#redirections" >}}) for documentation on how to manage this.
 
-**Offboarding**: Search for the person's email(s) in the mailing lists system and remove them. The same applies to the redirections in the email dashboard.
+**Offboarding**: Search for the person's email(s) in the mailing lists system (see the "Users" tab in the list management UI) and remove them. The same applies to the redirections in the email dashboard.
 
 ### Hosting Services
 
