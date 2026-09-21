@@ -105,6 +105,12 @@ Depending on the role, the person might need access to projects at Hetzner or ot
 
 **Offboarding**: Revoke access to all such services. If this involved sharing passwords, rotate them.
 
+### Sharepoint
+
+For historical reasons, the OpenRail Team uses Sharepoint for document management in some cases. We are using a Sharepoint provided by SNCF, the permission management is handled via SNCF employees in the OpenRail Team.
+
+**Offboarding**: Contact the responsible SNCF employees managing the Sharepoint permissions to remove the person's access.
+
 ### Passwords and Access to Other Services {#passwords}
 
 Depending on the role, the persons might need access to other services. Some examples:
