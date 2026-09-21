@@ -23,6 +23,10 @@ The *Technical Infrastructure Manager*, part of the OpenRail Team, is responsibl
 
 The current Technical Infrastructure Manager is Max Mehl ([@mxmehl](https://github.com/mxmehl)). He is assisted by Cornelius Schumacher ([@cornelius](https://github.com/cornelius)).
 
+## On-/Off-Boarding
+
+If people join or leave the organization, the [On- and Off-Boarding]({{< relref "on-off-boarding" >}}) document should be followed to ensure proper handling of accesses to the systems that are documented below.
+
 ## Domains
 
 OpenRail Association registers and manages all of its domains via [INWX](https://www.inwx.com/), a Germany-based domain registrar. This also contains domains by OpenRail projects.
@@ -55,7 +59,7 @@ In addition to the official GitHub organization, there is an organization for ex
 
 We have a number of systems to manage our email addresses and mailing lists. Please see the document about [Emails and Mailing Lists]({{< relref "email" >}}) for guidance and details.
 
-## Passwords
+## Passwords {#passwords}
 
 For the several services we are using, some require dedicated accounts and passwords, while others are ties to existing user accounts, e.g. GitHub.
 
@@ -79,7 +83,7 @@ The user management is done via our Identity Provider.
 
 The service can be accessed via [element.openrailassociation.org](https://element.openrailassociation.org).
 
-## e-decisions
+## e-decisions {#e-decisions}
 
 For asynchronous decision making we use [Loomio](https://loomio.eu). It's an open source tool hosted in Europe which is built for supporting digital discussions and decision making in collaborative organizations. We refer to that as e-decisions. See the [Loomio]({{< relref "loomio" >}}) for the details and convention we have agreed on how we use the tool.
 
