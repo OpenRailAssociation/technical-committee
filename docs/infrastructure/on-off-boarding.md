@@ -16,7 +16,6 @@ As a checklist for onboard new projects, we have an [issue template](https://git
 
 **Offboarding**: For retiring a project, required steps will be documented under [Incubation Stages > Retired]({{< relref "retired" >}})
 
-
 ## Members {#members}
 
 If a new organization becomes member of OpenRail, these are the steps to follow for proper onboarding:
@@ -38,8 +37,30 @@ If the new organization sends a representative to join the board, follow the [st
 
 This guide does not contain all the administrative, financial, and legal steps required for onboarding a new member organization. This is documented internally and a responsibility of the OpenRail Team.
 
-
 ## People {#people}
+
+### Default Roles
+
+In the following table, we document the recommended system accesses for common roles within the OpenRail Association.
+
+> [!WARNING]
+> There may be valid reasons why a person requires different access than what is listed here. Carefully assess every system, **especially during offboarding**.
+
+| System                                      | Board Member | Team Member | WG Member | TC Member |
+| ------------------------------------------- | ------------ | ----------- | --------- | --------- |
+| [GitHub](#github)                           | ❌           | ✅          | ✅        | ✅        |
+| [Identity Provider](#identity-provider)     | ❌           | ✅          | ⚖️        | ⚖️        |
+| [Website](#website)                         | ✅           | ✅          | ❌        | ❌        |
+| [Technical Committee](#tc-member)           | ❌           | ❌          | ❌        | ✅        |
+| [Instant Messaging](#chats)                 | ❌           | ✅          | ⚖️        | ✅        |
+| [E-decision](#e-decision)                   | ✅           | ✅          | ❌        | ❌        |
+| [Email Accounts](#email-accounts)           | ❌           | ⚖️          | ❌        | ❌        |
+| [Email Lists and Forwardings](#email-lists) | ⚖️           | ✅          | ⚖️        | ✅        |
+| [Hosting Services](#hosting)                | ❌           | ❌          | ❌        | ⚖️        |
+| [SharePoint](#sharepoint)                   | ❌           | ✅          | ❌        | ❌        |
+| [Passwords / Other](#passwords)             | ❌           | ⚖️          | ❌        | ❌        |
+
+_Legend: ✅ - Typically yes; ❌ - Typically no; ⚖️ - Depends_
 
 ### GitHub
 
@@ -73,25 +94,25 @@ Any TC member is listed on [Technical Committee > Members]({{< relref "members" 
 
 **Offboarding**: Remove the person from the Technical Committee page, the technical-committee mailing list and the Signal group. Adjust GitHub permissions accordingly. Unless the associated project is stopped, add the successor.
 
-### Instant Messaging
+### Instant Messaging {#chats}
 
 The person might need access to certain instant messaging platforms, such as Matrix rooms (using the Matrix account coming with an OpenRail account or their own one) or Signal chats (via their phone number), depending on their role within the organization.
 
 **Offboarding**: Search in these chats for the person and remove them.
 
-### E-decision
+### E-decision {#e-decision}
 
 Especially board and team members use our [e-decision platform]({{< relref "infrastructure#e-decisions" >}}). Make sure to grant them access when they join and revoke it when they leave.
 
 **Offboarding**: Delete the person's account from the e-decision platform if they completely stopped their involvement in OpenRail. Otherwise, adjust their team memberships / roles as needed.
 
-### Email Accounts
+### Email Accounts {#email-accounts}
 
 Depending on the position, the person might want to use a dedicated OpenRail email account. See [Mailboxes]({{< relref "email#mailboxes" >}}) for documentation on how to set it up.
 
 **Offboarding**: You probably should not delete the mailbox to catch any important emails that might still be sent to it. Instead, consider setting up a forward to another address or person(s) AND rotate the credentials.
 
-### Email Lists and Forwardings
+### Email Lists and Forwardings {#email-lists}
 
 Depending on the persons role, they may need to become member of one or more mailing lists. See [Mailing lists]({{< relref "email#lists" >}}) for documentation on how to manage this.
 
@@ -99,7 +120,7 @@ In some cases, email distributions happens via forwards set up on the main email
 
 **Offboarding**: Search for the person's email(s) in the mailing lists system (see the "Users" tab in the list management UI) and remove them. The same applies to the redirections in the email dashboard.
 
-### Hosting Services
+### Hosting Services {#hosting}
 
 Depending on the role, the person might need access to projects at Hetzner or other providers.
 
