@@ -2,12 +2,7 @@
 
 ##  What is the project's name?
 
-GTFS Editor
-
-> Currently hosted at edit.gtfs.zone, maybe could be called "GTFS Zone
-> Editor"... But maybe that's actually more confusing? Can also be called
-> "coloring-book", which is the original name of the git repo, but this also
-> doesn't provide much information. I'm open to ideas.
+GTFS.zone Editor
 
 ## Describe the project. What does the project do, why is it valuable, where does it come from?
 
@@ -32,19 +27,14 @@ was the second. See more here: <https://max.kcfam.us/blog/writing-gtfs/>
 
 ## Where is the code hosted?
 
-- Main origin: <https://git.kcfam.us/gtfs.zone/coloring-book>
-- Mirror: <https://github.com/gtfs-zone/coloring-book>
+<https://github.com/gtfs-zone/gtfs-zone-editor>
 
-> I honestly have no idea why I have it hosted on my own git server (it's fun
-> to run I guess) but the github mirror makes it easier for people to make
-> PRs and issues, etc.
+The sibling repositories in the `gtfs-zone` org are all related
 
 ## Which exact repositories do you intend to transfer to the GitHub organization of the OpenRail Association?
 
-I'm not sure... I would be open to ideas on what to do here. I have two
-primary static frontends, viz.rt.gtfs.zone and edit.gtfs.zone (this project)
-that both use the `interlocking` repo as a frontend library. Maybe one? Maybe
-all? They are all tools in one family.
+I have set it up in a way that it could be transferred easily, and would like to
+discuss this further.
 
 ## What is the project's main license?
 
@@ -52,7 +42,8 @@ AGPL-3.0
 
 ## What other licenses does the project use, e.g. for included 3rd party code?
 
-Everything is AGPL-3.0
+- CC-BY-4.0: GOVERNANCE.md, MAINTAINERS.md and CODE_OF_CONDUCT.md
+- Apache-2.0: The GTFS Schedule reference vendored from google/transit
 
 ## Are any trademarks associated with the project?
 
