@@ -16,7 +16,7 @@ On the [project list]({{< relref "projects" >}}) we list all repositories which 
 
 Note that all repositories in OpenRail must be public and only contain material licensed under an Open Source license. If you need a space for private/sensible information, e.g., for deployment, you must do that elsewhere. However, all information in order to run/deploy your project must in some way be transparent to the public.
 
-## Members, teams, and permissions
+## Members, teams, and permissions {#permissions}
 
 For the OpenRail organization, all members, teams, and repository permissions are managed in the [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config) repository. The settings managed there will be synchronised using [github-org-manager](https://github.com/OpenRailAssociation/github-org-manager). That means, if you want to yourself or another maintainer to become a member of the OpenRail organization on GitHub and configure permissions, you must do that via a pull request to [openrail-org-config](https://github.com/OpenRailAssociation/openrail-org-config).
 
