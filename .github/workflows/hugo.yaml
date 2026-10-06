@@ -62,8 +62,8 @@ jobs:
     runs-on: ubuntu-26.04
     permissions:
       contents: read
-      pull-requests: write # required unless you explicitly set sticky_comment_enabled: false
-      # deployments: write # required if gh_deployment is set
+      # pull-requests: write # required unless you explicitly set sticky_comment_enabled: false
+      deployments: write # required if gh_deployment is set
     steps:
       - uses: OpenRailAssociation/web-deployment-action@15db0cd2a5f995e282b6a59e9c252313ab0337a3 # v1.4.1
         with:
@@ -79,3 +79,6 @@ jobs:
           ssh_user: ${{ vars.WEB_SSH_USER }}
           ssh_key: ${{ secrets.SSH_KEY }}
           linkchecker_exclude: "https://github.com/orgs/OpenRailAssociation/projects/13,loomio.eu"
+          linkchecker_cache_age: "1d"
+          sticky_comment_enabled: false
+          gh_deployment: website-deployment
