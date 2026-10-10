@@ -27,7 +27,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -36,7 +36,7 @@ jobs:
           persist-credentials: false
 
       - name: Setup required build tools with mise
-        uses: jdx/mise-action@3c2e0cf82a5b2e5249f0d3635a4d83d0ae861518 # v4.2.5
+        uses: jdx/mise-action@2d8d4cafcbd33be2ea37d2b6f5ad595363d1f1ca # v5.1.1
 
       - name: Build production site
         run: mise run build
@@ -59,11 +59,11 @@ jobs:
   deploy:
     name: Deploy website
     needs: build
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     permissions:
       contents: read
-      pull-requests: write # required unless you explicitly set sticky_comment_enabled: false
-      # deployments: write # required if gh_deployment is set
+      # pull-requests: write # required unless you explicitly set sticky_comment_enabled: false
+      deployments: write # required if gh_deployment is set
     steps:
       - uses: OpenRailAssociation/web-deployment-action@15db0cd2a5f995e282b6a59e9c252313ab0337a3 # v1.4.1
         with:
@@ -79,3 +79,6 @@ jobs:
           ssh_user: ${{ vars.WEB_SSH_USER }}
           ssh_key: ${{ secrets.SSH_KEY }}
           linkchecker_exclude: "https://github.com/orgs/OpenRailAssociation/projects/13,loomio.eu"
+          linkchecker_cache_age: "1d"
+          sticky_comment_enabled: false
+          gh_deployment: website-deployment
