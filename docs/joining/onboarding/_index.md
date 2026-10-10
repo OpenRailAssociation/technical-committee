@@ -10,3 +10,5 @@ Once an Open Source project officially is accepted as OpenRail project, it goes 
 There is an [onboarding checklist](https://github.com/OpenRailAssociation/technical-committee/blob/main/.github/ISSUE_TEMPLATE/onboarding-new-project.md) which defines the steps to be done during onboarding in detail. The Technical Committee assigns a person as **onboarding partner** which works with the representative of the project through the checklist. [Onboarding progress](https://github.com/OpenRailAssociation/technical-committee/issues?q=is%3Aissue+is%3Aopen+label%3AOnboarding) is tracked on GitHub as issues.
 
 Part of the onboarding is a [license review]({{< relref license-review >}}) to make sure that all code hosted by the OpenRail Association is Open Source and there are no other licensing issues.
+
+Depending on the status of the project the onboarding will mean moving one or more existing repositories or create new ones. Details about how repositories are handled in the OpenRailAssociation organization are documented in the section about [GitHub Management]({{< relref github-management >}}).
