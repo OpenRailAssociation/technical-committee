@@ -29,12 +29,25 @@ was the second. See more here: <https://max.kcfam.us/blog/writing-gtfs/>
 
 <https://github.com/gtfs-zone/gtfs-zone-editor>
 
-The sibling repositories in the `gtfs-zone` org are all related
-
 ## Which exact repositories do you intend to transfer to the GitHub organization of the OpenRail Association?
 
-I have set it up in a way that it could be transferred easily, and would like to
-discuss this further.
+As a first step, [gtfs-zone-editor](https://github.com/gtfs-zone/gtfs-zone-editor).
+
+The editor is part of the wider GTFS.zone ecosystem in the
+[gtfs-zone](https://github.com/gtfs-zone) organization, which I also maintain
+and may propose for inclusion later, for example:
+
+- **gtfs-zone-rt-viewer**: map viewer for GTFS Realtime feeds (vehicle
+  positions, trip updates and alerts)
+- **gtfs-zone-rt-manager**: map-first manager for realtime feeds, trackers and
+  service alerts
+- **gtfs-zone-feed-list**: list and world map of public GTFS and GTFS Realtime
+  feeds
+- **gtfs-zone-web-common**: shared TypeScript UI, map and GTFS modules used by
+  the web apps
+
+The exact list and timing of additional repositories would be discussed during
+onboarding.
 
 ## What is the project's main license?
 
