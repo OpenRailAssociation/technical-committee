@@ -34,6 +34,8 @@ This is the list of projects accepted as OpenRail Association projects. Projects
   * https://github.com/OpenRailAssociation/liblrs
 * **MscViewer** ([proposal](https://github.com/OpenRailAssociation/technical-committee/pull/321)), accepted by vote of the board on 2026-06-10
   * https://github.com/OpenRailAssociation/msc-viewer
+* **OSCAL4Rail** ([proposal](https://github.com/OpenRailAssociation/technical-committee/blob/main/project-proposals/stage-1/oscal4rail.md)), accepted by vote of the board on 2026-09-30
+  * https://github.com/OpenRailAssociation/oscal4rail
 
 ## Administrative Projects
 
