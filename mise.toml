@@ -2,8 +2,9 @@
 use_versions_host_track = false
 
 [tools]
-hugo-extended = "0.169.0"
+hugo = "0.170.0"
 lychee = "0.24.2"
+"github:sass/dart-sass" = "1"
 
 [vars]
 source_dir = "website"
