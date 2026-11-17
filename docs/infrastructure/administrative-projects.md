@@ -45,7 +45,7 @@ The CI test workflow must run at minimum:
 
 ## Security Practices {#security}
 
-Administrative projects follow the [security best practices]({{< relref "security" >}}), which includes the following mandatory items:
+Administrative projects follow the [security best practices]({{< relref "security" >}}), which include the following mandatory items:
 
 - **Dependency management**: Use [Renovate](https://github.com/OpenRailAssociation/renovate-config) extending the shared OpenRail configuration for automated dependency updates and pinned action digests
 - **CI workflow security**: Run [zizmor]({{< relref "security#ci-workflow-security" >}}) to detect security issues in GitHub Actions workflows
