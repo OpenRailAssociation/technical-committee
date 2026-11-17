@@ -14,6 +14,7 @@ The current members of the Technical Committee are:
 * [Adrian Egli](https://github.com/aiAdrian) (Netzgrafik-Editor)
 * [Tristram Gräbener](https://github.com/Tristramg) (liblrs)
 * [Artem Grinstein](https://github.com/artfh) (MscViewer)
+* [Jens Grote](https://github.com/JensGrote) (OSCAL4Rail)
 * [Loic Hamelin](https://github.com/loic-hamelin) (SNCF Réseau, appointed)
 * [Cornelius Schumacher](https://github.com/cornelius) (DB Systel, appointed)
 * [Peter Keller](https://github.com/Keller-Peter) (SBB, appointed)
