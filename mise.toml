@@ -2,7 +2,7 @@
 use_versions_host_track = false
 
 [tools]
-hugo = "0.170.0"
+hugo = "0.170.1"
 lychee = "0.24.2"
 "github:sass/dart-sass" = "1"
 
