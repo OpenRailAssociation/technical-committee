@@ -3,7 +3,6 @@ use_versions_host_track = false
 
 [tools]
 hugo = "0.170.1"
-lychee = "0.24.2"
 "github:sass/dart-sass" = "1"
 
 [vars]
@@ -36,6 +35,7 @@ run = "hugo -s {{vars.source_dir}} server"
 [tasks.linkcheck]
 depends = ["build"]
 description = "Check for broken links using lychee"
+tools = { lychee = "0.24.2" }
 run = '''
 lychee \
   --max-concurrency 5 --cache --max-cache-age 1h \
